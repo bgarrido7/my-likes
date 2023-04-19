@@ -1,9 +1,24 @@
-# My Likes
+# my-likes
 
-Hello There :wave:
+## Project setup
+```
+npm install
+```
 
-This is a simple website that I made featuring things I like, ranging from Movies to Video Games
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-This was an idea that I had and tryied to execute it using a framework that I haven't worked with before, in this case Vue.js
+### Compiles and minifies for production
+```
+npm run build
+```
 
-Check it Out :point_right: [Here](https://bgarrido7.github.io/my-likes/)
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

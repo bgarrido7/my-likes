@@ -12,3 +12,9 @@ Check it Out :point_right: [Here](https://bgarrido7.github.io/my-likes/)
 ```bash
 npm run serve
 ```
+
+## Deploy to page
+
+```bash
+npm run deploy
+```

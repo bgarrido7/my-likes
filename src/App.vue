@@ -1,11 +1,14 @@
 <template>
   <HelloWorld msg="my-navbar"/>
-  <MyPage msg="my-page"/>
+  <!-- <OscarsPredic msg="oscars"/> -->
+  <UnderConstruct msg="construct"/>
 </template>
 
 <script>
+
 import HelloWorld from './components/HelloWorld.vue'
-import MyPage from './components/MyPage.vue'
+import UnderConstruct from './components/UnderConstruct.vue'
+// import OscarsPredic from './components/oscars/Oscars.vue'
 
 export default {
   name: 'App',
@@ -14,7 +17,8 @@ export default {
   },
   components: {
     HelloWorld,
-    MyPage
+    // OscarsPredic,
+    UnderConstruct
   },
 }
 </script>

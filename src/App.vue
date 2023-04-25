@@ -9,6 +9,9 @@ import MyPage from './components/MyPage.vue'
 
 export default {
   name: 'App',
+  created () {
+    document.title = "My Likes";
+  },
   components: {
     HelloWorld,
     MyPage

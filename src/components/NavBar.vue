@@ -1,31 +1,31 @@
 <template>
   <nav>
     <ul>
-      <a href="#Oscars">
+      <router-link to="/oscars">
         <li>Oscars 🏆</li>
-      </a>
-      <a href="#Movies">
+      </router-link>
+      <router-link to="/movies">
         <li>Movies</li>
-      </a>
-      <a href="#Shows">
+      </router-link>
+      <router-link to="/shows">
         <li>Tv Shows</li>
-      </a>
-      <a href="#Anime">
+      </router-link>
+      <router-link to="/anime">
         <li>Anime</li>
-      </a>
-      <a href="#Games">
+      </router-link>
+      <router-link to="/games">
         <li>Video Games</li>
-      </a>
-      <a href="#Board">
+      </router-link>
+      <router-link to="/board">
         <li>Board Games</li>
-      </a>
+      </router-link>
     </ul>
   </nav>
 </template>
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "NavBar",
   props: {
     msg: String,
   },
@@ -55,6 +55,8 @@ li {
   padding: 3vh 0;
   width: 100%;
   margin: 3vh 0;
+  color: white;
+  text-decoration: none;
 }
 
 li:hover {

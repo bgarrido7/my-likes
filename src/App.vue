@@ -1,14 +1,12 @@
 <template>
-  <HelloWorld msg="my-navbar"/>
-  <!-- <OscarsPredic msg="oscars"/> -->
-  <UnderConstruct msg="construct"/>
+
+<NavBar msg="my-navbar"/>
+  <router-view/>
 </template>
 
 <script>
 
-import HelloWorld from './components/HelloWorld.vue'
-import UnderConstruct from './components/UnderConstruct.vue'
-// import OscarsPredic from './components/oscars/Oscars.vue'
+import NavBar from './components/NavBar.vue'
 
 export default {
   name: 'App',
@@ -16,9 +14,7 @@ export default {
     document.title = "My Likes";
   },
   components: {
-    HelloWorld,
-    // OscarsPredic,
-    UnderConstruct
+    NavBar
   },
 }
 </script>

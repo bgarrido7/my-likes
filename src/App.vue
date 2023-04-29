@@ -31,6 +31,7 @@ body{
   font-family: 'Courier New', Courier, monospace;  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #fcfbfc;
 }
 
 #app{

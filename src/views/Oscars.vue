@@ -11,16 +11,19 @@
         <option value="2023">2019</option>
       </select>
     </div>
+
+    <div class="my-wins"> 10/20</div>
+
     <div class="awards">
       <div v-for="award in awards" :key="award.category">
         <h1>{{ award.category }}</h1>
         <ul>
-          <li v-for="(movie, index) in award.movies" v-bind:key="index">
-            {{ movie }}
+          <li v-for="(movie, index) in award.movies" v-bind:key="index"
+            v-bind:class="movie === award.winner ? 'winner' : ''">
+            {{ movie }} <span class="bet" v-if="award.bet === movie"> &lt;-- </span>
           </li>
         </ul>
       </div>
-
     </div>
 
   </div>
@@ -36,11 +39,15 @@ export default {
     return {
       awards: [{
         category: 'Best Picture',
-        movies: ['Everything, Everywhere, All at Once', 'Tár', 'All Quiet in the Western front']
+        movies: ['Everything, Everywhere, All at Once', 'Tár', 'All Quiet in the Western front'],
+        winner: 'Everything, Everywhere, All at Once',
+        bet: 'Everything, Everywhere, All at Once'
       },
       {
         category: 'Directing',
-        movies: ['Everything, Everywhere, All at Once', 'Triangle of sadness', 'Tár', 'The Fabelmans']
+        movies: ['Everything, Everywhere, All at Once', 'Triangle of sadness', 'Tár', 'The Fabelmans'],
+        winner: 'Everything, Everywhere, All at Once',
+        bet: 'Tár'
       }
       ]
     }
@@ -52,9 +59,14 @@ export default {
 
 <style scoped>
 .oscars-predictions {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  /* columns: 1fr 1fr; */
   padding: 2vw;
+}
+
+
+.my-wins {
+  align-self: auto;
 }
 
 .year {
@@ -67,4 +79,11 @@ export default {
 .awards {
   text-transform: capitalize;
 }
-</style>
+
+.winner {
+  color: goldenrod
+}
+
+.bet {
+  color: greenyellow
+}</style>

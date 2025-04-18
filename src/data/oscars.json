@@ -1,0 +1,304 @@
+{
+  "2025": {
+    "award1": {
+      "category": "Best picture",
+      "winner": "Everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "all quiet on the western front",
+        "Avatar: The Way of water",
+        "The Banshees of inisherin",
+        "elvis",
+        "the fabelmans",
+        "Tár",
+        "Top gun: maverick",
+        "triangle of sadness",
+        "women talking"
+      ]
+    },
+    "award2": {
+      "category": "Directing",
+      "winner": "everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "The Banshees of inisherin",
+        "the fabelmans",
+        "Tár",
+        "triangle of sadness"
+      ]
+    },
+    "award3": {
+      "category": "costume design",
+      "winner": "Black panther: wakanda forever",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "Black panther: wakanda forever",
+        "babylon",
+        "elvis",
+        "Mrs. Harris goes to paris"
+      ]
+    }
+  },
+
+  "2024": {
+    "award1": {
+      "category": "Best picture",
+      "winner": "Everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "all quiet on the western front",
+        "Avatar: The Way of water",
+        "The Banshees of inisherin",
+        "elvis",
+        "the fabelmans",
+        "Tár",
+        "Top gun: maverick",
+        "triangle of sadness",
+        "women talking"
+      ]
+    },
+    "award2": {
+      "category": "Directing",
+      "winner": "everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "The Banshees of inisherin",
+        "the fabelmans",
+        "Tár",
+        "triangle of sadness"
+      ]
+    },
+    "award3": {
+      "category": "costume design",
+      "winner": "Black panther: wakanda forever",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "Black panther: wakanda forever",
+        "babylon",
+        "elvis",
+        "Mrs. Harris goes to paris"
+      ]
+    }
+  },
+  "2023": {
+    "award1": {
+      "category": "Best picture",
+      "winner": "Everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "all quiet on the western front",
+        "Avatar: The Way of water",
+        "The Banshees of inisherin",
+        "elvis",
+        "the fabelmans",
+        "Tár",
+        "Top gun: maverick",
+        "triangle of sadness",
+        "women talking"
+      ]
+    },
+    "award2": {
+      "category": "Directing",
+      "winner": "everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "The Banshees of inisherin",
+        "the fabelmans",
+        "Tár",
+        "triangle of sadness"
+      ]
+    },
+    "award3": {
+      "category": "costume design",
+      "winner": "Black panther: wakanda forever",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "Black panther: wakanda forever",
+        "babylon",
+        "elvis",
+        "Mrs. Harris goes to paris"
+      ]
+    }
+  },
+  "2022": {
+    "award1": {
+      "category": "Best picture",
+      "winner": "Everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "all quiet on the western front",
+        "Avatar: The Way of water",
+        "The Banshees of inisherin",
+        "elvis",
+        "the fabelmans",
+        "Tár",
+        "Top gun: maverick",
+        "triangle of sadness",
+        "women talking"
+      ]
+    },
+    "award2": {
+      "category": "Directing",
+      "winner": "everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "The Banshees of inisherin",
+        "the fabelmans",
+        "Tár",
+        "triangle of sadness"
+      ]
+    },
+    "award3": {
+      "category": "costume design",
+      "winner": "Black panther: wakanda forever",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "Black panther: wakanda forever",
+        "babylon",
+        "elvis",
+        "Mrs. Harris goes to paris"
+      ]
+    }
+  },
+  "2021": {
+    "award1": {
+      "category": "Best picture",
+      "winner": "Everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "all quiet on the western front",
+        "Avatar: The Way of water",
+        "The Banshees of inisherin",
+        "elvis",
+        "the fabelmans",
+        "Tár",
+        "Top gun: maverick",
+        "triangle of sadness",
+        "women talking"
+      ]
+    },
+    "award2": {
+      "category": "Directing",
+      "winner": "everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "The Banshees of inisherin",
+        "the fabelmans",
+        "Tár",
+        "triangle of sadness"
+      ]
+    },
+    "award3": {
+      "category": "costume design",
+      "winner": "Black panther: wakanda forever",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "Black panther: wakanda forever",
+        "babylon",
+        "elvis",
+        "Mrs. Harris goes to paris"
+      ]
+    }
+  },
+  "2020": {
+    "award1": {
+      "category": "Best picture",
+      "winner": "Everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "all quiet on the western front",
+        "Avatar: The Way of water",
+        "The Banshees of inisherin",
+        "elvis",
+        "the fabelmans",
+        "Tár",
+        "Top gun: maverick",
+        "triangle of sadness",
+        "women talking"
+      ]
+    },
+    "award2": {
+      "category": "Directing",
+      "winner": "everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "The Banshees of inisherin",
+        "the fabelmans",
+        "Tár",
+        "triangle of sadness"
+      ]
+    },
+    "award3": {
+      "category": "costume design",
+      "winner": "Black panther: wakanda forever",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "Black panther: wakanda forever",
+        "babylon",
+        "elvis",
+        "Mrs. Harris goes to paris"
+      ]
+    }
+  },
+  "2019": {
+    "award1": {
+      "category": "Best picture",
+      "winner": "Everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "all quiet on the western front",
+        "Avatar: The Way of water",
+        "The Banshees of inisherin",
+        "elvis",
+        "the fabelmans",
+        "Tár",
+        "Top gun: maverick",
+        "triangle of sadness",
+        "women talking"
+      ]
+    },
+    "award2": {
+      "category": "Directing",
+      "winner": "everything everywhere all at once",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "The Banshees of inisherin",
+        "the fabelmans",
+        "Tár",
+        "triangle of sadness"
+      ]
+    },
+    "award3": {
+      "category": "costume design",
+      "winner": "Black panther: wakanda forever",
+      "bet": "everything everywhere all at once",
+      "movies": [
+        "everything everywhere all at once",
+        "Black panther: wakanda forever",
+        "babylon",
+        "elvis",
+        "Mrs. Harris goes to paris"
+      ]
+    }
+  }
+}

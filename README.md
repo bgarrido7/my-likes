@@ -1,20 +1,29 @@
-# My Likes
-Hello There :wave:
-This is a simple website that I made featuring things I like, ranging from Movies to Video Games
+# my likes
 
-This was an idea that I had and tryied to execute it using a framework that I haven't worked with before, in this case Vue.js
+This template should help get you started developing with Vue 3 in Vite.
 
-Check it Out :point_right: [Here](https://bgarrido7.github.io/my-likes/)
+## Recommended IDE Setup
 
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## To run the app
+## Customize configuration
 
-```bash
+See [Vite Configuration Reference](https://vite.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
 npm run dev
 ```
 
-## Deploy to page
+### Compile and Minify for Production
 
-```bash
-npm run deploy
+```sh
+npm run build
 ```

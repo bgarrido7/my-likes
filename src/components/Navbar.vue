@@ -1,28 +1,26 @@
 <script setup>
 import { ref } from "vue";
+
+const options = ref([
+  { url: "/oscars", label: "Oscars 🏆" },
+  { url: "/movies", label: "Movies" },
+  { url: "/shows", label: "TV Shows" },
+  { url: "/anime", label: "Animes" },
+  { url: "/games", label: "Video Games" },
+  { url: "/board-games", label: "Board Games" },
+]);
 </script>
 
 <template>
   <nav>
     <ul>
-      <router-link to="/oscars">
-        <li>Oscars 🏆</li>
-      </router-link>
-      <router-link to="/movies">
-        <li>Movies</li>
-      </router-link>
-      <router-link to="/shows">
-        <li>Tv Shows</li>
-      </router-link>
-      <router-link to="/anime">
-        <li>Anime</li>
-      </router-link>
-      <router-link to="/games">
-        <li>Video Games</li>
-      </router-link>
-      <router-link to="/board-games">
-        <li>Board Games</li>
-      </router-link>
+      <div v-for="link in options">
+        <router-link :to="link.url">
+          <li :class="{ highlight: $route.path === link.url }">
+            {{ link.label }}
+          </li>
+        </router-link>
+      </div>
     </ul>
   </nav>
 </template>
@@ -33,7 +31,6 @@ nav {
   display: flex;
   flex-direction: row;
   text-align: center;
-
   height: 100vh;
   overflow: hidden;
   width: 180px;
@@ -61,5 +58,9 @@ li:hover {
 a {
   color: white;
   text-decoration: none;
+}
+
+.highlight {
+  background-color: #1f2c38;
 }
 </style>

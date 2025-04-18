@@ -12,6 +12,7 @@ import Navbar from "./components/Navbar.vue";
 <style scoped>
 main {
   display: grid;
+  grid-auto-flow: column;
   grid-template-columns: 1fr 10fr;
   height: 100%;
 }

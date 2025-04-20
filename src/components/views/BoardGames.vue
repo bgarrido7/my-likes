@@ -6,7 +6,7 @@
 </template>
 
 <script setup>
-import EmptyState from "../shared/EmptyState.vue";
+import EmptyState from "@/components/shared/EmptyState.vue";
 </script>
 
 <style scoped>

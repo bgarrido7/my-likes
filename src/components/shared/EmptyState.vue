@@ -1,6 +1,6 @@
 <template>
   <div class="empty-state">
-    <img src="../../assets/construction.png" width="500vw" />
+    <img src="@/assets/construction.png" width="500vw" />
   </div>
 </template>
 

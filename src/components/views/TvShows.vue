@@ -1,10 +1,12 @@
 <template>
   <div class="tv-shows-page">
-    <h2 class="title">tv shows</h2>
+    <h2>tv shows</h2>
     <div class="content">
       <ul v-for="(show, key) in content" :key="key">
         <li>
-          {{ show.name }}
+          <span class="title">
+            {{ show.name }}
+          </span>
           <img :src="show.cover" alt="cover" />
           <a :href="show.url" target="_blank">see link</a>
         </li>
@@ -36,7 +38,7 @@ onMounted(async () => {
   padding: 1vw;
 }
 
-.title {
+h2 {
   text-transform: capitalize;
 }
 
@@ -45,6 +47,12 @@ onMounted(async () => {
   flex-wrap: wrap;
   gap: 2vw;
   padding: 2vw;
+}
+
+.title {
+  width: 200px;
+  text-align: center;
+  font-size: large;
 }
 
 ul {

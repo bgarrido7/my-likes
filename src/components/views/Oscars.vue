@@ -33,8 +33,8 @@
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
-import myJson from "../../data/oscars.json";
 
+const jsonUrl = `${import.meta.env.BASE_URL}data/oscars.json`;
 const selectedYear = ref("2025");
 const years = ref(["2025", "2024", "2023", "2022", "2021", "2020", "2019"]);
 
@@ -42,7 +42,7 @@ const awards = ref({});
 
 onMounted(async () => {
   try {
-    const response = await fetch("src/data/oscars.json");
+    const response = await fetch(jsonUrl);
     const data = await response.json();
     awards.value = data;
   } catch (error) {

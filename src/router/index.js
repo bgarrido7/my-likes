@@ -5,6 +5,7 @@ import TvShows from "../components/views/TvShows.vue";
 import Animes from "../components/views/Animes.vue";
 import VideoGames from "../components/views/VideoGames.vue";
 import BoardGames from "../components/views/BoardGames.vue";
+import Music from "../components/views/Music.vue";
 import Home from "../components/views/Home.vue";
 
 const routes = [
@@ -37,6 +38,10 @@ const routes = [
   {
     path: "/board-games",
     component: BoardGames,
+  },
+  {
+    path: "/music",
+    component: Music,
   },
 ];
 const router = createRouter({

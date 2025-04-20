@@ -8,6 +8,7 @@ const options = ref([
   { url: "/anime", label: "Animes" },
   { url: "/games", label: "Video Games" },
   { url: "/board-games", label: "Board Games" },
+  { url: "/music", label: "Music" },
 ]);
 </script>
 

@@ -1,6 +1,6 @@
 <template>
-  <div class="movies-page">
-    <h2>movies</h2>
+  <div class="music-page">
+    <h2>music</h2>
     <div class="empty-state">
       <img src="../../assets/construction.png" width="500vw" />
     </div>
@@ -12,7 +12,7 @@ import { ref } from "vue";
 </script>
 
 <style scoped>
-.movies-page {
+.music-page {
   padding: 1vw;
 }
 h2 {

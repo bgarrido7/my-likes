@@ -16,11 +16,12 @@
 <script setup>
 import { ref, onMounted } from "vue";
 
+const jsonUrl = `${import.meta.env.BASE_URL}data/shows.json`;
 const content = ref([]);
 
 onMounted(async () => {
   try {
-    const res = await fetch("src/data/shows.json");
+    const res = await fetch(jsonUrl);
     if (!res.ok) throw new Error("Failed to load data");
     const jsonData = await res.json();
     content.value = jsonData.content;

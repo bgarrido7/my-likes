@@ -37,6 +37,12 @@ nav {
   width: 180px;
 }
 
+@media (max-width: 800px) {
+  nav {
+    width: 0px;
+  }
+}
+
 ul {
   width: 100%;
   padding: 0;

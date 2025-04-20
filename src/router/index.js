@@ -1,5 +1,5 @@
-import { createRouter, createWebHistory } from 'vue-router';
-import Oscars from '../components/views/Oscars.vue'
+import { createRouter, createWebHistory } from "vue-router";
+import Oscars from "../components/views/Oscars.vue";
 import Movies from "../components/views/Movies.vue";
 import TvShows from "../components/views/TvShows.vue";
 import Animes from "../components/views/Animes.vue";
@@ -9,39 +9,39 @@ import Home from "../components/views/Home.vue";
 
 const routes = [
   {
-    path: '/',
-    component: Home
+    path: "/",
+    component: Home,
   },
   {
-    path: '/oscars',
-    name: 'Oscars',
-    component: Oscars
+    path: "/oscars",
+    name: "Oscars",
+    component: Oscars,
   },
   {
-    path: '/movies',
-    name: 'Movies',
-    component: Movies
+    path: "/movies",
+    name: "Movies",
+    component: Movies,
   },
   {
-    path: '/shows',
-    component: TvShows
+    path: "/shows",
+    component: TvShows,
   },
   {
-    path: '/anime',
-    component: Animes
+    path: "/anime",
+    component: Animes,
   },
   {
-    path: '/games',
-    component: VideoGames
+    path: "/games",
+    component: VideoGames,
   },
   {
-    path: '/board-games',
-    component: BoardGames
+    path: "/board-games",
+    component: BoardGames,
   },
-]
+];
 const router = createRouter({
-    history: createWebHistory(),
-    routes
-  });
+  history: createWebHistory(import.meta.env.BASE_URL),
+  routes,
+});
 
-export default router
+export default router;

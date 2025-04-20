@@ -19,8 +19,7 @@ h2 {
   text-transform: capitalize;
 }
 .empty-state {
-  height: 100%;
-  width: 100%;
+  height: calc(100% - 36px);
   display: flex;
   align-items: center;
   justify-content: center;

@@ -1,28 +1,22 @@
 <template>
   <div class="movies-page">
-    <h2>movies</h2>
-
     <div class="content">
-      <ul v-for="(movie, key) in content" :key="key">
-        <li>
-          <span class="title">
-            {{ movie.name }}
-          </span>
-
-          <img :src="movie.cover" alt="cover" />
-
-          <div class="footer">
-            {{ movie.year }}
-            <a :href="movie.url" target="_blank">see link</a>
-          </div>
-        </li>
-      </ul>
+      <n-card v-for="(movie, key) in content" :key="key" :title="movie.name">
+        <template #cover>
+          <img :src="movie.cover" />
+        </template>
+        <div class="description">
+          {{ movie.year }}
+          <a :href="movie.url" target="_blank">IMDb</a>
+        </div>
+      </n-card>
     </div>
   </div>
 </template>
 
 <script setup>
 import { ref, onMounted } from "vue";
+import { NCard } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/movies.json`;
 const content = ref([]);
@@ -46,55 +40,30 @@ onMounted(async () => {
   overflow-y: auto;
   max-height: 100%;
 }
-h2 {
-  text-transform: capitalize;
-}
 
 .content {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2vw;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 1fr);
+  grid-auto-flow: column;
+  justify-content: start;
+  gap: 1vw;
   padding: 2vw;
 }
 
-ul {
-  list-style: none;
-  padding: 0.5vh 1vw;
-  display: flex;
-  background-color: rgb(236, 231, 231);
-  border-radius: 4px;
+@media (max-width: 990px) {
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .n-card {
+    width: 150px;
+  }
 }
 
-li {
+.description {
   display: flex;
-  flex-direction: column;
+  align-items: end;
   justify-content: space-between;
-  align-items: center;
-}
-
-.title {
-  width: 200px;
-  text-align: center;
-  font-size: large;
-}
-
-.footer {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-}
-
-img {
-  width: 200px;
-  height: auto;
-}
-
-a {
-  align-self: end;
-}
-
-a:link,
-a:visited {
-  color: rgb(71, 71, 205);
+  height: 100%;
 }
 </style>

@@ -5,9 +5,10 @@ const options = ref([
   { url: "/oscars", label: "Oscars 🏆" },
   { url: "/movies", label: "Movies" },
   { url: "/shows", label: "TV Shows" },
-  { url: "/anime", label: "Animes" },
+  { url: "/animes", label: "Animes" },
   { url: "/games", label: "Video Games" },
   { url: "/board-games", label: "Board Games" },
+  { url: "/books", label: "Books" },
   { url: "/music", label: "Music" },
 ]);
 </script>

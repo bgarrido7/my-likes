@@ -1,22 +1,21 @@
 <template>
   <div class="tv-shows-page">
-    <h2>tv shows</h2>
     <div class="content">
-      <ul v-for="(show, key) in content" :key="key">
-        <li>
-          <span class="title">
-            {{ show.name }}
-          </span>
-          <img :src="show.cover" alt="cover" />
-          <a :href="show.url" target="_blank">see link</a>
-        </li>
-      </ul>
+      <n-card v-for="(show, key) in content" :key="key" :title="show.name">
+        <template #cover>
+          <img :src="show.cover" />
+        </template>
+        <div class="description">
+          <a :href="show.url" target="_blank">IMDb</a>
+        </div>
+      </n-card>
     </div>
   </div>
 </template>
 
 <script setup>
 import { ref, onMounted } from "vue";
+import { NCard } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/shows.json`;
 const content = ref([]);
@@ -36,51 +35,38 @@ onMounted(async () => {
 <style scoped>
 .tv-shows-page {
   padding: 1vw;
-}
-
-h2 {
-  text-transform: capitalize;
+  padding-bottom: 0;
+  overflow-y: auto;
+  max-height: 100%;
 }
 
 .content {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2vw;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 1fr);
+  grid-auto-flow: column;
+  justify-content: start;
+  gap: 1vw;
   padding: 2vw;
 }
 
-.title {
-  width: 200px;
-  text-align: center;
-  font-size: large;
+@media (max-width: 990px) {
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .n-card {
+    width: 150px;
+  }
 }
 
-ul {
-  list-style: none;
-  padding: 0;
+.n-card {
+  max-width: 250px;
+}
+
+.description {
   display: flex;
-  background-color: rgb(236, 231, 231);
-  border-radius: 4px;
-}
-
-li {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-}
-
-img {
-  width: 200px;
-  height: auto;
-}
-
-a {
-  align-self: end;
-}
-
-a:link,
-a:visited {
-  color: rgb(71, 71, 205);
+  align-items: end;
+  justify-content: end;
+  height: 100%;
 }
 </style>

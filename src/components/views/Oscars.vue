@@ -1,17 +1,18 @@
 <template>
   <div class="oscars-page">
     <div class="header">
-      <div class="card flex justify-center p">
+      <div class="year-select">
         <label for="year_label">Select the Year:</label>
-        <Select
-          inputId="year_label"
-          v-model="selectedYear"
+        <n-select
+          v-model:value="selectedYear"
           :options="years"
-          class="year-select"
-        ></Select>
+          inputId="year_label"
+        />
       </div>
 
-      <div class="my-wins">Correct Bets: {{ correctBets }}</div>
+      <div class="my-wins">
+        Correct Bets: <span class="correct-bets">{{ correctBets }}</span>
+      </div>
     </div>
 
     <div class="awards">
@@ -33,10 +34,19 @@
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
+import { NSelect } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/oscars.json`;
 const selectedYear = ref("2025");
-const years = ref(["2025", "2024", "2023", "2022", "2021", "2020", "2019"]);
+const availableYears = ref([
+  "2025",
+  "2024",
+  "2023",
+  "2022",
+  "2021",
+  "2020",
+  "2019",
+]);
 
 const awards = ref({});
 
@@ -52,6 +62,12 @@ onMounted(async () => {
 
 const awardsForSelectedYear = computed(() => {
   return awards.value[selectedYear.value] || null;
+});
+const years = computed(() => {
+  return availableYears.value.map((year) => ({
+    label: year,
+    value: year,
+  }));
 });
 
 function isWinner(movie, winner) {
@@ -81,11 +97,19 @@ const correctBets = computed(() => {
   padding: 3vmin;
   width: 100%;
 }
-
 .year-select {
-  margin-left: 1vw;
+  display: flex;
+  gap: 1vw;
+  align-items: center;
+  justify-content: start;
 }
 
+.n-select {
+  width: 80px;
+}
+.correct-bets {
+  color: rgb(188, 144, 33);
+}
 span.bet {
   position: relative;
   bottom: 7px;

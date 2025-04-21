@@ -79,6 +79,7 @@ onMounted(async () => {
 
 .description {
   display: flex;
+  justify-content: end;
   flex-direction: column;
   height: 100%;
 }
@@ -87,6 +88,5 @@ onMounted(async () => {
   display: flex;
   align-items: end;
   justify-content: space-between;
-  flex-grow: 1;
 }
 </style>

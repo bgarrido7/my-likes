@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "name": "Pokemon",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1ziq.jpg",
+      "url": "https://www.gamespot.com/games/pokemon-firered-leafgreen-version/",
+      "year": 2004,
+      "platform": "Gameboy Advance"
+    },
+    {
+      "name": "Stray",
+      "cover": "https://i.redd.it/is-there-anywhere-i-can-commission-artwork-of-the-stray-v0-mpcdmptfkl3a1.jpg?width=499&format=pjpg&auto=webp&s=20a02c1a132422f9105d1af00ee4049bb9a59555",
+      "url": "https://www.gamespot.com/games/stray/",
+      "year": 2022,
+      "platform": "PC"
+    },
+    {
+      "name": "BioShock Infinite",
+      "cover": "https://external-preview.redd.it/azcuPKAM-_q5cwa1xnS72hZxF_OykTzNzKYXXUeAhnw.jpg?auto=webp&s=a5218a13b2dab80e6edaa9da28f854769d96a06a",
+      "url": "https://www.gamespot.com/games/bioshock-infinite/",
+      "year": 2013,
+      "platform": "PC"
+    }
+  ]
+}

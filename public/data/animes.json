@@ -35,8 +35,6 @@
       "name": "Jujutsu Kaisen",
       "cover": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6491809-01.jpg",
       "url": "https://www.anime-planet.com/manga/jujutsu-kaisen",
-      "year": "2018 - 2024",
-      "author": "Gege Akutami",
       "category": "manga"
     },
 
@@ -44,16 +42,54 @@
       "name": "Hell's Paradise",
       "cover": "https://cdn.kobo.com/book-images/e2aa6530-dc46-42fe-b680-a451cea32ddc/1200/1200/False/hell-s-paradise-jigokuraku-vol-1.jpg",
       "url": "https://www.anime-planet.com/manga/hells-paradise-jigokuraku",
-      "year": "2018 - 2021",
-      "author": "Yuji Kaku",
       "category": "manga"
     },
     {
       "name": "Jujutsu Kaisen 0",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRsxcM82UAVUkOXZqqHKI1FcnPfbltTJz7UQ&s",
       "url": "https://www.anime-planet.com/manga/jujutsu-kaisen-0",
-      "year": "2017 - 2018",
-      "author": "Gege Akutami",
+      "category": "manga"
+    },
+    {
+      "name": "Rabbit Doubt",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/RabbitDoubtVol1Cover.jpg/220px-RabbitDoubtVol1Cover.jpg",
+      "url": "https://www.anime-planet.com/manga/doubt-yoshiki-tonogai",
+      "category": "manga"
+    },
+    {
+      "name": "Alice in Borderland",
+      "cover": "https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/5915206-18.jpg",
+      "url": "https://www.anime-planet.com/manga/alice-in-borderland",
+      "category": "manga"
+    },
+    {
+      "name": "Uzumaki",
+      "cover": "https://img.bertrand.pt/images/uzumaki-3-in-1-deluxe-edition-junji-ito/NDV8MTUwNDMyMDl8MTA1Mjg3MjV8MTY0NTEwMjgyOTAwMA==/500x",
+      "url": "https://www.anime-planet.com/manga/uzumaki-spiral-into-horror",
+      "category": "manga"
+    },
+    {
+      "name": "Tomie",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJroAzm1mHdgMtXIUdScSG4z92KmvtyqTNg&s",
+      "url": "https://www.anime-planet.com/manga/tomie",
+      "category": "manga"
+    },
+    {
+      "name": "Chainsaw Man",
+      "cover": "https://cdn.kobo.com/book-images/b9a44c77-20a8-460f-adf4-e89f8fc1b4f8/1200/1200/False/chainsaw-man-vol-4.jpg",
+      "url": "https://www.anime-planet.com/manga/chainsaw-man",
+      "category": "manga"
+    },
+    {
+      "name": "Attack on Titan",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618858304i/55162224.jpg",
+      "url": "https://www.anime-planet.com/manga/attack-on-titan",
+      "category": "manga"
+    },
+    {
+      "name": "Deadman Wonderland",
+      "cover": "https://www.qbd.com.au/img/products/0/9781421555485.jpg",
+      "url": "https://www.anime-planet.com/manga/deadman-wonderland",
       "category": "manga"
     }
   ]

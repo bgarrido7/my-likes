@@ -38,15 +38,14 @@ onMounted(async () => {
   padding: 1vw;
   padding-bottom: 0;
   overflow-y: auto;
-  max-height: 100%;
+  max-height: 100vh;
 }
 
 .content {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 1fr);
-  grid-auto-flow: column;
+  grid-template-columns: repeat(auto-fill, minmax(11vw, auto));
   justify-content: start;
-  gap: 1vw;
+  gap: 1.5vw;
   padding: 2vw;
 }
 
@@ -60,13 +59,10 @@ onMounted(async () => {
   }
 }
 
-.n-card {
-  max-width: 250px;
-}
-
 .footer {
   display: flex;
   align-items: end;
   justify-content: space-between;
+  height: 100%;
 }
 </style>

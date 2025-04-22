@@ -10,6 +10,7 @@ const options = ref([
   { url: "/board-games", label: "Board Games" },
   { url: "/books", label: "Books" },
   { url: "/music", label: "Music" },
+  { url: "/yuri", hidden: true },
 ]);
 </script>
 
@@ -18,7 +19,10 @@ const options = ref([
     <ul>
       <div v-for="link in options">
         <router-link :to="link.url">
-          <li :class="{ highlight: $route.path === link.url }">
+          <li
+            v-if="!link.hidden"
+            :class="{ highlight: $route.path === link.url }"
+          >
             {{ link.label }}
           </li>
         </router-link>

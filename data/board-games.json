@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "name": "Catan",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg",
+      "url": "https://boardgamegeek.com/boardgame/13/catan"
+    },
+    {
+      "name": "Pandemic",
+      "cover": "https://images.squarespace-cdn.com/content/v1/61c86bfc61ba11700703f07a/1700096863270-O4EQTBUIU5NOEH5K59D0/pic1534148.jpg?format=2500w",
+      "url": "https://boardgamegeek.com/boardgame/30549/pandemic"
+    },
+    {
+      "name": "Carcassonne",
+      "cover": "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__opengraph/img/Jmr0JjC6oOO4nuY9uqrnUW1pes0=/fit-in/1200x630/filters:strip_icc()/pic6544250.png",
+      "url": "https://boardgamegeek.com/boardgame/822/carcassonne"
+    }
+  ]
+}

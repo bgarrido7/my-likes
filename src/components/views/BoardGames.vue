@@ -1,16 +1,13 @@
 <template>
   <div class="games-page">
     <div class="content">
-      <n-card v-for="(album, key) in content" :key="key" :title="album.name">
+      <n-card v-for="(game, key) in content" :key="key" :title="game.name">
         <template #cover>
-          <img :src="album.cover" />
+          <img :src="game.cover" />
         </template>
-        <div class="description">
-          <span>{{ album.artist }}</span>
-          <div class="footer">
-            <span>{{ album.year }}</span>
-            <a :href="album.url" target="_blank">BGG</a>
-          </div>
+        <div class="footer">
+          <span>{{ game.year }}</span>
+          <a :href="game.url" target="_blank">BGG</a>
         </div>
       </n-card>
     </div>
@@ -65,13 +62,6 @@ onMounted(async () => {
 
 .n-card {
   max-width: 250px;
-}
-
-.description {
-  display: flex;
-  justify-content: end;
-  flex-direction: column;
-  height: 100%;
 }
 
 .footer {

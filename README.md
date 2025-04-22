@@ -17,3 +17,10 @@ npm run dev
 ```bash
 npm run deploy
 ```
+
+
+## When finished
+
+```bash
+npm run submit -- "some commit message"
+```

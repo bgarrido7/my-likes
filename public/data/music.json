@@ -1,0 +1,18 @@
+{
+  "content": [
+    {
+      "name": "Guess Who",
+      "cover": "https://lv2-cdn.azureedge.net/itzy/92e81f5e06a44c96b8777382fa83b653-Guesswho-onlinecover-fans.jpg",
+      "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G",
+      "year": 2021,
+      "artist": "ITZY"
+    },
+    {
+      "name": "Eyes wide open",
+      "cover": "https://lv2-cdn.azureedge.net/twice/9bafe5921dd74c659fc9c0ec89be5f30-087570ec6c704f11a18c23f4177b4a7a-TWICE%20EYES%20WIDE%20OPEN_ONLINECOVER.jpg",
+      "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH",
+      "year": 2020,
+      "artist": "TWICE"
+    }
+  ]
+}

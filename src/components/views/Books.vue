@@ -5,7 +5,6 @@
         <n-button> Novels </n-button>
         <n-button> Psychology / Non-fiction </n-button>
         <n-button> Comics & Graphic Novel </n-button>
-        <n-button> Manga </n-button>
       </n-button-group>
     </div>
     <div class="content">
@@ -27,9 +26,7 @@
 
 <script setup>
 import { ref, onMounted } from "vue";
-import { NButton } from "naive-ui";
-import { NButtonGroup } from "naive-ui";
-import { NCard } from "naive-ui";
+import { NButton, NButtonGroup, NCard } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/books.json`;
 const content = ref([]);

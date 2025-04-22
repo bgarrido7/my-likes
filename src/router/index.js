@@ -7,6 +7,7 @@ import VideoGames from "@/components/views/VideoGames.vue";
 import BoardGames from "@/components/views/BoardGames.vue";
 import Music from "@/components/views/Music.vue";
 import Books from "@/components/views/Books.vue";
+import Yuri from "@/components/views/Yuri.vue";
 import Home from "@/components/views/Home.vue";
 
 const routes = [
@@ -47,6 +48,10 @@ const routes = [
   {
     path: "/music",
     component: Music,
+  },
+  {
+    path: "/yuri",
+    component: Yuri,
   },
 ];
 const router = createRouter({

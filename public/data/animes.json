@@ -1,0 +1,60 @@
+{
+  "content": [
+    {
+      "name": "Attack on Titan",
+      "cover": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19149543_b_v8_aa.jpg",
+      "url": "https://www.imdb.com/title/tt2560140/?ref_=fn_all_ttl_1/",
+      "category": "anime"
+    },
+    {
+      "name": "Jujutsu Kaisen",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNmI1MmYxNWQtY2E5NC00ZTlmLWIzZGEtNzM1YmE3NDA5NzhjXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt12343534/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_jujustu%2520kaisen",
+      "category": "anime"
+    },
+    {
+      "name": "Chainsaw Man",
+      "cover": "https://m.media-amazon.com/images/M/MV5BZGY2ZTM2MWMtNzA2OS00ZjJlLWIwZTMtMDBhN2EwYjZjZjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.imdb.com/title/tt13616990/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_chainsawman",
+      "category": "anime"
+    },
+    {
+      "name": "Dandadan",
+      "cover": "https://i.redd.it/5atkf4tmr7nd1.jpeg",
+      "url": "https://www.imdb.com/title/tt30217403/?ref_=tt_mlt_i_2",
+      "category": "anime"
+    },
+    {
+      "name": "Hell's Paradise",
+      "cover": "https://i.redd.it/c5b2ilbplqy81.png",
+      "url": "https://www.imdb.com/title/tt13911284/",
+      "category": "anime"
+    },
+
+    {
+      "name": "Jujutsu Kaisen",
+      "cover": "https://comicvine.gamespot.com/a/uploads/scale_medium/6/67663/6491809-01.jpg",
+      "url": "https://www.anime-planet.com/manga/jujutsu-kaisen",
+      "year": "2018 - 2024",
+      "author": "Gege Akutami",
+      "category": "manga"
+    },
+
+    {
+      "name": "Hell's Paradise",
+      "cover": "https://cdn.kobo.com/book-images/e2aa6530-dc46-42fe-b680-a451cea32ddc/1200/1200/False/hell-s-paradise-jigokuraku-vol-1.jpg",
+      "url": "https://www.anime-planet.com/manga/hells-paradise-jigokuraku",
+      "year": "2018 - 2021",
+      "author": "Yuji Kaku",
+      "category": "manga"
+    },
+    {
+      "name": "Jujutsu Kaisen 0",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRsxcM82UAVUkOXZqqHKI1FcnPfbltTJz7UQ&s",
+      "url": "https://www.anime-planet.com/manga/jujutsu-kaisen-0",
+      "year": "2017 - 2018",
+      "author": "Gege Akutami",
+      "category": "manga"
+    }
+  ]
+}

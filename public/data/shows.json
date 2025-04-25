@@ -9,6 +9,66 @@
       "name": "Arcane",
       "cover": "https://image.tmdb.org/t/p/original/naauuuXGOJW2ORvPKkW6H3J9oy2.jpg",
       "url": "https://www.imdb.com/title/tt11126994/"
+    },
+    {
+      "name": "Sherlock",
+      "cover": "https://cdn.europosters.eu/image/1300/34921.jpg",
+      "url": "https://www.imdb.com/title/tt1475582/?ref_=rt_t_1"
+    },
+    {
+      "name": "Dark",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxrGkZU24WIWqanPeuPcmrnl0TDKJe60mvIA&s",
+      "url": "https://www.imdb.com/title/tt5753856/"
+    },
+    {
+      "name": "And Then There Were None",
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgumhR2FHE7T7zZtds_e9mYht5JwyiS-VD5iL1RUbgNwUTJ9pzo2JY1L8CriHjU1r0yWYx6wYFzrN7Ny4WcAGsYgverZAhbOqspLuUeMzwkS0ofDp7ldy_LlAdN1W9HKAk16BD9_JUC_dg/s640/MipCom+WorldScreen+Poster+P.jpg",
+      "url": "https://www.imdb.com/title/tt3581932/?ref_=rt_t_8"
+    },
+    {
+      "name": "Squid Game",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYTYzMTlmNDctNmVkNS00YzRlLWE5MjAtODdjZWRkYzRlNWVlXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt10919420/?ref_=rt_t_46"
+    },
+    {
+      "name": "Crash Landing on You",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNooh_B-bF0cToQvjidPf8Di2gyis6oDjxg&s",
+      "url": "https://www.imdb.com/title/tt10850932/?ref_=fn_all_ttl_2"
+    },
+    {
+      "name": "Chernobyl",
+      "cover": "https://m.media-amazon.com/images/M/MV5BN2VhMjJjNjYtNjc4Yi00YjE0LTk5NGUtNjRhZWI2NzE1MWMxXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt7366338/?ref_=rt_t_48"
+    },
+    {
+      "name": "Sex Education",
+      "cover": "https://lh6.googleusercontent.com/proxy/PpJxkkHShBzCMFBOll0K1RHKi7cA1-6ttnEwYnyrIGl8codjMFZkMdn4UzyCsgDjTGQEnqRdpOe8YuU6BxQpBXFNuXB9b0a2",
+      "url": "https://www.imdb.com/title/tt7767422/?ref_=rt_t_49"
+    },
+    {
+      "name": "The Queen's Gambit",
+      "cover": "https://cdn.europosters.eu/image/1300/posters/queens-gambit-key-art-i102471.jpg",
+      "url": "https://www.imdb.com/title/tt10048342/?ref_=rt_t_74"
+    },
+    {
+      "name": "How to Get Away with Murder",
+      "cover": "https://i.ebayimg.com/images/g/5osAAOSwu4BV2rxP/s-l1200.jpg",
+      "url": "https://www.imdb.com/title/tt3205802/?ref_=fn_all_ttl_1"
+    },
+    {
+      "name": "Alice in Borderland",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb70TfSIAzsV4upRQ8b1D7ou807yMU6tdCqA&s",
+      "url": "https://www.imdb.com/title/tt10795658/?ref_=rt_t_71"
+    },
+    {
+      "name": "Blue Eye Samurai",
+      "cover": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2023/10/EN-US_BES_Teaser_Watercolor_Vertical_27x40_RGB_PRE.jpg",
+      "url": "https://www.imdb.com/title/tt13309742/?ref_=rt_t_89"
+    },
+    {
+      "name": "Chuck",
+      "cover": "",
+      "url": "https://www.imdb.com/title/tt0934814/?ref_=rt_t_87"
     }
   ]
 }

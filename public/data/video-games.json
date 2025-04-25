@@ -1,11 +1,18 @@
 {
   "content": [
     {
-      "name": "Pokemon",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1ziq.jpg",
-      "url": "https://www.gamespot.com/games/pokemon-firered-leafgreen-version/",
-      "year": 2004,
-      "platform": "Gameboy Advance"
+      "name": "Oxygen Not Included",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Oxygen_Not_Included_cover_art.jpg/220px-Oxygen_Not_Included_cover_art.jpg",
+      "url": "https://www.gamespot.com/games/oxygen-not-included/",
+      "year": 2017,
+      "platform": "PC"
+    },
+    {
+      "name": "Cult of the Lamb",
+      "cover": "https://cdn.mobygames.com/covers/10979806-cult-of-the-lamb-xbox-one-front-cover.jpg",
+      "url": "https://www.gamespot.com/games/cult-of-the-lamb/",
+      "year": 2022,
+      "platform": "PC"
     },
     {
       "name": "Stray",
@@ -14,11 +21,222 @@
       "year": 2022,
       "platform": "PC"
     },
+
     {
       "name": "BioShock Infinite",
       "cover": "https://external-preview.redd.it/azcuPKAM-_q5cwa1xnS72hZxF_OykTzNzKYXXUeAhnw.jpg?auto=webp&s=a5218a13b2dab80e6edaa9da28f854769d96a06a",
       "url": "https://www.gamespot.com/games/bioshock-infinite/",
       "year": 2013,
+      "platform": "PC"
+    },
+    {
+      "name": "Crash Bandicoot 4",
+      "cover": "https://cdn.europosters.eu/image/750/99518.jpg",
+      "url": "https://www.gamespot.com/games/crash-bandicoot-4-its-about-time/",
+      "year": 2020,
+      "platform": "PC"
+    },
+    {
+      "name": "Crash Bandicoot Wrapped",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvPS4-k3nXTEFwjXNlV9D9aoZ7ux4LC7M54A&s",
+      "url": "https://www.gamespot.com/games/crash-bandicoot-warped/",
+      "year": 1998,
+      "platform": "PlayStation"
+    },
+    {
+      "name": "The Last of Us",
+      "cover": "https://cdn.europosters.eu/image/750/127761.jpg",
+      "url": "https://www.gamespot.com/games/the-last-of-us/",
+      "year": 2013,
+      "platform": "PlayStation"
+    },
+    {
+      "name": "The Last of Us Part II",
+      "cover": "https://cdn.europosters.eu/image/1300/76718.jpg",
+      "url": "https://www.gamespot.com/games/the-last-of-us-part-ii/",
+      "year": 2020,
+      "platform": "PlayStation"
+    },
+    {
+      "name": "Dishonored",
+      "cover": "https://i.ebayimg.com/images/g/avIAAOSwP2higkFT/s-l1200.jpg",
+      "url": "https://www.gamespot.com/games/dishonored/",
+      "year": 2012,
+      "platform": "PC"
+    },
+    {
+      "name": "Portal",
+      "cover": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/mixcollage-13-dec-2024-07-12-am-9516-1.jpg",
+      "url": "https://www.gamespot.com/games/portal/",
+      "year": 2007,
+      "platform": "PC"
+    },
+    {
+      "name": "Portal 2",
+      "cover": "https://preview.redd.it/looking-for-a-hd-version-of-the-portal-2-cover-art-v0-9lsmu8go1uae1.jpeg?width=1535&format=pjpg&auto=webp&s=96a9df884aa3f1c0d9db27b47e608f21e39cc547",
+      "url": "https://www.gamespot.com/games/portal-2/",
+      "year": 2011,
+      "platform": "PC"
+    },
+    {
+      "name": "Batman: Arkham Origins",
+      "cover": "https://storage.googleapis.com/pod_public/1300/109024.jpg",
+      "url": "https://www.gamespot.com/games/batman-arkham-origins/",
+      "year": 2013,
+      "platform": "Xbox 360"
+    },
+    {
+      "name": "Tomb Raider",
+      "cover": "https://i.ebayimg.com/images/g/NhcAAOSw4HVWFTHd/s-l400.jpg",
+      "url": "https://www.gamespot.com/games/tomb-raider/",
+      "year": 2013,
+      "platform": "Xbox 360"
+    },
+    {
+      "name": "Rise of the Tomb Raider",
+      "cover": "https://products.eneba.games/resized-products/p9ffivcy5sf0npnerdjs_350x200_3x-0.jpg",
+      "url": "https://www.gamespot.com/games/rise-of-the-tomb-raider/",
+      "year": 2015,
+      "platform": "Xbox 360"
+    },
+    {
+      "name": "Dragon Ball Z: Shin Budokai",
+      "cover": "https://i.pinimg.com/474x/53/cb/f7/53cbf7587c51603f5e430db7d8324901.jpg",
+      "url": "https://www.gamespot.com/games/dragon-ball-z-shin-budokai/",
+      "year": 2006,
+      "platform": "PsP"
+    },
+    {
+      "name": "Little Nightmares",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMmQ1ZTliNjgtNWE4NC00NDQ5LWIwMjUtYzVjY2U1YzFmMWIxXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.gamespot.com/games/little-nightmares/",
+      "year": 2017,
+      "platform": "PC"
+    },
+    {
+      "name": "Little Nightmares II",
+      "cover": "https://m.media-amazon.com/images/I/61HR1cpzwtL.jpg",
+      "url": "https://www.gamespot.com/games/little-nightmares-ii/",
+      "year": 2021,
+      "platform": "PC"
+    },
+    {
+      "name": "Hue",
+      "cover": "https://howlongtobeat.com/games/38008_HUE.jpg?width=250",
+      "url": "https://www.gamespot.com/games/hue/",
+      "year": 2016,
+      "platform": "PC"
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "cover": "https://cdn.europosters.eu/image/750/40519.jpg",
+      "url": "https://www.gamespot.com/games/the-legend-of-zelda-breath-of-the-wild/",
+      "year": 2017,
+      "platform": "Switch"
+    },
+    {
+      "name": "The Legend of Zelda: Tears of the Kingdom",
+      "cover": "https://cdn.europosters.eu/image/1300/174296.jpg",
+      "url": "https://www.gamespot.com/games/the-legend-of-zelda-tears-of-the-kingdom/",
+      "year": 2023,
+      "platform": "Switch"
+    },
+    {
+      "name": "Limbo",
+      "cover": "https://e.snmc.io/lk/l/x/c5f5f1181bb3dac20504cbf0322d1c80/9961581",
+      "url": "https://www.gamespot.com/games/limbo/",
+      "year": 2010,
+      "platform": "PC"
+    },
+    {
+      "name": "Sonic Heroes",
+      "cover": "https://i.ebayimg.com/images/g/mvgAAOSwmzxk7kSR/s-l1200.jpg",
+      "url": "https://www.gamespot.com/games/sonic-heroes/",
+      "year": 2004,
+      "platform": "PlayStation"
+    },
+    {
+      "name": "Unpacking",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNTVjNTQ5ZWEtZTY4MS00NjUyLWE4YTctZjYyMzA3N2E0NTVmXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.gamespot.com/games/unpacking/",
+      "year": 2021,
+      "platform": "PC"
+    },
+    {
+      "name": "GhostWire: Tokyo",
+      "cover": "https://cdn.displate.com/artwork/857x1200/2022-09-09/4564cc534a763e493031b431c5270f66_cc8bc2a6a327989300ffdc868a3ebf4a.jpg",
+      "url": "https://www.gamespot.com/games/ghostwire-tokyo/",
+      "year": 2022,
+      "platform": "PC"
+    },
+    {
+      "name": "Shadow of the Colossus",
+      "cover": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/12/shadow-of-the-colossus.jpg",
+      "url": "https://www.gamespot.com/games/shadow-of-the-colossus/",
+      "year": 2018,
+      "platform": "PlayStation"
+    },
+    {
+      "name": "INSIDE",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNzNkZDc4ZjAtYWNlMy00MDI0LTg4YWUtNGQ0ZGZhM2MxZWY2XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+      "url": "https://www.gamespot.com/games/inside/",
+      "year": 2016,
+      "platform": "PC"
+    },
+    {
+      "name": "A Plague Tale: Innocence",
+      "cover": "https://m.media-amazon.com/images/I/614CV6-5VgL._AC_UF894,1000_QL80_.jpg",
+      "url": "https://www.gamespot.com/games/a-plague-tale-innocence/",
+      "year": 2019,
+      "platform": "PC"
+    },
+    {
+      "name": "Hellblade: Senua's Sacrifice",
+      "cover": "https://cdnb.artstation.com/p/assets/images/images/017/202/551/large/hugues-giboire-promoart-small.jpg?1555018143",
+      "url": "https://www.gamespot.com/games/hellblade-senuas-sacrifice/",
+      "year": 2017,
+      "platform": "PC"
+    },
+    {
+      "name": "Pokemon",
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1ziq.jpg",
+      "url": "https://www.gamespot.com/games/pokemon-firered-leafgreen-version/",
+      "year": 2004,
+      "platform": "Gameboy"
+    },
+    {
+      "name": "The Legend of Zelda: Echoes of Wisdom",
+      "cover": "https://i.etsystatic.com/37268737/r/il/42ed64/6133715293/il_fullxfull.6133715293_4h25.jpg",
+      "url": "https://www.gamespot.com/games/the-legend-of-zelda-echoes-of-wisdom/",
+      "year": 2024,
+      "platform": "Switch"
+    },
+    {
+      "name": "The Legend of Zelda: The Minish Cap",
+      "cover": "https://m.media-amazon.com/images/M/MV5BODlmOTk0MzQtYzI1MS00MzYzLThiYTctNjFkOTY4ZDA1NDllXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.gamespot.com/games/the-legend-of-zelda-the-minish-cap/",
+      "year": 2005,
+      "platform": "Gameboy"
+    },
+    {
+      "name": "The Legend of Zelda: A Link Between Worlds",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMtGMeK1gOuPgDDauozmNFe-v5vHJLDNYhmg&s",
+      "url": "https://www.gamespot.com/games/the-legend-of-zelda-a-link-between-worlds/",
+      "year": 2013,
+      "platform": "Nintento 3DS"
+    },
+    {
+      "name": "The Binding of Isaac",
+      "cover": "https://m.media-amazon.com/images/I/71BhioGL34L.jpg",
+      "url": "https://www.gamespot.com/games/the-binding-of-isaac/",
+      "year": 2011,
+      "platform": "PC"
+    },
+    {
+      "name": "Hades",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI7bkfk5Hr3VKwrDfiqsh9A6t6ReF_TGmjWQ&s",
+      "url": "https://www.gamespot.com/games/hades/",
+      "year": 2018,
       "platform": "PC"
     }
   ]

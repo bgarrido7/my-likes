@@ -20,7 +20,7 @@
     },
     {
       "name": "Dandadan",
-      "cover": "https://i.redd.it/5atkf4tmr7nd1.jpeg",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYWFhOWMxNTYtZThiMi00ZmQ5LTlmODktN2QwNzUyZjMyZGQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "url": "https://www.imdb.com/title/tt30217403/?ref_=tt_mlt_i_2",
       "category": "anime"
     },
@@ -91,6 +91,18 @@
       "cover": "https://www.qbd.com.au/img/products/0/9781421555485.jpg",
       "url": "https://www.anime-planet.com/manga/deadman-wonderland",
       "category": "manga"
+    },
+    {
+      "name": "Danganronpa",
+      "category": "anime",
+      "cover": "https://cdn.kobo.com/book-images/8cf756e9-daf1-4db1-97e7-f41421d98fc6/1200/1200/False/danganronpa-the-animation-volume-1.jpg",
+      "url": "https://www.imdb.com/title/tt2902582/?ref_=fn_all_ttl_1"
+    },
+    {
+      "name": "Danganronpa 3",
+      "category": "anime",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/ed/DanganronpaEndofHope%27sPeakpromo.jpg",
+      "url": "https://www.imdb.com/title/tt6016316/?ref_=fn_all_ttl_2"
     }
   ]
 }

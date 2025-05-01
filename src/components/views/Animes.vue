@@ -1,13 +1,17 @@
 <template>
   <div class="animes-page">
     <div class="filter">
-      <n-radio-group v-model:value="selectedOption">
+      <n-radio-group v-model:value="selectedFilter">
         <n-radio-button value="anime">Anime</n-radio-button>
         <n-radio-button value="manga">Manga</n-radio-button>
       </n-radio-group>
     </div>
     <div class="content">
-      <n-card v-for="(anime, key) in content" :key="key" :title="anime.name">
+      <n-card
+        v-for="(anime, key) in filteredData"
+        :key="key"
+        :title="anime.name"
+      >
         <template #cover>
           <img :src="anime.cover" />
         </template>
@@ -22,13 +26,14 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
+import { ref, onMounted, computed } from "vue";
 import { NCard } from "naive-ui";
 import { NRadioButton } from "naive-ui";
 import { NRadioGroup } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/animes.json`;
 const content = ref([]);
+const selectedFilter = ref("");
 
 onMounted(async () => {
   try {
@@ -39,6 +44,15 @@ onMounted(async () => {
   } catch (error) {
     console.error("Error loading JSON data:", error);
   }
+});
+
+const filteredData = computed(() => {
+  if (selectedFilter.value.length > 0) {
+    return content.value.filter(
+      (item) => item.category === selectedFilter.value
+    );
+  }
+  return content.value;
 });
 </script>
 

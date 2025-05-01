@@ -14,6 +14,18 @@
     },
     {
       "name": "Chainsaw Man",
+      "cover": "https://cdn.kobo.com/book-images/b9a44c77-20a8-460f-adf4-e89f8fc1b4f8/1200/1200/False/chainsaw-man-vol-4.jpg",
+      "url": "https://www.anime-planet.com/manga/chainsaw-man",
+      "category": "manga"
+    },
+    {
+      "name": "Attack on Titan",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618858304i/55162224.jpg",
+      "url": "https://www.anime-planet.com/manga/attack-on-titan",
+      "category": "manga"
+    },
+    {
+      "name": "Chainsaw Man",
       "cover": "https://m.media-amazon.com/images/M/MV5BZGY2ZTM2MWMtNzA2OS00ZjJlLWIwZTMtMDBhN2EwYjZjZjEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "url": "https://www.imdb.com/title/tt13616990/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_chainsawman",
       "category": "anime"
@@ -51,6 +63,18 @@
       "category": "manga"
     },
     {
+      "name": "Danganronpa",
+      "category": "anime",
+      "cover": "https://cdn.kobo.com/book-images/8cf756e9-daf1-4db1-97e7-f41421d98fc6/1200/1200/False/danganronpa-the-animation-volume-1.jpg",
+      "url": "https://www.imdb.com/title/tt2902582/?ref_=fn_all_ttl_1"
+    },
+    {
+      "name": "Danganronpa 3",
+      "category": "anime",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/ed/DanganronpaEndofHope%27sPeakpromo.jpg",
+      "url": "https://www.imdb.com/title/tt6016316/?ref_=fn_all_ttl_2"
+    },
+    {
       "name": "Rabbit Doubt",
       "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/RabbitDoubtVol1Cover.jpg/220px-RabbitDoubtVol1Cover.jpg",
       "url": "https://www.anime-planet.com/manga/doubt-yoshiki-tonogai",
@@ -75,34 +99,10 @@
       "category": "manga"
     },
     {
-      "name": "Chainsaw Man",
-      "cover": "https://cdn.kobo.com/book-images/b9a44c77-20a8-460f-adf4-e89f8fc1b4f8/1200/1200/False/chainsaw-man-vol-4.jpg",
-      "url": "https://www.anime-planet.com/manga/chainsaw-man",
-      "category": "manga"
-    },
-    {
-      "name": "Attack on Titan",
-      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618858304i/55162224.jpg",
-      "url": "https://www.anime-planet.com/manga/attack-on-titan",
-      "category": "manga"
-    },
-    {
       "name": "Deadman Wonderland",
       "cover": "https://www.qbd.com.au/img/products/0/9781421555485.jpg",
       "url": "https://www.anime-planet.com/manga/deadman-wonderland",
       "category": "manga"
-    },
-    {
-      "name": "Danganronpa",
-      "category": "anime",
-      "cover": "https://cdn.kobo.com/book-images/8cf756e9-daf1-4db1-97e7-f41421d98fc6/1200/1200/False/danganronpa-the-animation-volume-1.jpg",
-      "url": "https://www.imdb.com/title/tt2902582/?ref_=fn_all_ttl_1"
-    },
-    {
-      "name": "Danganronpa 3",
-      "category": "anime",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/e/ed/DanganronpaEndofHope%27sPeakpromo.jpg",
-      "url": "https://www.imdb.com/title/tt6016316/?ref_=fn_all_ttl_2"
     },
     {
       "name": "Soul Eater",

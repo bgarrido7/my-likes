@@ -150,7 +150,7 @@
     },
     {
       "name": "Sonic Heroes",
-      "cover": "https://i.ebayimg.com/images/g/mvgAAOSwmzxk7kSR/s-l1200.jpg",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/4/48/Sonic_Heroes_cover.png",
       "url": "https://www.gamespot.com/games/sonic-heroes/",
       "year": 2004,
       "platform": "PlayStation"
@@ -185,7 +185,7 @@
     },
     {
       "name": "A Plague Tale: Innocence",
-      "cover": "https://m.media-amazon.com/images/I/614CV6-5VgL._AC_UF894,1000_QL80_.jpg",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2216/l786jmG4WHmfCcfiVyiL9xSQ.jpg",
       "url": "https://www.gamespot.com/games/a-plague-tale-innocence/",
       "year": 2019,
       "platform": "PC"
@@ -227,7 +227,7 @@
     },
     {
       "name": "The Binding of Isaac",
-      "cover": "https://m.media-amazon.com/images/I/71BhioGL34L.jpg",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e1/The_Binding_of_Issac_Rebirth_cover.jpg",
       "url": "https://www.gamespot.com/games/the-binding-of-isaac/",
       "year": 2011,
       "platform": "PC"
@@ -238,6 +238,195 @@
       "url": "https://www.gamespot.com/games/hades/",
       "year": 2018,
       "platform": "PC"
+    },
+    {
+      "name": "Q.U.B.E. 2",
+      "cover": "https://cdn.mobygames.com/covers/2917240-qube-2-xbox-one-front-cover.jpg",
+      "url": "https://www.gamespot.com/games/qube-2/",
+      "year": 2018,
+      "platform": "PC"
+    },
+    {
+      "name": "Sea of Stars",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/0/0e/Sea_of_Stars_cover_art.jpg",
+      "url": "https://www.gamespot.com/games/sea-of-stars/",
+      "year": 2023,
+      "platform": "PC"
+    },
+    {
+      "name": "Batman: Arkham City",
+      "cover": "https://cdn.europosters.eu/image/1300/11510.jpg",
+      "url": "https://www.gamespot.com/games/batman-arkham-city/",
+      "year": 2011,
+      "platform": "Xbox 360"
+    },
+    {
+      "name": "Batman: Arkham Asylum",
+      "cover": "https://cdn.europosters.eu/image/1300/167596.jpg",
+      "url": "https://www.gamespot.com/games/batman-arkham-asylum/",
+      "year": 2009,
+      "platform": "Xbox 360"
+    },
+    {
+      "name": "Deadpool",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/4/41/Deadpool_video_game_cover.png",
+      "url": "https://www.gamespot.com/games/deadpool/",
+      "year": 2013,
+      "platform": "Xbox 360"
+    },
+    {
+      "name": "The Legend of Zelda: Link's Awakening",
+      "cover": "https://m.media-amazon.com/images/I/61eC5MeA5AL.jpg",
+      "url": "https://www.gamespot.com/games/the-legend-of-zelda-links-awakening/",
+      "year": 2019,
+      "platform": "Switch"
+    },
+    {
+      "name": "Life is Strange",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9C4x408rqJ7PV-w_MWco_D8YcHEGpUcopw&s",
+      "url": "https://www.gamespot.com/games/life-is-strange/",
+      "year": 2015,
+      "platform": "PC"
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Ghost_of_Tsushima_capa.png",
+      "url": "https://www.gamespot.com/games/ghost-of-tsushima/",
+      "year": 2020,
+      "platform": "PlayStation"
+    },
+    {
+      "name": "Death Stranding",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/2/22/Death_Stranding.jpg",
+      "url": "https://www.gamespot.com/games/death-stranding/",
+      "year": 2019,
+      "platform": "PC"
+    },
+    {
+      "name": "Cuphead",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-n2Us2HJ6_e2zDS1pRds9RRo_OIDHfUxMQ&s",
+      "url": "https://www.gamespot.com/games/cuphead/",
+      "year": 2017,
+      "platform": "PC"
+    },
+    {
+      "name": "God of War",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7xQIOrcd0kLIWV7MiN76nyd9zxngeJfMmA&s",
+      "url": "https://www.gamespot.com/games/god-of-war/",
+      "year": 2018,
+      "platform": "PlayStation"
+    },
+    {
+      "name": "God of War: Ragnarok",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/a/a5/God_of_War_Ragnar%C3%B6k_capa.jpg",
+      "url": "https://www.gamespot.com/games/god-of-war-ragnarok/",
+      "year": 2022,
+      "platform": "PlayStation"
+    },
+    {
+      "name": "Hitman: Absolution",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/HitmanAbsolutionPackArt.jpg",
+      "url": "https://www.gamespot.com/games/hitman-absolution/",
+      "year": 2012,
+      "platform": "PC"
+    },
+    {
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjFmMzAwNjAtYmFmNy00MjU2LWEwMWMtNDBjNDg4Y2QwZWQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.ign.com/games/the-sims-2-castaway",
+      "name": "The Sims 2: Castaway",
+      "year": 2007,
+      "platform": "PsP"
+    },
+    {
+      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co6p4w.jpg",
+      "url": "https://store.steampowered.com/app/588430/Fallout_Shelter/",
+      "name": "Fallout Shelter",
+      "year": 2017,
+      "platform": "PC"
+    },
+    {
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/ec/PC_Building_Simulator_Cover.png",
+      "url": "https://store.steampowered.com/app/621060/PC_Building_Simulator/",
+      "name": "PC Building Simulator",
+      "year": 2019,
+      "platform": "PC"
+    },
+    {
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9L4gbbulY_E_e6tI68bTz35itcqg177Y0w&s",
+      "url": "https://store.steampowered.com/app/400080/Out_of_Space/",
+      "name": "Out of Space",
+      "year": 2020,
+      "platform": "PC"
+    },
+    {
+      "cover": "https://cdn.mobygames.com/covers/6798565-terraria-xbox-one-front-cover.jpg",
+      "url": "https://www.gamespot.com/games/terraria/",
+      "name": "Terraria",
+      "year": 2011,
+      "platform": "PC"
+    },
+    {
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpvLxlbg2vi_UsqJMFZIHm53A319QlotTWg&s",
+      "url": "https://store.steampowered.com/app/246620/Plague_Inc_Evolved/",
+      "name": "Plague Inc: Evolved",
+      "year": 2016,
+      "platform": "PC"
+    },
+    {
+      "cover": "https://image.api.playstation.com/vulcan/img/rnd/202009/2316/9lBgieKwbsyvYZtKH2MxGkvk.jpg",
+      "url": "https://store.steampowered.com/app/1016920/Unrailed/",
+      "name": "Unrailed!",
+      "year": 2020,
+      "platform": "PC"
+    },
+    {
+      "cover": "https://cdn.mobygames.com/covers/2041729-overcooked-xbox-one-front-cover.jpg",
+      "url": "https://www.gamespot.com/games/overcooked/",
+      "name": "Overcooked!",
+      "year": 2016,
+      "platform": "PC"
+    },
+    {
+      "name": "Plants vs. Zombies",
+      "url": "https://www.gamespot.com/games/plants-vs-zombies/",
+      "cover": "https://i.pinimg.com/564x/c2/11/0a/c2110a258fbb78ce3b2f71704f96f1d3.jpg",
+      "year": 2009,
+      "platform": "PC"
+    },
+    {
+      "cover": "https://m.media-amazon.com/images/I/61tjMSJLboL._AC_UF894,1000_QL80_.jpg",
+      "url": "https://www.gamespot.com/games/super-meat-boy/",
+      "name": "Super Meat Boy",
+      "year": 2010,
+      "platform": "PC"
+    },
+    {
+      "cover": "https://i.ebayimg.com/images/g/n7QAAOSwSe9mrBkX/s-l1200.jpg",
+      "url": "https://www.gamespot.com/games/sonic-rivals/",
+      "name": "Sonic Rivals",
+      "year": 2006,
+      "platform": "PsP"
+    },
+    {
+      "cover": "https://tcrf.net/images/a/a7/Metal_Slug_-title.png",
+      "url": "https://www.ign.com/games/metal-slug",
+      "name": "Metal Slug",
+      "year": 1996,
+      "platform": "Arcade"
+    },
+    {
+      "cover": "https://m.media-amazon.com/images/M/MV5BYjU3MjE3NDUtOGIzOC00NzhkLWJlZjAtYzY5MDA3OGU2YTkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.gamespot.com/games/advance-wars/",
+      "name": "Advance Wars",
+      "year": 2001,
+      "platform": "Gameboy"
+    },
+    {
+      "cover": "https://m.media-amazon.com/images/I/81BTvEm8ovL.jpg",
+      "url": "https://www.gamespot.com/games/disney-pixar-toy-story-3/",
+      "name": "Toy Story 3",
+      "year": 2010,
+      "platform": "PsP"
     }
   ]
 }

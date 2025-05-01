@@ -9,7 +9,7 @@
           <span>{{ game.platform }}</span>
           <div class="footer">
             <span>{{ game.year }}</span>
-            <a :href="game.url" target="_blank">Gamespot</a>
+            <a :href="game.url" target="_blank">{{ getLinkName(game.url) }}</a>
           </div>
         </div>
       </n-card>
@@ -30,10 +30,22 @@ onMounted(async () => {
     if (!res.ok) throw new Error("Failed to load data");
     const jsonData = await res.json();
     content.value = jsonData.content;
+    sortData(content.value);
   } catch (error) {
     console.error("Error loading JSON data:", error);
   }
 });
+
+function sortData(data) {
+  return data.sort((a, b) => a.name.localeCompare(b.name));
+}
+
+function getLinkName(link) {
+  if (link.includes("steampowered")) return "Steam";
+  if (link.includes("gamespot")) return "Gamespot";
+  if (link.includes("ign")) return "IGN";
+  return "";
+}
 </script>
 
 <style scoped>

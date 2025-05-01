@@ -1,12 +1,5 @@
 <template>
   <div class="books-page">
-    <!-- <div class="filter">
-      <n-button-group>
-        <n-button> Novels </n-button>
-        <n-button> Psychology / Non-fiction </n-button>
-        <n-button> Comics & Graphic Novel </n-button>
-      </n-button-group>
-    </div> -->
     <div class="content">
       <n-card v-for="(book, key) in content" :key="key" :title="book.name">
         <template #cover>

@@ -47,12 +47,9 @@ onMounted(async () => {
 });
 
 const filteredData = computed(() => {
-  if (selectedFilter.value.length > 0) {
-    return content.value.filter(
-      (item) => item.category === selectedFilter.value
-    );
-  }
-  return content.value;
+  if (!selectedFilter.value) return content.value;
+
+  return content.value.filter((item) => item.category === selectedFilter.value);
 });
 </script>
 

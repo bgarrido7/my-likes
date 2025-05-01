@@ -5,40 +5,42 @@
       "cover": "https://img.bertrand.pt/images/surrounded-by-idiots-thomas-erikson/NDV8MjYyMjAwOTV8MjI0OTQ0MjF8MTY0NDg2NDE3OTAwMA==/500x",
       "url": "https://www.goodreads.com/book/show/39101777-surrounded-by-idiots",
       "year": 2014,
-      "author": "Thomas Erikson",
-      "category": "psy"
+      "author": "Thomas Erikson"
     },
     {
       "name": "The Subtle Art of Not Giving a F*ck",
       "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/c0/ef/70/7401408/1507-1.jpg",
       "url": "https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck",
       "year": 2016,
-      "author": "Mark Manson",
-      "category": "psy"
+      "author": "Mark Manson"
     },
     {
       "name": "Come as You Are",
       "cover": "https://m.media-amazon.com/images/I/41G5HdMbIuL._AC_UF1000,1000_QL80_.jpg",
       "url": "https://www.goodreads.com/book/show/22609341-come-as-you-are",
       "year": 2015,
-      "author": "Emily Nagoski",
-      "category": "psy"
+      "author": "Emily Nagoski"
     },
     {
-      "name": "The Legend of Korra: Turf Wars",
-      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494028061i/33161035.jpg",
-      "url": "https://www.goodreads.com/book/show/33161035-the-legend-of-korra",
-      "year": 2017,
-      "author": "Michael Dante DiMartino",
-      "category": "comic"
+      "name": "Fourth Wing",
+      "cover": "https://m.media-amazon.com/images/I/71bXcusLgJL._AC_UF894,1000_QL80_.jpg",
+      "url": "https://www.goodreads.com/book/show/61431922-fourth-wing",
+      "year": 2023,
+      "author": "Rebecca Yarros"
     },
     {
-      "name": "The Legend of Korra: Ruins of the Empire",
-      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538332095i/42104583.jpg",
-      "url": "https://www.goodreads.com/book/show/42104583-the-legend-of-korra",
-      "year": 2019,
-      "author": "Michael Dante DiMartino",
-      "category": "comic"
+      "name": "And Then There Were None",
+      "cover": "https://img.wook.pt/images/no-inicio-eram-dez-agatha-christie/MXwyNDQzMjEwNnwyMDUyMTc1OXwxNjA0NTc0NzMwMDAwfHdlYnA=/250x",
+      "url": "https://www.goodreads.com/book/show/16299.And_Then_There_Were_None",
+      "year": 1939,
+      "author": "Agatha Christie"
+    },
+    {
+      "name": "Batman: The Killing Joke",
+      "cover": "https://cdn.europosters.eu/image/1300/art-photo/batman-the-killing-joke-i163821.jpg",
+      "url": "https://www.goodreads.com/book/show/96358.Batman",
+      "year": 1988,
+      "author": "Alan Moore"
     },
     {
       "name": "Sandcastle",
@@ -46,6 +48,20 @@
       "url": "https://www.goodreads.com/book/show/13000768-sandcastle",
       "year": 2010,
       "author": "Pierre Oscar Lévy"
+    },
+    {
+      "name": "The Legend of Korra: Turf Wars",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494028061i/33161035.jpg",
+      "url": "https://www.goodreads.com/book/show/33161035-the-legend-of-korra",
+      "year": 2017,
+      "author": "Michael Dante DiMartino"
+    },
+    {
+      "name": "The Legend of Korra: Ruins of the Empire",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538332095i/42104583.jpg",
+      "url": "https://www.goodreads.com/book/show/42104583-the-legend-of-korra",
+      "year": 2019,
+      "author": "Michael Dante DiMartino"
     }
   ]
 }

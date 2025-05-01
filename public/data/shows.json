@@ -64,6 +64,141 @@
       "name": "Blue Eye Samurai",
       "cover": "https://m.media-amazon.com/images/M/MV5BY2E4ZGIwZWYtMGRiMS00NGI2LTgwYzAtZGY5NGVhNzY3Yjk0XkEyXkFqcGc@._V1_.jpg",
       "url": "https://www.imdb.com/title/tt13309742/?ref_=rt_t_89"
+    },
+    {
+      "name": "Hazbin Hotel",
+      "cover": "https://m.media-amazon.com/images/I/71dEMfdi47L._AC_UF894,1000_QL80_.jpg",
+      "url": "https://www.imdb.com/title/tt7216636/?ref_=fn_all_ttl_1"
+    },
+    {
+      "name": "Extraordinary Attorney Woo",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/9/9d/Strange_Lawyer_Woo_Young-woo.png",
+      "url": "https://www.imdb.com/title/tt20869502/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_extraor"
+    },
+    {
+      "name": "Severance",
+      "cover": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.imdb.com/title/tt11280740/?ref_=fn_all_ttl_1"
+    },
+    {
+      "name": "Over the Garden Wall",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/82/Over_the_Garden_Wall_%28animated_miniseries%29_poster.jpg",
+      "url": "https://www.imdb.com/title/tt3718778/?ref_=fn_all_ttl_1"
+    },
+    {
+      "name": "Adventure Time",
+      "cover": "https://m.media-amazon.com/images/I/81YoIbnTKZL._AC_UF1000,1000_QL80_.jpg",
+      "url": "https://www.imdb.com/title/tt1305826/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_adventure%2520time"
+    },
+    {
+      "name": "Agatha All Along",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.imdb.com/title/tt15571732/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_agatha%2520all"
+    },
+    {
+      "name": "The Boys",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/The_Boys_Season_1.jpg",
+      "url": "https://www.imdb.com/title/tt1190634/?ref_=fn_all_ttl_1"
+    },
+    {
+      "name": "Doona!",
+      "cover": "https://img.withkstar.com/thumnail/22775/origin/991",
+      "url": "https://www.imdb.com/title/tt24245988/?ref_=nv_sr_srsg_3_tt_2_nm_6_in_0_q_doona"
+    },
+    {
+      "name": "Wednesday",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0e3wpG3vAjclU0yBTnwFDLPmDpVzJYLhuQA&s",
+      "url": "https://www.imdb.com/title/tt13443470/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_wednesday"
+    },
+    {
+      "name": "Stranger Things",
+      "cover": "https://m.media-amazon.com/images/I/81DeWbxJTBL.jpg",
+      "url": "https://www.imdb.com/title/tt4574334/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_stranger%2520things"
+    },
+    {
+      "name": "All of Us Are Dead",
+      "cover": "https://knightwriters.org/wp-content/uploads/2022/02/dead-bodies.jpg",
+      "url": "https://www.imdb.com/title/tt14169960/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_all%2520of%2520us%2520are%2520dead"
+    },
+    {
+      "name": "Rick and Morty",
+      "cover": "https://cdn.europosters.eu/image/750/40514.jpg",
+      "url": "https://www.imdb.com/title/tt2861424/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_rick%2520and%2520morty"
+    },
+    {
+      "name": "Devs",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMDBmMGFiNGYtNDRjMS00NzJlLWE5YjctOTkzNDM0ODM5YTRlXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt8134186/?ref_=nv_sr_srsg_1_tt_5_nm_2_in_0_q_devs"
+    },
+    {
+      "name": "Big Little Lies",
+      "cover": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13709301_b_v8_aa.jpg",
+      "url": "https://www.imdb.com/title/tt3920596/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_big%2520littl%2520el"
+    },
+    {
+      "name": "The Society",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMmNlZDcwNjYtOWY3ZC00NGY4LTlkYTktMTAxZjFjNjRhYjJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.imdb.com/title/tt8778064/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520societ"
+    },
+    {
+      "name": "Sharp Objects",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYTY4OTQ0N2EtMDExMC00NTYzLTk0NmItYTRjNDYxOWU5ZDY3XkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt2649356/?ref_=nv_sr_srsg_0_tt_5_nm_1_in_0_q_sharp%2520obje"
+    },
+    {
+      "name": "Heroes",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjI3ODU0OTQ1MV5BMl5BanBnXkFtZTgwNzI0MTQ2MzE@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt0813715/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_heroes"
+    },
+    {
+      "name": "The Office",
+      "cover": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt0386676/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_the%2520office"
+    },
+    {
+      "name": "Friends",
+      "cover": "https://img.posterstore.com/zoom/wb0074-8friends-milkshake50x70.jpg",
+      "url": "https://www.imdb.com/title/tt0108778/?ref_=nv_sr_srsg_6_tt_6_nm_1_in_0_q_friend"
+    },
+    {
+      "name": "Parks and Recreation",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNDlhMzAwNTAtNTk2NS00MTdkLWE3ZWYtMDU0MTFiYmU2ZTc0XkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt1266020/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_parks%2520and"
+    },
+    {
+      "name": "Scream Queens",
+      "cover": "https://i.pinimg.com/474x/21/ed/cc/21edccf9dfda1078d3c2b8ff8bcd4537.jpg",
+      "url": "https://www.imdb.com/title/tt4145384/?ref_=nv_sr_srsg_0_tt_3_nm_5_in_0_q_scream%2520queen"
+    },
+    {
+      "name": "Samurai Jack",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs8p9r6qvl__EMy1aUvyibQdxR4wAs7tccA&s",
+      "url": "https://www.imdb.com/title/tt0278238/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_samurai%2520jack"
+    },
+    {
+      "name": "Game of Thrones",
+      "cover": "https://cdn.europosters.eu/image/1300/161816.jpg",
+      "url": "https://www.imdb.com/title/tt0944947/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_game%2520of%2520th"
+    },
+    {
+      "name": "My Name",
+      "cover": "https://m.media-amazon.com/images/M/MV5BN2ZiZWU3MzMtNGM5OC00ZWVkLTkxNjUtMTYwZGU4MzgxYzk0XkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt12940504/?ref_=fn_all_ttl_2"
+    },
+    {
+      "name": "Brooklyn Nine-Nine",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.imdb.com/title/tt2467372/"
+    },
+    {
+      "name": "Erased",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85ceN4054XB50DjWmsBGsv9S-c2omgkhXHQ&s",
+      "url": "https://www.imdb.com/title/tt7573686/?ref_=nv_sr_srsg_4_tt_8_nm_0_in_0_q_erased"
+    },
+    {
+      "name": "It's Okay to Not Be Okay",
+      "cover": "https://x8r7c6g3.delivery.rocketcdn.me/wp-content/uploads/2020/09/Its-Okay-To-Not-Be-Okay-001.jpg",
+      "url": "https://www.imdb.com/title/tt12451520/"
     }
   ]
 }

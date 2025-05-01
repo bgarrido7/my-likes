@@ -1,17 +1,31 @@
 <template>
   <div class="yuri-page">
     <div class="content">
-      <n-card v-for="(yuri, key) in content" :key="key" :title="yuri.name">
+      <n-card
+        v-for="(yuri, key) in content"
+        :key="key"
+        :title="yuri.name"
+        :segmented="{
+          cover: true,
+          footer: 'soft',
+        }"
+      >
         <template #cover>
           <img :src="yuri.cover" />
         </template>
-        <div class="description">
-          <a :href="yuri.url" target="_blank">anime planet</a>
+
+        <div class="anime">
+          <span v-if="yuri.anime">
+            Anime:&nbsp;
+            <a :href="yuri.anime" target="_blank"> MyAnimeList </a>
+          </span>
         </div>
-        <div v-if="yuri.anime">
-          Anime:
-          <a :href="yuri.anime" target="_blank"> MyAnimeList </a>
-        </div>
+
+        <template #footer>
+          <div class="description">
+            <a :href="yuri.url" target="_blank">anime planet</a>
+          </div>
+        </template>
       </n-card>
     </div>
   </div>
@@ -46,7 +60,7 @@ onMounted(async () => {
 
 .content {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(11vw, auto));
+  grid-template-columns: repeat(auto-fill, minmax(12vw, auto));
   justify-content: start;
   gap: 1.5vw;
   padding: 2vw;
@@ -62,10 +76,16 @@ onMounted(async () => {
   }
 }
 
+.anime {
+  flex: 1;
+  display: flex;
+  height: 100%;
+  align-items: end;
+}
+
 .description {
   display: flex;
   flex-direction: column;
-  height: 100%;
   justify-content: end;
   align-items: end;
 }

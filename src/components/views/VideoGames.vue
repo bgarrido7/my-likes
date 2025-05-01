@@ -1,17 +1,31 @@
 <template>
   <div class="games-page">
     <div class="content">
-      <n-card v-for="(game, key) in content" :key="key" :title="game.name">
+      <n-card
+        v-for="(game, key) in content"
+        :key="key"
+        :title="game.name"
+        :segmented="{
+          cover: true,
+          footer: 'soft',
+        }"
+      >
         <template #cover>
           <img :src="game.cover" />
         </template>
-        <div class="description">
-          <span>{{ game.platform }}</span>
-          <div class="footer">
+        <template></template>
+
+        <template #footer>
+          <div class="description">
             <span>{{ game.year }}</span>
+          </div>
+        </template>
+        <template #action
+          ><div class="footer">
+            <span>{{ game.platform }}</span>
             <a :href="game.url" target="_blank">{{ getLinkName(game.url) }}</a>
           </div>
-        </div>
+        </template>
       </n-card>
     </div>
   </div>
@@ -76,9 +90,8 @@ function getLinkName(link) {
 
 .description {
   display: flex;
-  justify-content: end;
-  flex-direction: column;
-  height: 100%;
+  justify-content: start;
+  align-items: end;
 }
 
 .footer {

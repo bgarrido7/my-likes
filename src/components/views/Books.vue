@@ -1,17 +1,28 @@
 <template>
   <div class="books-page">
     <div class="content">
-      <n-card v-for="(book, key) in content" :key="key" :title="book.name">
+      <n-card
+        v-for="(book, key) in content"
+        :key="key"
+        :title="book.name"
+        :segmented="{
+          cover: true,
+          footer: 'soft',
+        }"
+      >
         <template #cover>
           <img :src="book.cover" />
         </template>
-        <div class="description">
-          <span>{{ book.author }}</span>
-          <div class="footer">
-            <span>{{ book.year }}</span>
-            <a :href="book.url" target="_blank">Goodreads</a>
+        <template />
+        <template #footer>
+          <div class="description">
+            <span>{{ book.author }}</span>
+            <div class="footer">
+              <span>{{ book.year }}</span>
+              <a :href="book.url" target="_blank">Goodreads</a>
+            </div>
           </div>
-        </div>
+        </template>
       </n-card>
     </div>
   </div>
@@ -19,7 +30,7 @@
 
 <script setup>
 import { ref, onMounted } from "vue";
-import { NButton, NButtonGroup, NCard } from "naive-ui";
+import { NCard } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/books.json`;
 const content = ref([]);

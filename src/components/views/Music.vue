@@ -1,17 +1,28 @@
 <template>
   <div class="music-page">
     <div class="content">
-      <n-card v-for="(album, key) in content" :key="key" :title="album.name">
+      <n-card
+        v-for="(album, key) in content"
+        :key="key"
+        :title="album.name"
+        :segmented="{
+          cover: true,
+          footer: 'soft',
+        }"
+      >
         <template #cover>
           <img :src="album.cover" />
         </template>
-        <div class="description">
-          <span>{{ album.artist }}</span>
-          <div class="footer">
-            <span>{{ album.year }}</span>
-            <a :href="album.url" target="_blank">Spotify</a>
+        <template />
+        <template #footer>
+          <div class="description">
+            <span>{{ album.artist }}</span>
+            <div class="footer">
+              <span>{{ album.year }}</span>
+              <a :href="album.url" target="_blank">Spotify</a>
+            </div>
           </div>
-        </div>
+        </template>
       </n-card>
     </div>
   </div>

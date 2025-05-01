@@ -199,10 +199,10 @@
     },
     {
       "name": "Pokemon",
-      "cover": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co1ziq.jpg",
-      "url": "https://www.gamespot.com/games/pokemon-firered-leafgreen-version/",
-      "year": 2004,
-      "platform": "Gameboy"
+      "cover": "https://m.media-amazon.com/images/I/71o9UvcQFcL._AC_UF894,1000_QL80_.jpg",
+      "url": "https://www.ign.com/playlist/igneditorial/lists/pokemon-all-mainline-games",
+      "year": "1996 - 2022",
+      "platform": "Nintendo"
     },
     {
       "name": "The Legend of Zelda: Echoes of Wisdom",
@@ -387,13 +387,6 @@
       "platform": "PC"
     },
     {
-      "name": "Plants vs. Zombies",
-      "url": "https://www.gamespot.com/games/plants-vs-zombies/",
-      "cover": "https://i.pinimg.com/564x/c2/11/0a/c2110a258fbb78ce3b2f71704f96f1d3.jpg",
-      "year": 2009,
-      "platform": "PC"
-    },
-    {
       "cover": "https://m.media-amazon.com/images/I/61tjMSJLboL._AC_UF894,1000_QL80_.jpg",
       "url": "https://www.gamespot.com/games/super-meat-boy/",
       "name": "Super Meat Boy",
@@ -427,6 +420,13 @@
       "name": "Toy Story 3",
       "year": 2010,
       "platform": "PsP"
+    },
+    {
+      "name": "Plants vs. Zombies",
+      "url": "https://www.gamespot.com/games/plants-vs-zombies/",
+      "cover": "https://i.pinimg.com/564x/c2/11/0a/c2110a258fbb78ce3b2f71704f96f1d3.jpg",
+      "year": 2009,
+      "platform": "PC"
     }
   ]
 }

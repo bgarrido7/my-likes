@@ -51,7 +51,7 @@ onMounted(async () => {
 });
 
 function sortData(data) {
-  return data.sort((a, b) => a.name.localeCompare(b.name));
+  return data.sort((a, b) => b.year - a.year);
 }
 
 function getLinkName(link) {

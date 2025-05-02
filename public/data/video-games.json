@@ -198,13 +198,6 @@
       "platform": "PC"
     },
     {
-      "name": "Pokemon",
-      "cover": "https://m.media-amazon.com/images/I/71o9UvcQFcL._AC_UF894,1000_QL80_.jpg",
-      "url": "https://www.ign.com/playlist/igneditorial/lists/pokemon-all-mainline-games",
-      "year": "1996 - 2022",
-      "platform": "Nintendo"
-    },
-    {
       "name": "The Legend of Zelda: Echoes of Wisdom",
       "cover": "https://i.etsystatic.com/37268737/r/il/42ed64/6133715293/il_fullxfull.6133715293_4h25.jpg",
       "url": "https://www.gamespot.com/games/the-legend-of-zelda-echoes-of-wisdom/",
@@ -434,6 +427,33 @@
       "cover": "https://i.pinimg.com/564x/c2/11/0a/c2110a258fbb78ce3b2f71704f96f1d3.jpg",
       "year": 2009,
       "platform": "PC"
+    },
+    {
+      "name": "Keep Talking and Nobody Explodes",
+      "url": "https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/1/10/Keep_Talking_and_Nobody_Explodes_cover.jpg",
+      "year": 2015
+    },
+    {
+      "name": "Tomba!",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYzk1ODY3ZTItMjMyZS00MDdhLWIxYzctMGFhNWUzOGI0ZmYwXkEyXkFqcGc@._V1_.jpg",
+      "url": "https://www.gamespot.com/games/tomba/",
+      "year": 1998,
+      "platform": "PlayStation"
+    },
+    {
+      "name": "Guitar Hero III: Legends of Rock",
+      "platform": "PlayStation",
+      "year": 2007,
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/b/be/Guitar_Hero_3_capa.png",
+      "url": "https://www.gamespot.com/games/guitar-hero-iii-legends-of-rock/"
+    },
+    {
+      "name": "Pokemon",
+      "cover": "https://m.media-amazon.com/images/I/71o9UvcQFcL._AC_UF894,1000_QL80_.jpg",
+      "url": "https://www.ign.com/playlist/igneditorial/lists/pokemon-all-mainline-games",
+      "year": "1996 - 2022",
+      "platform": "Nintendo"
     }
   ]
 }

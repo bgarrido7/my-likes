@@ -3,19 +3,8 @@
   <head>
     <meta http-equiv="refresh" content="0;url=./" />
     <script>
-      // Get the full path of the current URL
-      var path =
-        window.location.pathname +
-        window.location.search +
-        window.location.hash;
-
-      // Redirect to index.html and keep the current path after the hash (#)
-      if (path !== "/index.html") {
-        window.location.href = "./index.html" + path; // Keep the hash part intact
-      } else {
-        // If it's already index.html, just redirect to the hash
-        window.location.href = "./" + window.location.hash;
-      }
+      // If it's already index.html, just redirect to the hash
+      window.location.href = "./" + window.location.hash;
     </script>
   </head>
   <body>

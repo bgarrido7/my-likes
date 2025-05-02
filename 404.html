@@ -1,11 +1,21 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0;url=./index.html" />
+    <meta http-equiv="refresh" content="0;url=./" />
     <script>
-      // Use JavaScript to redirect to the index.html file
-      window.location.href = "./index.html";
-      console.log("ola 2");
+      // Get the full path of the current URL
+      var path =
+        window.location.pathname +
+        window.location.search +
+        window.location.hash;
+
+      // Redirect to index.html and keep the current path after the hash (#)
+      if (path !== "/index.html") {
+        window.location.href = "./index.html" + path; // Keep the hash part intact
+      } else {
+        // If it's already index.html, just redirect to the hash
+        window.location.href = "./" + window.location.hash;
+      }
     </script>
   </head>
   <body>

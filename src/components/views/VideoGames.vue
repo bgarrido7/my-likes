@@ -89,15 +89,19 @@ function getLinkName(link) {
 }
 
 const sortedData = computed(() => {
-  if (selectedSorting.value === "name")
-    if (sortOrder.value === "asc")
-      return content.value.sort((a, b) => a.name.localeCompare(b.name));
-    else return content.value.sort((a, b) => b.name.localeCompare(a.name));
-  else if (selectedSorting.value === "year")
-    if (sortOrder.value === "asc")
-      return content.value.sort((a, b) => b.year - a.year);
-    else return content.value.sort((a, b) => a.year - b.year);
-  else return content.value;
+  if (selectedSorting.value === "name") {
+    return content.value.sort((a, b) =>
+      sortOrder.value === "asc"
+        ? a.name.localeCompare(b.name)
+        : b.name.localeCompare(a.name)
+    );
+  }
+  if (selectedSorting.value === "year") {
+    return content.value.sort((a, b) =>
+      sortOrder.value === "asc" ? b.year - a.year : a.year - b.year
+    );
+  }
+  return content.value;
 });
 
 function updateSortOrder() {

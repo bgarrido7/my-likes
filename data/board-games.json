@@ -1,9 +1,9 @@
 {
   "content": [
     {
-      "name": "Catan",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg",
-      "url": "https://boardgamegeek.com/boardgame/13/catan"
+      "name": "Sushi Go!",
+      "cover": "https://cf.geekdo-images.com/EPdI2KbLVtpGWLgL_eJLFg__opengraph/img/a-HNjDVBd6SNzrsMgXZ0zUzymtI=/fit-in/1200x630/filters:strip_icc()/pic5885690.jpg",
+      "url": "https://boardgamegeek.com/boardgame/133473/sushi-go"
     },
     {
       "name": "Pandemic",
@@ -31,12 +31,6 @@
       "url": "https://boardgamegeek.com/boardgame/178900/codenames"
     },
     {
-      "name": "One Night Werewolf",
-      "cover": "https://miro.medium.com/v2/resize:fit:1000/0*YBuMdaQQN0-AO0cL.jpg",
-      "url": "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf"
-    },
-
-    {
       "name": "Estoril 1942",
       "cover": "https://mebo.pt/wp-content/uploads/2021/06/5600243420099-estoril-1942-super-box-cover.jpg",
       "url": "https://boardgamegeek.com/boardgame/288378/estoril-1942-super-box"
@@ -55,6 +49,21 @@
       "name": "Azul",
       "cover": "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__itemrep/img/6oRLPDvy4zz3gOZM6e6NzIk8Seg=/fit-in/246x300/filters:strip_icc()/pic6973671.png",
       "url": "https://boardgamegeek.com/boardgame/230802/azul"
+    },
+    {
+      "name": "Catan",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/a/a3/Catan-2015-boxart.jpg",
+      "url": "https://boardgamegeek.com/boardgame/13/catan"
+    },
+    {
+      "name": "Throw Throw Burrito",
+      "cover": "https://m.media-amazon.com/images/I/71094VPio+L._AC_UF894,1000_QL80_.jpg",
+      "url": "https://boardgamegeek.com/boardgame/274533/throw-throw-burrito"
+    },
+    {
+      "name": "One Night Werewolf",
+      "cover": "https://miro.medium.com/v2/resize:fit:1000/0*YBuMdaQQN0-AO0cL.jpg",
+      "url": "https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf"
     }
   ]
 }

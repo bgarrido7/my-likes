@@ -3,7 +3,7 @@
     <div class="content">
       <n-card v-for="(game, key) in content" :key="key" :title="game.name">
         <template #cover>
-          <img :src="game.cover" />
+          <img :src="game.cover" class=".rotate-90" />
         </template>
         <div class="footer">
           <span>{{ game.year }}</span>

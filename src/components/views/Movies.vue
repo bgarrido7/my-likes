@@ -2,16 +2,18 @@
   <div class="movies-page">
     <div class="sorting">
       Sort by:
-      <n-radio-group v-model:value="selectedSorting" @click="updateSorting">
+      <n-radio-group v-model:value="selectedSorting" @click="triggerSorting">
         <n-radio-button value="name">Name</n-radio-button>
         <n-radio-button value="year">Year</n-radio-button>
       </n-radio-group>
 
+      <n-icon v-if="!isSorted" size="18" :component="ArrowSort16Regular" />
+
       <n-icon
+        v-else
         size="18"
         class="sort-icon"
-        :component="iconName"
-        :color="iconColor"
+        :component="ArrowSortDownLines16Regular"
         @click="updateSortOrder"
         :style="{ transform: 'rotate(' + rotationAngle + 'deg)' }"
       />
@@ -44,9 +46,7 @@ const content = ref([]);
 
 const selectedSorting = ref("");
 const sortOrder = ref("asc");
-
-const iconName = ref(ArrowSort16Regular);
-const iconColor = ref("");
+const isSorted = ref(false);
 const rotationAngle = ref(0);
 
 onMounted(async () => {
@@ -81,15 +81,12 @@ function updateSortOrder() {
     sortOrder.value = "asc";
     rotationAngle.value = 0;
   }
-  iconName.value = ArrowSortDownLines16Regular;
-  iconColor.value = "#18a058";
 }
 
-function updateSorting() {
+function triggerSorting() {
   sortOrder.value = "asc";
-  iconName.value = ArrowSortDownLines16Regular;
   rotationAngle.value = 0;
-  iconColor.value = "#18a058";
+  isSorted.value = true;
 }
 </script>
 
@@ -136,5 +133,8 @@ function updateSorting() {
 .sort-icon {
   cursor: pointer;
   transition: all 0.5s ease;
+}
+.sort-icon:hover {
+  color: #18a058;
 }
 </style>

@@ -27,9 +27,7 @@
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
-import { NCard } from "naive-ui";
-import { NRadioButton } from "naive-ui";
-import { NRadioGroup } from "naive-ui";
+import { NCard, NRadioButton, NRadioGroup } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/animes.json`;
 const content = ref([]);

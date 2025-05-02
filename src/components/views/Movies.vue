@@ -1,7 +1,15 @@
 <template>
   <div class="movies-page">
+    <div class="sorting">
+      Sort by:
+      <n-radio-group v-model:value="selectedSorting">
+        <n-radio-button value="name">Name</n-radio-button>
+        <n-radio-button value="year">Year</n-radio-button>
+      </n-radio-group>
+    </div>
+
     <div class="content">
-      <n-card v-for="(movie, key) in content" :key="key" :title="movie.name">
+      <n-card v-for="(movie, key) in sortedData" :key="key" :title="movie.name">
         <template #cover>
           <img :src="movie.cover" />
         </template>
@@ -15,11 +23,12 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
-import { NCard } from "naive-ui";
+import { ref, onMounted, computed } from "vue";
+import { NCard, NRadioButton, NRadioGroup } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/movies.json`;
 const content = ref([]);
+const selectedSorting = ref("");
 
 onMounted(async () => {
   try {
@@ -30,6 +39,14 @@ onMounted(async () => {
   } catch (error) {
     console.error("Error loading JSON data:", error);
   }
+});
+
+const sortedData = computed(() => {
+  if (selectedSorting.value === "name")
+    return content.value.sort((a, b) => a.name.localeCompare(b.name));
+  else if (selectedSorting.value === "year")
+    return content.value.sort((a, b) => b.year - a.year);
+  else return content.value;
 });
 </script>
 
@@ -64,5 +81,11 @@ onMounted(async () => {
   align-items: end;
   justify-content: space-between;
   height: 100%;
+}
+
+.sorting {
+  display: flex;
+  gap: 1vw;
+  align-items: center;
 }
 </style>

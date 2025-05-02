@@ -1,11 +1,6 @@
 {
   "content": [
     {
-      "name": "Pulse",
-      "cover": "https://bibliosapphic.wordpress.com/wp-content/uploads/2017/06/pulse.jpg?w=640",
-      "url": "https://www.anime-planet.com/manga/pulse"
-    },
-    {
       "name": "Bloom Into You",
       "cover": "https://a-static.mlcdn.com.br/800x560/manga-bloom-into-you-volume-3-portugues/ebancas/626bf8defc3e11ebbe074201ac185013/3436c2f9d2fea2fd6bb66b09f5f810a8.jpeg",
       "url": "https://www.anime-planet.com/manga/bloom-into-you",
@@ -28,9 +23,79 @@
       "url": "https://www.anime-planet.com/manga/bloom-into-you-regarding-saeki-sayaka-light-novel"
     },
     {
+      "name": "I Can’t Say No to the Lonely Girl",
+      "cover": "https://m.media-amazon.com/images/I/81vhv3VeAJL._AC_UF1000,1000_QL80_.jpg",
+      "url": "https://www.anime-planet.com/manga/i-cant-say-no-to-the-lonely-girl"
+    },
+    {
       "name": "The Guy She Was Interested in Wasn't a Guy at All",
       "cover": "https://m.media-amazon.com/images/I/91lDwrqlgIL.jpg",
       "url": "https://www.anime-planet.com/manga/the-guy-she-was-interested-in-wasnt-a-guy-at-all"
+    },
+    {
+      "name": "How Do We Relationship?",
+      "cover": "https://m.media-amazon.com/images/I/71XV15Akx0L.jpg",
+      "url": "https://www.anime-planet.com/manga/how-do-we-relationship"
+    },
+    {
+      "name": "A lonely female CEO falls for a lesbian prostitute in seconds",
+      "cover": "https://mangadex.org/covers/34d4ed85-1fe3-4f4f-914d-4bde5217a0f5/15d7e907-31f0-41e9-ba8a-c2ed27994fcd.jpg",
+      "url": "https://www.anime-planet.com/manga/sabishisugiru-onna-shachou-ga-lesbian-fuuzokujou-ni-byou-de-ochiru-hanashi"
+    },
+    {
+      "name": "SQ: Begin W/Your Name",
+      "cover": "https://www.animeclick.it/immagini/manga/Tamen_De_Gushi/cover/Tamen_De_Gushi-cover.jpg",
+      "url": "https://www.anime-planet.com/manga/sq-begin-w-your-name"
+    },
+    {
+      "name": "Mojito",
+      "cover": "https://us-a.tapas.io/sa/6a/39b9866a-d8db-4068-b73a-848c5389d9b1_z.jpg",
+      "url": "https://www.anime-planet.com/manga/mojito"
+    },
+    {
+      "name": "My Dear Enemy",
+      "cover": "https://img.qisimanhua.kouwz.com/storage/20230106/63b7864e9ee55.jpg",
+      "url": "https://www.anime-planet.com/manga/my-dear-enemy"
+    },
+    {
+      "name": "Blooming Sequence",
+      "cover": "https://pbs.twimg.com/media/EQDdi1NWkAA5vqN?format=jpg&name=large",
+      "url": "https://www.anime-planet.com/manga/blooming-sequence"
+    },
+    {
+      "name": "Pulse",
+      "cover": "https://bibliosapphic.wordpress.com/wp-content/uploads/2017/06/pulse.jpg?w=640",
+      "url": "https://www.anime-planet.com/manga/pulse"
+    },
+    {
+      "name": "Lily Love 2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_ywF4c130UJsuR_424fitWoKX2wH8Sbfxw&s",
+      "url": "https://www.anime-planet.com/manga/lily-love-2"
+    },
+    {
+      "name": "Find Assistant Manager Kim",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2euF17L6CSPauASryPEv4WaZs90U643TBQ&s",
+      "url": "https://www.anime-planet.com/manga/find-assistant-manager-kim"
+    },
+    {
+      "name": "Bad Thinking Diary",
+      "cover": "https://i1.sndcdn.com/artworks-snqw4QWvXzuBBYjp-pgxVZg-t500x500.jpg",
+      "url": "https://www.anime-planet.com/manga/bad-thinking-diary"
+    },
+    {
+      "name": "Get Out of My House",
+      "cover": "https://pbs.twimg.com/media/ErhFANqUUAEey6D?format=jpg&name=4096x4096",
+      "url": "https://www.anime-planet.com/manga/exits-that-way"
+    },
+    {
+      "name": "Drunken My Boss",
+      "cover": "https://imagizer.imageshack.com/img924/6651/QM7TxY.jpg",
+      "url": "https://www.anime-planet.com/manga/drunken-my-boss"
+    },
+    {
+      "name": "Outro",
+      "cover": "https://n27.mbmyj.org/media/mbim/5fe/5fe9b9f353a6b555e3e6126512832b5ad83391c6_600_800_50514.webp",
+      "url": "https://www.anime-planet.com/manga/outro"
     }
   ]
 }

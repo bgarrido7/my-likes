@@ -223,7 +223,14 @@
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMtGMeK1gOuPgDDauozmNFe-v5vHJLDNYhmg&s",
       "url": "https://www.gamespot.com/games/the-legend-of-zelda-a-link-between-worlds/",
       "year": 2013,
-      "platform": "Nintento 3DS"
+      "platform": "Nintendo 3DS"
+    },
+    {
+      "name": "Among Us",
+      "cover": "https://www.tuni.fi/playlab/wp-content/uploads/2022/10/704488-among-us-windows-apps-front-cover-2.jpg",
+      "url": "https://store.steampowered.com/app/945360/Among_Us/",
+      "year": 2018,
+      "platform": "PC"
     },
     {
       "name": "The Binding of Isaac",

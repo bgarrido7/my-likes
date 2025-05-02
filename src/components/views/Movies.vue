@@ -8,7 +8,6 @@
       </n-radio-group>
 
       <n-icon v-if="!isSorted" size="18" :component="ArrowSort16Regular" />
-
       <n-icon
         v-else
         size="18"

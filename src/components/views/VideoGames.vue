@@ -2,10 +2,20 @@
   <div class="games-page">
     <div class="sorting">
       Sort by:
-      <n-radio-group v-model:value="selectedSorting">
+      <n-radio-group v-model:value="selectedSorting" @click="triggerSorting">
         <n-radio-button value="name">Name</n-radio-button>
         <n-radio-button value="year">Year</n-radio-button>
       </n-radio-group>
+
+      <n-icon v-if="!isSorted" size="18" :component="ArrowSort16Regular" />
+      <n-icon
+        v-else
+        size="18"
+        class="sort-icon"
+        :component="ArrowSortDownLines16Regular"
+        @click="updateSortOrder"
+        :style="{ transform: 'rotate(' + rotationAngle + 'deg)' }"
+      />
     </div>
 
     <div class="content">
@@ -41,11 +51,19 @@
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
-import { NCard, NRadioButton, NRadioGroup } from "naive-ui";
+import { NCard, NRadioButton, NRadioGroup, NIcon } from "naive-ui";
+import {
+  ArrowSort16Regular,
+  ArrowSortDownLines16Regular,
+} from "@vicons/fluent";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/video-games.json`;
 const content = ref([]);
+
 const selectedSorting = ref("");
+const sortOrder = ref("asc");
+const isSorted = ref(false);
+const rotationAngle = ref(0);
 
 onMounted(async () => {
   try {
@@ -72,11 +90,32 @@ function getLinkName(link) {
 
 const sortedData = computed(() => {
   if (selectedSorting.value === "name")
-    return content.value.sort((a, b) => a.name.localeCompare(b.name));
+    if (sortOrder.value === "asc")
+      return content.value.sort((a, b) => a.name.localeCompare(b.name));
+    else return content.value.sort((a, b) => b.name.localeCompare(a.name));
   else if (selectedSorting.value === "year")
-    return content.value.sort((a, b) => b.year - a.year);
+    if (sortOrder.value === "asc")
+      return content.value.sort((a, b) => b.year - a.year);
+    else return content.value.sort((a, b) => a.year - b.year);
   else return content.value;
 });
+
+function updateSortOrder() {
+  if (!selectedSorting.value) return;
+  else if (sortOrder.value === "asc") {
+    sortOrder.value = "desc";
+    rotationAngle.value = 180;
+  } else {
+    sortOrder.value = "asc";
+    rotationAngle.value = 0;
+  }
+}
+
+function triggerSorting() {
+  sortOrder.value = "asc";
+  rotationAngle.value = 0;
+  isSorted.value = true;
+}
 </script>
 
 <style scoped>
@@ -121,5 +160,12 @@ const sortedData = computed(() => {
   display: flex;
   gap: 1vw;
   align-items: center;
+}
+.sort-icon {
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+.sort-icon:hover {
+  color: #18a058;
 }
 </style>

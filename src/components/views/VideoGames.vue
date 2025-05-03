@@ -2,7 +2,7 @@
   <div class="games-page">
     <div class="sorting">
       Sort by:
-      <n-radio-group v-model:value="selectedSorting" @click="triggerSorting">
+      <n-radio-group v-model:value="selectedSorting" @click="updateSortType">
         <n-radio-button value="name">Name</n-radio-button>
         <n-radio-button value="year">Year</n-radio-button>
       </n-radio-group>
@@ -70,13 +70,6 @@ onMounted(async () => {
   }
 });
 
-function getLinkName(link) {
-  if (link.includes("steampowered")) return "Steam";
-  if (link.includes("gamespot")) return "Gamespot";
-  if (link.includes("ign")) return "IGN";
-  return "";
-}
-
 const sortedData = computed(() => {
   if (selectedSorting.value === "name") {
     return content.value.sort((a, b) =>
@@ -104,9 +97,16 @@ function updateSortOrder() {
   }
 }
 
-function triggerSorting() {
+function updateSortType() {
   sortOrder.value = "asc";
   rotationAngle.value = 0;
+}
+
+function getLinkName(link) {
+  if (link.includes("steampowered")) return "Steam";
+  if (link.includes("gamespot")) return "Gamespot";
+  if (link.includes("ign")) return "IGN";
+  return "";
 }
 </script>
 

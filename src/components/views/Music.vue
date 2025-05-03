@@ -1,8 +1,16 @@
 <template>
   <div class="music-page">
+    <div class="filter">
+      Category:
+      <n-radio-group v-model:value="selectedFilter">
+        <n-radio-button value="kpop">K-pop</n-radio-button>
+        <n-radio-button value="rock">Rock</n-radio-button>
+        <n-radio-button value="indie">Indie</n-radio-button>
+      </n-radio-group>
+    </div>
     <div class="content">
       <n-card
-        v-for="(album, key) in content"
+        v-for="(album, key) in filteredData"
         :key="key"
         :title="album.name"
         :segmented="{
@@ -29,11 +37,12 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
-import { NCard } from "naive-ui";
+import { ref, onMounted, computed } from "vue";
+import { NCard, NRadioButton, NRadioGroup } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/music.json`;
 const content = ref([]);
+const selectedFilter = ref("");
 
 onMounted(async () => {
   try {
@@ -44,6 +53,11 @@ onMounted(async () => {
   } catch (error) {
     console.error("Error loading JSON data:", error);
   }
+});
+const filteredData = computed(() => {
+  if (!selectedFilter.value) return content.value;
+
+  return content.value.filter((item) => item.category === selectedFilter.value);
 });
 </script>
 
@@ -84,5 +98,12 @@ onMounted(async () => {
   display: flex;
   align-items: end;
   justify-content: space-between;
+}
+
+.filter {
+  display: flex;
+  align-items: center;
+  gap: 1vw;
+  font-size: small;
 }
 </style>

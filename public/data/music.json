@@ -5,14 +5,72 @@
       "cover": "https://lv2-cdn.azureedge.net/itzy/92e81f5e06a44c96b8777382fa83b653-Guesswho-onlinecover-fans.jpg",
       "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G",
       "year": 2021,
-      "artist": "ITZY"
+      "artist": "ITZY",
+      "category": "kpop"
     },
     {
       "name": "Eyes wide open",
       "cover": "https://lv2-cdn.azureedge.net/twice/9bafe5921dd74c659fc9c0ec89be5f30-087570ec6c704f11a18c23f4177b4a7a-TWICE%20EYES%20WIDE%20OPEN_ONLINECOVER.jpg",
       "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH",
       "year": 2020,
-      "artist": "TWICE"
+      "artist": "TWICE",
+      "category": "kpop"
+    },
+    {
+      "name": "Bad Ideas",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/7/7b/Bad_Ideas_album_cover.jpg",
+      "url": "https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl",
+      "year": 2019,
+      "artist": "Tessa Violet",
+      "category": "indie"
+    },
+    {
+      "name": "Rush!",
+      "artist": "Måneskin",
+      "url": "https://open.spotify.com/album/3wLMnrlPtVSADxalu9kIxK",
+      "year": 2023,
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/8/8b/Rush%21_album.png",
+      "category": "rock"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/9/96/Capa-AM_%28oficial%29.jpeg",
+      "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu",
+      "year": 2013,
+      "name": "AM",
+      "category": "rock"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "url": "",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Suckitandsee.jpg",
+      "year": 2011,
+      "name": "Suck It and See",
+      "category": "rock"
+    },
+    {
+      "name": "Whatever People Say I Am, That's What I'm Not",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/1/1c/Arctic_MonkeysWhatever.jpg",
+      "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1",
+      "year": 2006,
+      "artist": "Arctic Monkeys",
+      "category": "rock"
+    },
+    {
+      "name": "Favorite Worst Nightmare",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Arctic_Monkeys_Favourite.jpg",
+      "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm",
+      "year": 2007,
+      "artist": "Arctic Monkeys",
+      "category": "rock"
+    },
+    {
+      "name": "Noeasy",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/5/59/Stray_Kids_-_Noeasy_%28Digital%29.jpeg",
+      "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj",
+      "artist": "Stray Kids",
+      "category": "kpop",
+      "year": 2021
     }
   ]
 }

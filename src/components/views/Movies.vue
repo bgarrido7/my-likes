@@ -1,21 +1,34 @@
 <template>
   <div class="movies-page">
-    <div class="sorting">
-      Sort by:
-      <n-radio-group v-model:value="selectedSorting" @click="triggerSorting">
-        <n-radio-button value="name">Name</n-radio-button>
-        <n-radio-button value="year">Year</n-radio-button>
-      </n-radio-group>
+    <div class="header">
+      <div class="filter">
+        <label for="genre_label">Category:</label>
+        <n-select
+          v-model:value="selectedFilter"
+          :options="genres"
+          multiple
+          inputId="genre_label"
+          placeholder="Select Some"
+          :clearable="true"
+        />
+      </div>
 
-      <n-icon v-if="!isSorted" size="18" :component="ArrowSort16Regular" />
-      <n-icon
-        v-else
-        size="18"
-        class="sort-icon"
-        :component="ArrowSortDownLines16Regular"
-        @click="updateSortOrder"
-        :style="{ transform: 'rotate(' + rotationAngle + 'deg)' }"
-      />
+      <div class="sorting">
+        Sort by:
+        <n-radio-group v-model:value="selectedSorting" @click="triggerSorting">
+          <n-radio-button value="name">Name</n-radio-button>
+          <n-radio-button value="year">Year</n-radio-button>
+        </n-radio-group>
+        <n-icon v-if="!isSorted" size="18" :component="ArrowSort16Regular" />
+        <n-icon
+          v-else
+          size="18"
+          class="sort-icon"
+          :component="ArrowSortDownLines16Regular"
+          @click="updateSortOrder"
+          :style="{ transform: 'rotate(' + rotationAngle + 'deg)' }"
+        />
+      </div>
     </div>
 
     <div class="content">
@@ -34,7 +47,7 @@
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
-import { NCard, NRadioButton, NRadioGroup, NIcon } from "naive-ui";
+import { NCard, NRadioButton, NRadioGroup, NIcon, NSelect } from "naive-ui";
 import {
   ArrowSort16Regular,
   ArrowSortDownLines16Regular,
@@ -43,10 +56,29 @@ import {
 const jsonUrl = `${import.meta.env.BASE_URL}data/movies.json`;
 const content = ref([]);
 
+const selectedFilter = ref([]);
+
 const selectedSorting = ref("");
 const sortOrder = ref("asc");
 const isSorted = ref(false);
 const rotationAngle = ref(0);
+
+const genres = computed(() => {
+  const availableGenres = [
+    "action",
+    "romance",
+    "thriller",
+    "fantasy",
+    "tragedy",
+    "animation",
+    "drama",
+    "comedy",
+  ];
+  return availableGenres.map((genre) => ({
+    label: genre.charAt(0).toUpperCase() + genre.slice(1),
+    value: genre,
+  }));
+});
 
 onMounted(async () => {
   try {
@@ -60,19 +92,27 @@ onMounted(async () => {
 });
 
 const sortedData = computed(() => {
+  let filtered = content.value;
+
+  if (selectedFilter.value.length) {
+    filtered = filtered.filter((movie) =>
+      movie.genre.some((g) => selectedFilter.value.includes(g))
+    );
+  }
   if (selectedSorting.value === "name") {
-    return content.value.sort((a, b) =>
+    return [...filtered].sort((a, b) =>
       sortOrder.value === "asc"
         ? a.name.localeCompare(b.name)
         : b.name.localeCompare(a.name)
     );
   }
   if (selectedSorting.value === "year") {
-    return content.value.sort((a, b) =>
+    return [...filtered].sort((a, b) =>
       sortOrder.value === "asc" ? b.year - a.year : a.year - b.year
     );
   }
-  return content.value;
+
+  return filtered;
 });
 
 function updateSortOrder() {
@@ -95,10 +135,16 @@ function triggerSorting() {
 
 <style scoped>
 .movies-page {
-  padding: 1vw;
   padding-bottom: 0;
   overflow-y: auto;
   max-height: 100vh;
+  padding: 1vw;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2vw;
 }
 
 .content {
@@ -126,11 +172,18 @@ function triggerSorting() {
   height: 100%;
 }
 
-.sorting {
+.sorting,
+.filter {
   display: flex;
   gap: 1vw;
   align-items: center;
   font-size: small;
+}
+
+.filter {
+  min-width: 200px;
+
+  width: fit-content;
 }
 
 .sort-icon {

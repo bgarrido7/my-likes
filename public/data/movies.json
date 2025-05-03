@@ -4,45 +4,52 @@
       "name": "Gone Girl",
       "cover": "https://i.ebayimg.com/00/s/MTYwMFgxMDY2/z/LmwAAOSwYqFk3KHo/$_57.JPG?set_id=880000500F",
       "url": "https://www.imdb.com/title/tt2267998/?ref_=rt_i_3",
-      "year": 2014
+      "year": 2014,
+      "genre": ["thriller"]
     },
     {
       "name": "Everything Everywhere All at Once",
       "cover": "https://i.etsystatic.com/18242346/r/il/7fb6f1/3898744406/il_fullxfull.3898744406_6wp7.jpg",
       "url": "https://www.imdb.com/title/tt6710474/?ref_=rt_i_4",
-      "year": 2022
+      "year": 2022,
+      "genre": ["fantasy"]
     },
     {
       "name": "Train to Busan",
       "cover": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",
       "url": "https://www.imdb.com/title/tt5700672/?ref_=rt_i_7",
-      "year": 2016
+      "year": 2016,
+      "genre": ["thriller", "fantasy"]
     },
     {
       "name": "Memento",
       "cover": "https://m.media-amazon.com/images/I/51jojzqpkPL._AC_UF894,1000_QL80_.jpg",
       "url": "https://www.imdb.com/title/tt0209144/?ref_=rt_i_5",
-      "year": 2000
+      "year": 2000,
+      "genre": ["thriller"]
     },
     {
       "name": "Eternal Sunshine of the Spotless Mind",
       "cover": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_FMjpg_UX1000_.jpg",
       "url": "https://www.imdb.com/title/tt0338013/",
-      "year": 2004
+      "year": 2004,
+      "genre": ["romance"]
     },
 
     {
       "name": "Your Name",
       "cover": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2879551/5916952/MOVIB28455__26687.1679568872.jpg?c=2",
       "url": "https://www.imdb.com/title/tt5311514/?ref_=rt_t_6",
-      "year": 2016
+      "year": 2016,
+      "genre": ["romance"]
     },
 
     {
       "name": "500 Days of Summer",
       "cover": "https://m.media-amazon.com/images/M/MV5BMTk5MjM4OTU1OV5BMl5BanBnXkFtZTcwODkzNDIzMw@@._V1_FMjpg_UX1000_.jpg",
       "url": "https://www.imdb.com/title/tt1022603/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_500%2520days%2520of%2520summer",
-      "year": 2009
+      "year": 2009,
+      "genre": ["romance"]
     }
   ]
 }

@@ -38,15 +38,6 @@ import { NSelect } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/oscars.json`;
 const selectedYear = ref("2025");
-const availableYears = ref([
-  "2025",
-  "2024",
-  "2023",
-  "2022",
-  "2021",
-  "2020",
-  "2019",
-]);
 
 const awards = ref({});
 
@@ -63,8 +54,18 @@ onMounted(async () => {
 const awardsForSelectedYear = computed(() => {
   return awards.value[selectedYear.value] || null;
 });
+
 const years = computed(() => {
-  return availableYears.value.map((year) => ({
+  const availableYears = [
+    "2025",
+    "2024",
+    "2023",
+    "2022",
+    "2021",
+    "2020",
+    "2019",
+  ];
+  return availableYears.map((year) => ({
     label: year,
     value: year,
   }));

@@ -7,9 +7,7 @@
         <n-radio-button value="year">Year</n-radio-button>
       </n-radio-group>
 
-      <n-icon v-if="!isSorted" size="18" :component="ArrowSort16Regular" />
       <n-icon
-        v-else
         size="18"
         class="sort-icon"
         :component="ArrowSortDownLines16Regular"
@@ -52,17 +50,13 @@
 <script setup>
 import { ref, onMounted, computed } from "vue";
 import { NCard, NRadioButton, NRadioGroup, NIcon } from "naive-ui";
-import {
-  ArrowSort16Regular,
-  ArrowSortDownLines16Regular,
-} from "@vicons/fluent";
+import { ArrowSortDownLines16Regular } from "@vicons/fluent";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/video-games.json`;
 const content = ref([]);
 
-const selectedSorting = ref("");
+const selectedSorting = ref("year");
 const sortOrder = ref("asc");
-const isSorted = ref(false);
 const rotationAngle = ref(0);
 
 onMounted(async () => {
@@ -71,15 +65,10 @@ onMounted(async () => {
     if (!res.ok) throw new Error("Failed to load data");
     const jsonData = await res.json();
     content.value = jsonData.content;
-    sortData(content.value);
   } catch (error) {
     console.error("Error loading JSON data:", error);
   }
 });
-
-function sortData(data) {
-  return data.sort((a, b) => b.year - a.year);
-}
 
 function getLinkName(link) {
   if (link.includes("steampowered")) return "Steam";
@@ -118,7 +107,6 @@ function updateSortOrder() {
 function triggerSorting() {
   sortOrder.value = "asc";
   rotationAngle.value = 0;
-  isSorted.value = true;
 }
 </script>
 

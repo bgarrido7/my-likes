@@ -29,15 +29,16 @@
         <template #cover>
           <img :src="game.cover" />
         </template>
-        <template></template>
+
+        <template />
 
         <template #footer>
           <div class="description">
             <span>{{ game.year }}</span>
           </div>
         </template>
-        <template #action
-          ><div class="footer">
+        <template #action>
+          <div class="footer">
             <span>{{ game.platform }}</span>
             <a :href="game.url" target="_blank">{{ getLinkName(game.url) }}</a>
           </div>

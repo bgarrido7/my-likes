@@ -36,14 +36,37 @@
     </div>
 
     <div class="content">
-      <n-card v-for="(movie, key) in sortedData" :key="key" :title="movie.name">
+      <n-card
+        v-for="(movie, key) in sortedData"
+        :key="key"
+        :title="movie.name"
+        :segmented="{
+          cover: true,
+          footer: 'soft',
+        }"
+      >
         <template #cover>
           <img :src="movie.cover" />
         </template>
-        <div class="description">
-          {{ movie.year }}
-          <a :href="movie.url" target="_blank">IMDb</a>
-        </div>
+
+        <template />
+
+        <template #footer>
+          <n-collapse>
+            <n-collapse-item title="view genre">
+              <span v-for="(genre, g) in movie.genre" :key="g" class="genre">
+                {{ genre.replace(/-/g, " ") }}
+              </span>
+            </n-collapse-item>
+          </n-collapse>
+        </template>
+
+        <template #action>
+          <div class="description">
+            {{ movie.year }}
+            <a :href="movie.url" target="_blank">IMDb</a>
+          </div>
+        </template>
       </n-card>
     </div>
   </div>
@@ -58,6 +81,8 @@ import {
   NIcon,
   NSelect,
   NButton,
+  NCollapse,
+  NCollapseItem,
 } from "naive-ui";
 import {
   ArrowSort16Regular,
@@ -206,5 +231,11 @@ function triggerSorting() {
 }
 .sort-icon:hover {
   color: #18a058;
+}
+
+.genre {
+  text-transform: capitalize;
+  display: flex;
+  flex-direction: column;
 }
 </style>

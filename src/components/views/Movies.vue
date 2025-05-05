@@ -13,6 +13,10 @@
         />
       </div>
 
+      <router-link to="movies/sagas">
+        <n-button tertiary round type="success"> Check Movie Sagas </n-button>
+      </router-link>
+
       <div class="sorting">
         Sort by:
         <n-radio-group v-model:value="selectedSorting" @click="triggerSorting">
@@ -47,7 +51,14 @@
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
-import { NCard, NRadioButton, NRadioGroup, NIcon, NSelect } from "naive-ui";
+import {
+  NCard,
+  NRadioButton,
+  NRadioGroup,
+  NIcon,
+  NSelect,
+  NButton,
+} from "naive-ui";
 import {
   ArrowSort16Regular,
   ArrowSortDownLines16Regular,

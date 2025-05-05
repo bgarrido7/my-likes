@@ -9,6 +9,7 @@ import Music from "@/components/views/Music.vue";
 import Books from "@/components/views/Books.vue";
 import Yuri from "@/components/views/Yuri.vue";
 import Home from "@/components/views/Home.vue";
+import Sagas from "@/components/views/Sagas.vue";
 
 const routes = [
   {
@@ -24,6 +25,11 @@ const routes = [
     path: "/movies",
     name: "Movies",
     component: Movies,
+  },
+  {
+    path: "/movies/sagas",
+    name: "Sagas",
+    component: Sagas,
   },
   {
     path: "/shows",

@@ -50,6 +50,476 @@
       "url": "https://www.imdb.com/title/tt1022603/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_500%2520days%2520of%2520summer",
       "year": 2009,
       "genre": ["romance"]
+    },
+    {
+      "name": "The Dark Knight",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0468569/?ref_=rt_t_10",
+      "year": 2008
+    },
+    {
+      "name": "Deadpool & Wolverine",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt6263850/?ref_=rt_t_11",
+      "year": 2024
+    },
+    {
+      "name": "Inception",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1375666/",
+      "year": 2010
+    },
+    {
+      "name": "The Prestige",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0482571/?ref_=rt_t_13",
+      "year": 2006
+    },
+    {
+      "name": "The Notebook",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0332280/?ref_=rt_t_15",
+      "year": 2004
+    },
+    {
+      "name": "Shutter Island",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1130884/?ref_=rt_t_19",
+      "year": 2012
+    },
+    {
+      "name": "La La Land",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt3783958/?ref_=rt_t_21",
+      "year": 2016
+    },
+    {
+      "name": "Crazy, Stupid, Love.",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1570728/?ref_=rt_t_22",
+      "year": 2011
+    },
+    {
+      "name": "Ready Player One",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1677720/?ref_=rt_t_23",
+      "year": 2018
+    },
+    {
+      "name": "Baby Driver",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt3890160/?ref_=rt_t_24",
+      "year": 2017
+    },
+    {
+      "name": "Deadpool",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1431045/?ref_=rt_t_25",
+      "year": 2016
+    },
+    {
+      "name": "Black Swan",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0947798/?ref_=rt_t_26",
+      "year": 2010
+    },
+    {
+      "name": "The Pianist",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0253474/?ref_=rt_t_28",
+      "year": 2002
+    },
+    {
+      "name": "Logan",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb./title/tt3315342/?ref_=rt_t_27",
+      "year": 2017
+    },
+    {
+      "name": "Wonder Woman",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0451279/?ref_=rt_t_30",
+      "year": 2017
+    },
+    {
+      "name": "The Man from U.N.C.L.E.",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1638355/?ref_=rt_t_31",
+      "year": 2015
+    },
+    {
+      "name": "A Silent Voice",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt5323662/?ref_=rt_t_32",
+      "year": 2016
+    },
+    {
+      "name": "Big Fish",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0319061/?ref_=rt_t_33",
+      "year": 2003
+    },
+    {
+      "name": "The Theory of Everything",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt2980516/?ref_=rt_t_35",
+      "year": 2014
+    },
+    {
+      "name": "Sweeney Todd",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0408236/?ref_=rt_t_37",
+      "year": 2007
+    },
+    {
+      "name": "Still Alice",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt3316960/?ref_=rt_t_39",
+      "year": 2014
+    },
+    {
+      "name": "Flow",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt4772188/?ref_=rt_t_47",
+      "year": 2024
+    },
+    {
+      "name": "Bullet Train",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt12593682/?ref_=rt_t_55",
+      "year": 2022
+    },
+    {
+      "name": "Parasite",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt6751668/?ref_=rt_t_56",
+      "year": 2019
+    },
+
+    {
+      "name": "The Silence of the Lambs",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0102926/?ref_=rt_t_59",
+      "year": 1991
+    },
+    {
+      "name": "Whiplash",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt2582802/?ref_=rt_t_62",
+      "year": 2014
+    },
+    {
+      "name": "The Fall Guy",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1684562/?ref_=rt_t_66",
+      "year": 2024
+    },
+    {
+      "name": "Watchmen",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0409459/?ref_=rt_t_68",
+      "year": 2009
+    },
+    {
+      "name": "It",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1396484/?ref_=rt_t_69",
+      "year": 2017
+    },
+    {
+      "name": "Guardians of the Galaxy",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt2015381/?ref_=rt_t_70",
+      "year": 2014
+    },
+    {
+      "name": "Spirited Away",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0245429/?ref_=rt_t_72",
+      "year": 2001
+    },
+    {
+      "name": "Kill Bill: Vol. 1",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0266697/?ref_=ls_t_1",
+      "year": 2003
+    },
+    {
+      "name": "Kill Bill: Vol. 2",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0378194/?ref_=ls_t_2",
+      "year": 2004
+    },
+    {
+      "name": "The Grand Budapest Hotel",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt2278388/?ref_=rt_t_77",
+      "year": 2014
+    },
+    {
+      "name": "Charlie and the Chocolate Factory",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0367594/?ref_=rt_t_78",
+      "year": 2005
+    },
+    {
+      "url": "https://www.imdb.com/title/tt6723592/?ref_=rt_t_80",
+      "cover": "",
+      "genre": ["fantasy"],
+      "name": "Tenet",
+      "year": 2020
+    },
+    {
+      "name": "Into the Wild",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0758758/?ref_=rt_t_83",
+      "year": 2007
+    },
+    {
+      "name": "Jojo Rabbit",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt2584384/",
+      "year": 2019
+    },
+    {
+      "name": "Beauty and the Beast",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt2771200/?ref_=rt_t_92",
+      "year": 2017
+    },
+    {
+      "name": "Ex Machina",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0470752/?ref_=rt_t_94",
+      "year": 2014
+    },
+    {
+      "name": "The Perks of Being a Wallflower",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1659337/?ref_=rt_t_102",
+      "year": 2012
+    },
+    {
+      "name": "Now You See Me",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt1670345/?ref_=rt_t_108",
+      "year": 2013
+    },
+    {
+      "name": "A Quiet Place",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt6644200/?ref_=rt_t_113",
+      "year": 2018
+    },
+    {
+      "name": "Alita: Battle Angel",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt0437086/?ref_=rt_t_114",
+      "year": 2019
+    },
+    {
+      "name": "Ocean's Eight",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt5164214/?ref_=rt_t_115",
+      "year": 2018
+    },
+    {
+      "name": "Predestination",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt2397535/?ref_=rt_t_123",
+      "year": 2014
+    },
+    {
+      "name": "The Shape of Water",
+      "cover": "",
+      "genre": ["fantasy"],
+      "url": "https://www.imdb.com/title/tt5580390/?ref_=rt_t_129",
+      "year": 2017
+    },
+    {
+      "name": "The Devil Wears Prada",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt0458352/?ref_=rt_t_110",
+      "year": 2006
+    },
+    {
+      "name": "Howl's Moving Castle",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt0347149/?ref_=rt_t_109",
+      "year": 2004
+    },
+    {
+      "name": "The Favourite",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt5083738/?ref_=rt_t_132",
+      "year": 2018
+    },
+    {
+      "name": "Gravity",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt1454468/?ref_=rt_t_139",
+      "year": 2013
+    },
+    {
+      "name": "Brokeback Mountain",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt0388795/?ref_=rt_t_197",
+      "year": 2005
+    },
+    {
+      "name": "Barbie",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt1517268/?ref_=rt_t_184",
+      "year": 2023
+    },
+    {
+      "name": "The Truman Show",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt0120382/?ref_=rt_t_178",
+      "year": 1998
+    },
+    {
+      "name": "The Wild Robot",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt29623480/?ref_=rt_t_177",
+      "year": 2024
+    },
+    {
+      "name": "Don't Look Up",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt11286314/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_dont%2520look%2520up",
+      "year": 2021
+    },
+    {
+      "name": "Ice Merchants",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt19781688/?ref_=rt_t_174",
+      "year": 2022
+    },
+    {
+      "name": "Bo Burnham: Inside",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt14544192/?ref_=rt_t_168",
+      "year": 2021
+    },
+    {
+      "name": "Free Solo",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt7775622/?ref_=rt_t_166",
+      "year": 2018
+    },
+    {
+      "name": "Stuck in Love",
+      "cover": "",
+      "genre": ["romance"],
+      "url": "https://www.imdb.com/title/tt2205697/?ref_=rt_t_163",
+      "year": 2012
+    },
+    {
+      "name": "The Lost Daughter",
+      "cover": "",
+      "genre": ["drama"],
+      "url": "https://www.imdb.com/title/tt9100054/?ref_=rt_t_159",
+      "year": 2021
+    },
+    {
+      "name": "Definitely, Maybe",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt0832266/?ref_=rt_t_158",
+      "year": 2008
+    },
+    {
+      "name": "Focus",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt2381941/?ref_=rt_t_156",
+      "year": 2015
+    },
+    {
+      "name": "The Nightmare Before Christmas",
+      "cover": "",
+      "genre": ["fantasy", "animation"],
+      "url": "https://www.imdb.com/title/tt0107688/?ref_=rt_t_153",
+      "year": 1993
+    },
+    {
+      "name": "The Iron Giant",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt0129167/?ref_=rt_t_146",
+      "year": 1999
+    },
+    {
+      "name": "The Edge of Seventeen",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt1878870/?ref_=rt_t_144",
+      "year": 2016
+    },
+    {
+      "name": "Room",
+      "cover": "",
+      "genre": [""],
+      "url": "https://www.imdb.com/title/tt3170832/?ref_=rt_t_141",
+      "year": 2015
     }
   ]
 }

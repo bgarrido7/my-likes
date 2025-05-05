@@ -53,7 +53,7 @@
 
         <template #footer>
           <n-collapse>
-            <n-collapse-item title="view genre">
+            <n-collapse-item>
               <span v-for="(genre, g) in movie.genre" :key="g" class="genre">
                 {{ genre.replace(/-/g, " ") }}
               </span>

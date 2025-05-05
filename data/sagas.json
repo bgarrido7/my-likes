@@ -4,10 +4,40 @@
       "name": "Harry Potter",
       "movies": [
         {
-          "name": "Harry Potter",
-          "cover": "",
-          "url": "https://www.imdb.com/list/ls000671664/",
-          "year": "2001 - 2011"
+          "name": "Prisoner of Azkaban",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMjA2NjBkNzMtMWJlZS00Yjc4LWFhNWMtYmZmZDI5MTdmYzNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0304141/?ref_=ls_t_3",
+          "year": 2004
+        },
+        {
+          "name": "Goblet of Fire",
+          "cover": "https://m.media-amazon.com/images/M/MV5BOTI0OTdhMzMtMjdlYi00M2M3LTlmMmMtOGE1ODJkNmEyZGFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0330373/?ref_=ls_t_4",
+          "year": 2005
+        },
+        {
+          "name": "Order of the Phoenix",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMTM0NTczMTUzOV5BMl5BanBnXkFtZTYwMzIxNTg3._V1_.jpg",
+          "url": "https://www.imdb.com/title/tt0373889/?ref_=ls_t_5",
+          "year": 2007
+        },
+        {
+          "name": "Half-Blood Prince",
+          "cover": "https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_.jpg",
+          "url": "https://www.imdb.com/title/tt0417741/?ref_=ls_t_6",
+          "year": 2009
+        },
+        {
+          "name": "Deathly Hallows - Part 1",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0926084/?ref_=ls_t_7",
+          "year": 2010
+        },
+        {
+          "name": "Deathly Hallows - Part 2",
+          "cover": "https://m.media-amazon.com/images/M/MV5BOTA1Mzc2N2ItZWRiNS00MjQzLTlmZDQtMjU0NmY1YWRkMGQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt1201607/?ref_=ls_t_8",
+          "year": 2011
         }
       ]
     },
@@ -15,7 +45,7 @@
       "name": "The Hunger Games",
       "movies": [
         {
-          "name": "The Hunger Games: Catching Fire",
+          "name": "Catching Fire",
           "cover": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_.jpg",
           "url": "https://www.imdb.com/title/tt1951264/?ref_=rt_t_17",
           "year": 2013
@@ -25,20 +55,27 @@
           "cover": "https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
           "url": "https://www.imdb.com/title/tt1392170/?ref_=fn_all_ttl_1",
           "year": 2012
+        },
+        {
+          "name": "The Ballad of Songbirds & Snakes",
+          "cover": "https://m.media-amazon.com/images/M/MV5BZDk2YjNhYzEtYzg2ZC00OWEwLWJhYzgtMGUzMWVjNDFmYzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt10545296/",
+          "year": 2023
         }
       ]
     },
+
     {
       "name": "Kingsman",
       "movies": [
         {
-          "name": "Kingsman: The Secret Service",
+          "name": "The Secret Service",
           "cover": "https://upload.wikimedia.org/wikipedia/pt/7/76/Kingsman_The_Secret_Service_capa.jpg",
           "url": "https://www.imdb.com/title/tt2802144/?ref_=ls_t_1",
           "year": 2014
         },
         {
-          "name": "Kingsman: The Golden Circle",
+          "name": "The Golden Circle",
           "cover": "https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_.jpg",
           "url": "https://www.imdb.com/title/tt4649466/?ref_=ls_t_2",
           "year": 2017
@@ -46,19 +83,14 @@
       ]
     },
     {
-      "name": "Star Wars",
-      "movies": [
-        {
-          "name": "Star Wars: Episode VII - The Force Awakens",
-          "cover": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_FMjpg_UX1000_.jpg",
-          "url": "https://www.imdb.com/title/tt2488496/?ref_=rt_t_105",
-          "year": 2015
-        }
-      ]
-    },
-    {
       "name": "Marvel (MCU)",
       "movies": [
+        {
+          "name": "Guardians of the Galaxy",
+          "cover": "https://m.media-amazon.com/images/M/MV5BM2ZmNjQ2MzAtNDlhNi00MmQyLWJhZDMtNmJiMjFlOWY4MzcxXkEyXkFqcGc@._V1_.jpg",
+          "url": "https://www.imdb.com/title/tt2015381/?ref_=rt_t_70",
+          "year": 2014
+        },
         {
           "name": "Avengers: Endgame",
           "cover": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg",
@@ -68,48 +100,145 @@
 
         {
           "name": "Captain America: The First Avenger",
-          "cover": "",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMTg3NjI4NzIwNF5BMl5BanBnXkFtZTcwNDA3MDU0NA@@._V1_.jpg",
           "url": "https://www.imdb.com/title/tt0458339/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_captain%2520america%2520first",
           "year": 2011
         },
         {
           "name": "Captain America: The Winter Soldier",
-          "cover": "",
+          "cover": "https://m.media-amazon.com/images/M/MV5BNWY1NjFmNDItZDhmOC00NjI1LWE0ZDItMTM0MjBjZThiOTQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
           "url": "https://www.imdb.com/title/tt1843866/?ref_=rt_t_90",
           "year": 2014
         },
         {
           "name": "Captain America: Civil War",
-          "cover": "",
-
+          "cover": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
           "url": "https://www.imdb.com/title/tt3498820/?ref_=rt_t_102",
           "year": 2016
         },
 
         {
           "name": "Avengers: Infinity War",
-          "cover": "",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
           "url": "https://www.imdb.com/title/tt4154756/?ref_=rt_t_16",
           "year": 2018
         },
 
         {
           "name": "Spider-Man: No Way Home",
-          "cover": "",
+          "cover": "https://m.media-amazon.com/images/M/MV5BZjc3ZmMzOGMtNjNlNy00N2QyLTk1MDMtYzA0YjY5NzcyNzYwXkEyXkFqcGc@._V1_.jpg",
           "url": "https://www.imdb.com/title/tt10872600/?ref_=rt_t_18",
           "year": 2021
         },
         {
+          "name": "Spider-Man: Far from Home",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_.jpg",
+          "url": "https://www.imdb.com/title/tt6320628/?ref_=nm_knf_t_2",
+          "year": 2019
+        },
+        {
+          "name": "Doctor Strange in the Multiverse of Madness",
+          "cover": "https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt9419884/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_doctor%2520strange",
+          "year": 2022
+        }
+      ]
+    },
+    {
+      "name": "Spider-Verse",
+      "movies": [
+        {
           "name": "Spider-Man: Across the Spider-Verse",
-          "cover": "",
+          "cover": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_.jpg",
           "url": "https://www.imdb.com/title/tt9362722/?ref_=rt_t_63",
           "year": 2023
         },
         {
           "name": "Spider-Man: Into the Spider-Verse",
-          "cover": "",
+          "cover": "https://m.media-amazon.com/images/M/MV5BNDM0MjkxODUtNjQwYy00Y2I1LWE0YTQtMzM2ZWQxOTAwNTQ2XkEyXkFqcGc@._V1_.jpg",
           "url": "https://www.imdb.com/title/tt4633694/?ref_=fn_all_ttl_2",
           "year": 2018
+        }
+      ]
+    },
+    {
+      "name": "Star Wars",
+      "movies": [
+        {
+          "name": "Episode I - The Phantom Menace",
+          "cover": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0120915/?ref_=ls_t_1",
+          "year": 1999
+        },
+        {
+          "name": "Episode II - Attack of the Clones",
+          "cover": "https://m.media-amazon.com/images/M/MV5BNTgxMjY2YzUtZmVmNC00YjAwLWJlODMtNDBhNzllNzIzMjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0121765/?ref_=ls_t_2",
+          "year": 2002
+        },
+        {
+          "name": "Episode III - Revenge of the Sith",
+          "cover": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_.jpg",
+          "url": "https://www.imdb.com/title/tt0121766/?ref_=ls_t_3",
+          "year": 2005
+        },
+        {
+          "name": "Episode IV - A New Hope",
+          "cover": "https://m.media-amazon.com/images/M/MV5BZTdlM2U4MzItYTIyYy00YTc4LTgyNjAtN2NjMzBhZmM1MDRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0076759/?ref_=ls_t_4",
+          "year": 1977
+        },
+        {
+          "name": "Episode V - The Empire Strikes Back",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0080684/?ref_=ls_t_5",
+          "year": 1980
+        },
+        {
+          "name": "Episode VI - Return of the Jedi",
+          "cover": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0086190/?ref_=ls_t_6",
+          "year": 1983
+        },
+        {
+          "name": "Episode VII - The Force Awakens",
+          "cover": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt2488496/?ref_=rt_t_105",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "name": "Terminator",
+      "movies": [
+        {
+          "name": "The Terminator",
+          "cover": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+          "url": "https://www.imdb.com/title/tt0088247/",
+          "year": 1984
+        },
+        {
+          "name": "Terminator 2: Judgment Day",
+          "cover": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0103064/",
+          "year": 1991
+        }
+      ]
+    },
+    {
+      "name": "Kill Bill",
+      "movies": [
+        {
+          "name": "Vol. 1",
+          "cover": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0266697/?ref_=ls_t_1",
+          "year": 2003
+        },
+        {
+          "name": "Vol. 2",
+          "cover": "https://m.media-amazon.com/images/M/MV5BY2FiNzhiZTctNzU1Mi00NDkwLWExNDMtZTg0MjYyNzhkNWNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt0378194/?ref_=ls_t_2",
+          "year": 2004
         }
       ]
     }

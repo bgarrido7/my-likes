@@ -1,0 +1,117 @@
+{
+  "content": [
+    {
+      "name": "Harry Potter",
+      "movies": [
+        {
+          "name": "Harry Potter",
+          "cover": "",
+          "url": "https://www.imdb.com/list/ls000671664/",
+          "year": "2001 - 2011"
+        }
+      ]
+    },
+    {
+      "name": "The Hunger Games",
+      "movies": [
+        {
+          "name": "The Hunger Games: Catching Fire",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_.jpg",
+          "url": "https://www.imdb.com/title/tt1951264/?ref_=rt_t_17",
+          "year": 2013
+        },
+        {
+          "name": "The Hunger Games",
+          "cover": "https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
+          "url": "https://www.imdb.com/title/tt1392170/?ref_=fn_all_ttl_1",
+          "year": 2012
+        }
+      ]
+    },
+    {
+      "name": "Kingsman",
+      "movies": [
+        {
+          "name": "Kingsman: The Secret Service",
+          "cover": "https://upload.wikimedia.org/wikipedia/pt/7/76/Kingsman_The_Secret_Service_capa.jpg",
+          "url": "https://www.imdb.com/title/tt2802144/?ref_=ls_t_1",
+          "year": 2014
+        },
+        {
+          "name": "Kingsman: The Golden Circle",
+          "cover": "https://m.media-amazon.com/images/M/MV5BMjQ3OTgzMzY4NF5BMl5BanBnXkFtZTgwOTc4OTQyMzI@._V1_.jpg",
+          "url": "https://www.imdb.com/title/tt4649466/?ref_=ls_t_2",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "name": "Star Wars",
+      "movies": [
+        {
+          "name": "Star Wars: Episode VII - The Force Awakens",
+          "cover": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_FMjpg_UX1000_.jpg",
+          "url": "https://www.imdb.com/title/tt2488496/?ref_=rt_t_105",
+          "year": 2015
+        }
+      ]
+    },
+    {
+      "name": "Marvel (MCU)",
+      "movies": [
+        {
+          "name": "Avengers: Endgame",
+          "cover": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/9b/Avengers_Endgame.jpg/250px-Avengers_Endgame.jpg",
+          "url": "https://www.imdb.com/title/tt4154796/?ref_=rt_t_57",
+          "year": 2019
+        },
+
+        {
+          "name": "Captain America: The First Avenger",
+          "cover": "",
+          "url": "https://www.imdb.com/title/tt0458339/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_captain%2520america%2520first",
+          "year": 2011
+        },
+        {
+          "name": "Captain America: The Winter Soldier",
+          "cover": "",
+          "url": "https://www.imdb.com/title/tt1843866/?ref_=rt_t_90",
+          "year": 2014
+        },
+        {
+          "name": "Captain America: Civil War",
+          "cover": "",
+
+          "url": "https://www.imdb.com/title/tt3498820/?ref_=rt_t_102",
+          "year": 2016
+        },
+
+        {
+          "name": "Avengers: Infinity War",
+          "cover": "",
+          "url": "https://www.imdb.com/title/tt4154756/?ref_=rt_t_16",
+          "year": 2018
+        },
+
+        {
+          "name": "Spider-Man: No Way Home",
+          "cover": "",
+          "url": "https://www.imdb.com/title/tt10872600/?ref_=rt_t_18",
+          "year": 2021
+        },
+        {
+          "name": "Spider-Man: Across the Spider-Verse",
+          "cover": "",
+          "url": "https://www.imdb.com/title/tt9362722/?ref_=rt_t_63",
+          "year": 2023
+        },
+        {
+          "name": "Spider-Man: Into the Spider-Verse",
+          "cover": "",
+          "url": "https://www.imdb.com/title/tt4633694/?ref_=fn_all_ttl_2",
+          "year": 2018
+        }
+      ]
+    }
+  ]
+}

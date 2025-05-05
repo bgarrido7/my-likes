@@ -84,9 +84,13 @@ const genres = computed(() => {
     "animation",
     "drama",
     "comedy",
+    "documentary",
+    "meaning-of-life",
   ];
   return availableGenres.map((genre) => ({
-    label: genre.charAt(0).toUpperCase() + genre.slice(1),
+    label: genre.includes("life")
+      ? "Meaning of Life"
+      : genre.charAt(0).toUpperCase() + genre.slice(1),
     value: genre,
   }));
 });
@@ -192,8 +196,7 @@ function triggerSorting() {
 }
 
 .filter {
-  min-width: 200px;
-
+  min-width: 215px;
   width: fit-content;
 }
 

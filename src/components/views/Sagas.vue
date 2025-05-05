@@ -47,7 +47,7 @@ onMounted(async () => {
 });
 
 function sortByYear(movies) {
-  return movies.sort((a, b) => a.year - b.year);
+  return movies.sort((a, b) => b.year - a.year);
 }
 </script>
 

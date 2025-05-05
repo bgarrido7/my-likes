@@ -12,14 +12,14 @@
       "cover": "https://i.etsystatic.com/18242346/r/il/7fb6f1/3898744406/il_fullxfull.3898744406_6wp7.jpg",
       "url": "https://www.imdb.com/title/tt6710474/?ref_=rt_i_4",
       "year": 2022,
-      "genre": ["fantasy"]
+      "genre": ["fantasy", "comedy", "meaning-of-life"]
     },
     {
       "name": "Train to Busan",
       "cover": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",
       "url": "https://www.imdb.com/title/tt5700672/?ref_=rt_i_7",
       "year": 2016,
-      "genre": ["thriller", "fantasy"]
+      "genre": ["thriller"]
     },
     {
       "name": "Memento",
@@ -33,15 +33,21 @@
       "cover": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_FMjpg_UX1000_.jpg",
       "url": "https://www.imdb.com/title/tt0338013/",
       "year": 2004,
-      "genre": ["romance"]
+      "genre": ["romance", "meaning-of-life"]
     },
-
+    {
+      "name": "The Truman Show",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNmEzODZmMmEtYjY4Yy00ZDI2LWI4ZWMtZGI0MThiMDE2NjQyXkEyXkFqcGc@._V1_.jpg",
+      "genre": ["meaning-of-life"],
+      "url": "https://www.imdb.com/title/tt0120382/?ref_=rt_t_178",
+      "year": 1998
+    },
     {
       "name": "Your Name",
       "cover": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2879551/5916952/MOVIB28455__26687.1679568872.jpg?c=2",
       "url": "https://www.imdb.com/title/tt5311514/?ref_=rt_t_6",
       "year": 2016,
-      "genre": ["romance"]
+      "genre": ["romance", "animation"]
     },
 
     {
@@ -53,473 +59,452 @@
     },
     {
       "name": "The Dark Knight",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "genre": ["fantasy", "action"],
       "url": "https://www.imdb.com/title/tt0468569/?ref_=rt_t_10",
       "year": 2008
     },
     {
       "name": "Deadpool & Wolverine",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg",
+      "genre": ["comedy", "fantasy", "action"],
       "url": "https://www.imdb.com/title/tt6263850/?ref_=rt_t_11",
       "year": 2024
     },
     {
       "name": "Inception",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+      "genre": ["thriller", "meaning-of-life"],
       "url": "https://www.imdb.com/title/tt1375666/",
       "year": 2010
     },
     {
       "name": "The Prestige",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",
+      "genre": ["thriller"],
       "url": "https://www.imdb.com/title/tt0482571/?ref_=rt_t_13",
       "year": 2006
     },
     {
       "name": "The Notebook",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BNTYxMDliN2QtNTMwNC00ODU3LWFhODgtMWFhODQ0Mzc0NGE0XkEyXkFqcGc@._V1_.jpg",
+      "genre": ["romance"],
       "url": "https://www.imdb.com/title/tt0332280/?ref_=rt_t_15",
       "year": 2004
     },
     {
       "name": "Shutter Island",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/500x659/products/2882587/5924050/MOVGB00660__97479.1679573750.jpg?c=2",
+      "genre": ["thriller"],
       "url": "https://www.imdb.com/title/tt1130884/?ref_=rt_t_19",
       "year": 2012
     },
     {
       "name": "La La Land",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+      "genre": ["romance"],
       "url": "https://www.imdb.com/title/tt3783958/?ref_=rt_t_21",
       "year": 2016
     },
     {
       "name": "Crazy, Stupid, Love.",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2891873/5899795/MOVIB82194__65448.1679557108.jpg?c=2",
+      "genre": ["romance"],
       "url": "https://www.imdb.com/title/tt1570728/?ref_=rt_t_22",
       "year": 2011
     },
     {
       "name": "Ready Player One",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiiA5HJdXUSKxFZ-tERBA5WEpZGIfG9TataA&s",
+      "genre": ["fantasy", "action"],
       "url": "https://www.imdb.com/title/tt1677720/?ref_=rt_t_23",
       "year": 2018
     },
     {
       "name": "Baby Driver",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_.jpg",
+      "genre": ["action"],
       "url": "https://www.imdb.com/title/tt3890160/?ref_=rt_t_24",
       "year": 2017
     },
     {
       "name": "Deadpool",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BYjYzYjcyZTgtNWQ3OS00NTA4LWE4MjMtZTgxOWJmZjU1ZmFiXkEyXkFqcGc@._V1_.jpg",
+      "genre": ["fantasy", "action", "comedy"],
       "url": "https://www.imdb.com/title/tt1431045/?ref_=rt_t_25",
       "year": 2016
     },
     {
       "name": "Black Swan",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["thriller", "tragedy"],
       "url": "https://www.imdb.com/title/tt0947798/?ref_=rt_t_26",
       "year": 2010
     },
     {
       "name": "The Pianist",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["tragedy", "drama"],
       "url": "https://www.imdb.com/title/tt0253474/?ref_=rt_t_28",
       "year": 2002
     },
     {
       "name": "Logan",
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjQwODQwNTg4OV5BMl5BanBnXkFtZTgwMTk4MTAzMjI@._V1_.jpg",
       "genre": ["fantasy"],
       "url": "https://www.imdb./title/tt3315342/?ref_=rt_t_27",
       "year": 2017
     },
     {
       "name": "Wonder Woman",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://resizing.flixster.com/oV9ExzAFUOnlqgtCAM0-aL2fXUs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg5ZDA3ZGQ4LTE2NDUtNDUyNi04NTZjLTk3Y2MyZTAyODAyOS53ZWJw",
+      "genre": ["fantasy", "action"],
       "url": "https://www.imdb.com/title/tt0451279/?ref_=rt_t_30",
       "year": 2017
     },
     {
       "name": "The Man from U.N.C.L.E.",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMDFjN2NlOGItYjZiZi00OThhLTlhYWUtYjgyNWFjMWJlNGU4XkEyXkFqcGc@._V1_.jpg",
+      "genre": ["action", "comedy"],
       "url": "https://www.imdb.com/title/tt1638355/?ref_=rt_t_31",
       "year": 2015
     },
     {
       "name": "A Silent Voice",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["romance", "animation"],
       "url": "https://www.imdb.com/title/tt5323662/?ref_=rt_t_32",
       "year": 2016
     },
     {
       "name": "Big Fish",
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNTVlNjc4ZmItMDZjYy00YWZjLTg1OWEtOTNlZjJlN2FlMjEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "genre": ["fantasy"],
       "url": "https://www.imdb.com/title/tt0319061/?ref_=rt_t_33",
       "year": 2003
     },
     {
       "name": "The Theory of Everything",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_FMjpg_UX1000_.jpg",
+      "genre": ["drama"],
       "url": "https://www.imdb.com/title/tt2980516/?ref_=rt_t_35",
       "year": 2014
     },
     {
       "name": "Sweeney Todd",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTg3NjUxMzM5NV5BMl5BanBnXkFtZTcwMzQ1NjQzMw@@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["fantasy", "thriller"],
       "url": "https://www.imdb.com/title/tt0408236/?ref_=rt_t_37",
       "year": 2007
     },
     {
       "name": "Still Alice",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjIzNzAxNjY1Nl5BMl5BanBnXkFtZTgwMDg4ODQxMzE@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["drama"],
       "url": "https://www.imdb.com/title/tt3316960/?ref_=rt_t_39",
       "year": 2014
     },
     {
       "name": "Flow",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["animation"],
       "url": "https://www.imdb.com/title/tt4772188/?ref_=rt_t_47",
       "year": 2024
     },
     {
       "name": "Bullet Train",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["action", "thriller"],
       "url": "https://www.imdb.com/title/tt12593682/?ref_=rt_t_55",
       "year": 2022
     },
     {
       "name": "Parasite",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["tragedy", "thriller"],
       "url": "https://www.imdb.com/title/tt6751668/?ref_=rt_t_56",
       "year": 2019
     },
 
     {
       "name": "The Silence of the Lambs",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_.jpg",
+      "genre": ["thriller", "drama"],
       "url": "https://www.imdb.com/title/tt0102926/?ref_=rt_t_59",
       "year": 1991
     },
     {
       "name": "Whiplash",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMzVjZDI3N2YtYTU2Yi00ZWZjLTgwMmMtMzY1YjcyM2U2NDE4XkEyXkFqcGc@._V1_.jpg",
+      "genre": ["drama", "tragedy"],
       "url": "https://www.imdb.com/title/tt2582802/?ref_=rt_t_62",
       "year": 2014
     },
     {
       "name": "The Fall Guy",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BM2U0MTJiYTItMjNiZS00MzU4LTkxYTAtYTU0ZGY1ODJhMjRhXkEyXkFqcGc@._V1_.jpg",
+      "genre": ["comedy", "romance", "action"],
       "url": "https://www.imdb.com/title/tt1684562/?ref_=rt_t_66",
       "year": 2024
     },
     {
       "name": "Watchmen",
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYmJiNTUwYWUtZDllNi00ODdjLWFmNTEtOTVlNmYxYTZhNzYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "genre": ["fantasy"],
       "url": "https://www.imdb.com/title/tt0409459/?ref_=rt_t_68",
       "year": 2009
     },
     {
       "name": "It",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BZGZmOTZjNzUtOTE4OS00OGM3LWJiNGEtZjk4Yzg2M2Q1YzYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["thriller", "fantasy"],
       "url": "https://www.imdb.com/title/tt1396484/?ref_=rt_t_69",
       "year": 2017
     },
     {
-      "name": "Guardians of the Galaxy",
-      "cover": "",
-      "genre": ["fantasy"],
-      "url": "https://www.imdb.com/title/tt2015381/?ref_=rt_t_70",
-      "year": 2014
-    },
-    {
       "name": "Spirited Away",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["meaning-of-life", "animation"],
       "url": "https://www.imdb.com/title/tt0245429/?ref_=rt_t_72",
       "year": 2001
     },
     {
-      "name": "Kill Bill: Vol. 1",
-      "cover": "",
-      "genre": ["fantasy"],
-      "url": "https://www.imdb.com/title/tt0266697/?ref_=ls_t_1",
-      "year": 2003
-    },
-    {
-      "name": "Kill Bill: Vol. 2",
-      "cover": "",
-      "genre": ["fantasy"],
-      "url": "https://www.imdb.com/title/tt0378194/?ref_=ls_t_2",
-      "year": 2004
-    },
-    {
       "name": "The Grand Budapest Hotel",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["comedy", "drama"],
       "url": "https://www.imdb.com/title/tt2278388/?ref_=rt_t_77",
       "year": 2014
     },
     {
       "name": "Charlie and the Chocolate Factory",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BNjcxMjg1Njg2NF5BMl5BanBnXkFtZTcwMjQ4NzMzMw@@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["fantasy", "comedy"],
       "url": "https://www.imdb.com/title/tt0367594/?ref_=rt_t_78",
       "year": 2005
     },
     {
       "url": "https://www.imdb.com/title/tt6723592/?ref_=rt_t_80",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BYjI0NDQzYmEtNzMwZC00ODA3LTgzZDYtZTk5ODZjY2Y2OTkzXkEyXkFqcGc@._V1_.jpg",
+      "genre": ["thriller"],
       "name": "Tenet",
       "year": 2020
     },
     {
       "name": "Into the Wild",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BNTgwZTJhNWMtNzVjMy00YzQzLWI4MTAtYmJhOGQ5ZmQ3MDM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["meaning-of-life"],
       "url": "https://www.imdb.com/title/tt0758758/?ref_=rt_t_83",
       "year": 2007
     },
     {
+      "name": "Wild",
+      "cover": "https://m.media-amazon.com/images/M/MV5BZTJlNTQ5NDUtOTVkNi00ODA5LTkyMjktMzM5YTU4N2Y5YzVlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["meaning-of-life"],
+      "url": "https://www.imdb.com/title/tt2305051/?ref_=nv_sr_srsg_7_tt_7_nm_0_in_0_q_wild",
+      "year": 2014
+    },
+    {
       "name": "Jojo Rabbit",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["comedy", "tragedy"],
       "url": "https://www.imdb.com/title/tt2584384/",
       "year": 2019
     },
     {
       "name": "Beauty and the Beast",
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_FMjpg_UX1000_.jpg",
       "genre": ["fantasy"],
       "url": "https://www.imdb.com/title/tt2771200/?ref_=rt_t_92",
       "year": 2017
     },
     {
       "name": "Ex Machina",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["tragedy", "meaning-of-life"],
       "url": "https://www.imdb.com/title/tt0470752/?ref_=rt_t_94",
       "year": 2014
     },
     {
       "name": "The Perks of Being a Wallflower",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BNTY0ZTI2NzQtYWI1YS00ZWM3LWFmMjMtZWYxNmNmOTI0MGJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["meaning-of-life"],
       "url": "https://www.imdb.com/title/tt1659337/?ref_=rt_t_102",
       "year": 2012
     },
     {
       "name": "Now You See Me",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["thriller"],
       "url": "https://www.imdb.com/title/tt1670345/?ref_=rt_t_108",
       "year": 2013
     },
     {
       "name": "A Quiet Place",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["fantasy", "thriller"],
       "url": "https://www.imdb.com/title/tt6644200/?ref_=rt_t_113",
       "year": 2018
     },
     {
       "name": "Alita: Battle Angel",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BYmZhZGQzM2MtMWEyZC00YTU1LTk4YTQtMTg3ZjEzM2U1NTkxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["fantasy", "action"],
       "url": "https://www.imdb.com/title/tt0437086/?ref_=rt_t_114",
       "year": 2019
     },
     {
       "name": "Ocean's Eight",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjAyNDEyMzc4Ml5BMl5BanBnXkFtZTgwMjEzNjM0NTM@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["action"],
       "url": "https://www.imdb.com/title/tt5164214/?ref_=rt_t_115",
       "year": 2018
     },
     {
       "name": "Predestination",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BY2VhODM5OTUtZDJhMi00MTc5LThjNjYtZWY1M2NlNWU0N2NjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["thriller"],
       "url": "https://www.imdb.com/title/tt2397535/?ref_=rt_t_123",
       "year": 2014
     },
     {
       "name": "The Shape of Water",
-      "cover": "",
-      "genre": ["fantasy"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BOGFlMTM2MTgtZDdlMy00ZDZlLWFjOTUtZDMzMGEwNmNiMWY0XkEyXkFqcGc@._V1_.jpg",
+      "genre": ["fantasy", "romance"],
       "url": "https://www.imdb.com/title/tt5580390/?ref_=rt_t_129",
       "year": 2017
     },
     {
-      "name": "The Devil Wears Prada",
-      "cover": "",
-      "genre": [""],
-      "url": "https://www.imdb.com/title/tt0458352/?ref_=rt_t_110",
-      "year": 2006
-    },
-    {
       "name": "Howl's Moving Castle",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["fantasy", "romance", "animation"],
       "url": "https://www.imdb.com/title/tt0347149/?ref_=rt_t_109",
       "year": 2004
     },
     {
       "name": "The Favourite",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["romance", "tragedy"],
       "url": "https://www.imdb.com/title/tt5083738/?ref_=rt_t_132",
       "year": 2018
     },
     {
       "name": "Gravity",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_.jpg",
+      "genre": ["thriller", "tragedy"],
       "url": "https://www.imdb.com/title/tt1454468/?ref_=rt_t_139",
       "year": 2013
     },
     {
       "name": "Brokeback Mountain",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMzM4OWFjMTMtZjNjOS00YmU3LTlhY2MtNjFiMTVkN2Y1OTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["romance", "tragedy"],
       "url": "https://www.imdb.com/title/tt0388795/?ref_=rt_t_197",
       "year": 2005
     },
     {
       "name": "Barbie",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BYjI3NDU0ZGYtYjA2YS00Y2RlLTgwZDAtYTE2YTM5ZjE1M2JlXkEyXkFqcGc@._V1_.jpg",
+      "genre": ["comedy", "fantasy"],
       "url": "https://www.imdb.com/title/tt1517268/?ref_=rt_t_184",
       "year": 2023
     },
     {
-      "name": "The Truman Show",
-      "cover": "",
-      "genre": [""],
-      "url": "https://www.imdb.com/title/tt0120382/?ref_=rt_t_178",
-      "year": 1998
-    },
-    {
       "name": "The Wild Robot",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BZjM2M2E3YzAtZDJjYy00MDhkLThiYmItOGZhNzQ3NTgyZmI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["fantasy", "animation"],
       "url": "https://www.imdb.com/title/tt29623480/?ref_=rt_t_177",
       "year": 2024
     },
     {
       "name": "Don't Look Up",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["comedy"],
       "url": "https://www.imdb.com/title/tt11286314/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_dont%2520look%2520up",
       "year": 2021
     },
     {
       "name": "Ice Merchants",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BY2I1NTg1NjgtNDI4MS00NmI4LTk2ZWYtMzQ3NzdjZGJlYzFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["animation"],
       "url": "https://www.imdb.com/title/tt19781688/?ref_=rt_t_174",
       "year": 2022
     },
     {
       "name": "Bo Burnham: Inside",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BYjY5NzI4YWMtM2ZmYy00MzhlLThhZjctOGViOWQyYzRlOGExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["comedy", "documentary"],
       "url": "https://www.imdb.com/title/tt14544192/?ref_=rt_t_168",
       "year": 2021
     },
     {
       "name": "Free Solo",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjA2YTAxMzMtNzA2Mi00NTcyLTg4NzUtODIxYzFiYzdiNWNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["documentary"],
       "url": "https://www.imdb.com/title/tt7775622/?ref_=rt_t_166",
       "year": 2018
     },
     {
       "name": "Stuck in Love",
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTU1NzI5MDU3OV5BMl5BanBnXkFtZTcwNTE0NDMzOQ@@._V1_.jpg",
       "genre": ["romance"],
       "url": "https://www.imdb.com/title/tt2205697/?ref_=rt_t_163",
       "year": 2012
     },
     {
       "name": "The Lost Daughter",
-      "cover": "",
-      "genre": ["drama"],
+      "cover": "https://m.media-amazon.com/images/M/MV5BOGQ2OTNiNzMtMjA5Ny00Zjg4LWE1NTMtZDJlMWEyMDhhYmU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["drama", "meaning-of-life"],
       "url": "https://www.imdb.com/title/tt9100054/?ref_=rt_t_159",
       "year": 2021
     },
     {
+      "name": "The Edge of Seventeen",
+      "cover": "https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["comedy", "meaning-of-life"],
+      "url": "https://www.imdb.com/title/tt1878870/?ref_=rt_t_144",
+      "year": 2016
+    },
+    {
+      "name": "Room",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
+      "genre": ["drama", "meaning-of-life"],
+      "url": "https://www.imdb.com/title/tt3170832/?ref_=rt_t_141",
+      "year": 2015
+    },
+    {
       "name": "Definitely, Maybe",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTc1Mzc1ODMxMF5BMl5BanBnXkFtZTcwNDY1MzU1MQ@@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["romance"],
       "url": "https://www.imdb.com/title/tt0832266/?ref_=rt_t_158",
       "year": 2008
     },
     {
       "name": "Focus",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["thriller", "action"],
       "url": "https://www.imdb.com/title/tt2381941/?ref_=rt_t_156",
       "year": 2015
     },
     {
       "name": "The Nightmare Before Christmas",
-      "cover": "",
+      "cover": "https://m.media-amazon.com/images/M/MV5BNmYxOTAzZWYtOGI3Yi00ODc3LTk5ZjYtZTY0MzVkZTg3YmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
       "genre": ["fantasy", "animation"],
       "url": "https://www.imdb.com/title/tt0107688/?ref_=rt_t_153",
       "year": 1993
     },
     {
       "name": "The Iron Giant",
-      "cover": "",
-      "genre": [""],
+      "cover": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "genre": ["animation", "fantasy"],
       "url": "https://www.imdb.com/title/tt0129167/?ref_=rt_t_146",
       "year": 1999
     },
     {
-      "name": "The Edge of Seventeen",
-      "cover": "",
-      "genre": [""],
-      "url": "https://www.imdb.com/title/tt1878870/?ref_=rt_t_144",
-      "year": 2016
-    },
-    {
-      "name": "Room",
-      "cover": "",
-      "genre": [""],
-      "url": "https://www.imdb.com/title/tt3170832/?ref_=rt_t_141",
-      "year": 2015
+      "name": "The Devil Wears Prada",
+      "cover": "https://m.media-amazon.com/images/M/MV5BOWM3NTI3YWEtYjJmMy00M2U5LWI1NzEtZWM3ZDY2ZWNjOGRiXkEyXkFqcGc@._V1_.jpg",
+      "genre": ["comedy", "meaning-of-life"],
+      "url": "https://www.imdb.com/title/tt0458352/?ref_=rt_t_110",
+      "year": 2006
     }
   ]
 }

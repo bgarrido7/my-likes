@@ -13,7 +13,7 @@
       "cover": "https://lv2-cdn.azureedge.net/twice/9bafe5921dd74c659fc9c0ec89be5f30-087570ec6c704f11a18c23f4177b4a7a-TWICE%20EYES%20WIDE%20OPEN_ONLINECOVER.jpg",
       "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH",
       "year": 2020,
-      "artist": "TWICE",
+      "artist": "Twice",
       "category": "kpop"
     },
     {
@@ -22,7 +22,7 @@
       "url": "https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl",
       "year": 2019,
       "artist": "Tessa Violet",
-      "category": "indie"
+      "category": "pop"
     },
     {
       "name": "Rush!",
@@ -70,6 +70,263 @@
       "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj",
       "artist": "Stray Kids",
       "category": "kpop",
+      "year": 2021
+    },
+    {
+      "name": "÷",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/d/d3/Ed_Sheeran_-_Divide.png",
+      "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
+      "artist": "Ed Sheeran",
+      "category": "pop",
+      "year": 2017
+    },
+
+    {
+      "name": "Short n' Sweet",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/0/07/Short_n%27_Sweet.png",
+      "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH",
+      "artist": "Sabrina Carpenter",
+      "category": "pop",
+      "year": 2024
+    },
+    {
+      "name": "Arcane: Season 2",
+      "cover": "https://imusic.b-cdn.net/images/item/original/739/0198704118739.jpg?v-a-2024-arcane-league-of-legends-season-2-cd&class=scaled&v=1730557925",
+      "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7",
+      "artist": "various artists",
+      "category": "rock",
+      "year": 2024
+    },
+    {
+      "name": "21st Century Breakdown",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/5/56/21st_Century_Breakdown.jpg",
+      "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79",
+      "artist": "Green Day",
+      "category": "rock",
+      "year": 2009
+    },
+    {
+      "name": "Suicide Squad: the album",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/1/1a/Suicide_Squad_The_Album.png",
+      "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8",
+      "artist": "various artists",
+      "category": "rock",
+      "year": 2016
+    },
+    {
+      "name": "Riot!",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/2/28/Paramore_-_Riot%21.png",
+      "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ",
+      "artist": "Paramore",
+      "category": "rock",
+      "year": 2007
+    },
+    {
+      "name": "No.6 Collaborations Project",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ed_Sheeran_-_No._6_Collaborations_Project.png",
+      "url": "https://open.spotify.com/album/5oUZ9TEZR3wOdvqzowuNwl",
+      "artist": "Ed Sheeran",
+      "category": "pop",
+      "year": 2019
+    },
+    {
+      "name": "American Idiot",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/3/32/AmericanIdiot.jpg",
+      "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke",
+      "artist": "Green Day",
+      "category": "rock",
+      "year": 2004
+    },
+    {
+      "name": "Guts",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/0/03/Olivia_Rodrigo_-_Guts.png",
+      "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp",
+      "artist": "Olivia Rodrigo",
+      "category": "pop",
+      "year": 2023
+    },
+    {
+      "name": "Sour",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/7/71/Sour_-_Olivia_Rodrigo.png",
+      "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+      "artist": "Olivia Rodrigo",
+      "category": "pop",
+      "year": 2021
+    },
+    {
+      "name": "Future Nostalgia",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Dua_Lipa_-_Future_Nostalgia.png ",
+      "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9",
+      "artist": "Dua Lipa",
+      "category": "pop",
+      "year": 2020
+    },
+    {
+      "name": "When We All Fall Asleep, Where Do We Go?",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/8/8f/When_We_Fall_Asleep%2C_Where_Do_We_Go.png",
+      "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
+      "artist": "Billie Eilish",
+      "category": "pop",
+      "year": 2019
+    },
+    {
+      "name": "Masterpiece",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/6/6e/MiSaMo_Masterpiece_cover_art.png",
+      "url": "https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ",
+      "artist": "Misamo",
+      "category": "kpop",
+      "year": 2023
+    },
+    {
+      "name": "Unforgiven",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d71fd77b89d08bc1bda219c7",
+      "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT",
+      "artist": "Le Sserafim",
+      "category": "kpop",
+      "year": 2023
+    },
+    {
+      "name": "Ruby",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/f/fc/Jennie_%E2%80%93_Ruby.jpg",
+      "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH",
+      "artist": "Jennie",
+      "category": "kpop",
+      "year": 2025
+    },
+    {
+      "name": "Crazy in Love",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Itzy_%E2%80%93_Crazy_in_Love.jpg",
+      "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli",
+      "artist": "ITZY",
+      "category": "kpop",
+      "year": 2021
+    },
+    {
+      "name": "Ringo",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/ab8d64583ce782db4f65f9a99e84cfc7/0x1900-000000-80-0-0.jpg",
+      "url": "https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc",
+      "artist": "ITZY",
+      "category": "kpop",
+      "year": 2023
+    },
+    {
+      "name": "Born To Be",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/9feca7d33732f216de35c36e7ca27b2a/0x1900-000000-80-0-0.jpg",
+      "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz",
+      "artist": "ITZY",
+      "category": "kpop",
+      "year": 2024
+    },
+    {
+      "name": "Checkmate",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Checkmate_original_EP.jpeg/250px-Checkmate_original_EP.jpeg",
+      "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK",
+      "artist": "ITZY",
+      "category": "kpop",
+      "year": 2022
+    },
+    {
+      "name": "Heat",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/6/68/%28G%29I-dle_-_Heat.png",
+      "url": "https://open.spotify.com/album/20iyYKtw1KjMRsMZWMPpVY",
+      "artist": "(G)I-dle",
+      "category": "kpop",
+      "year": 2023
+    },
+    {
+      "name": "Hate XX",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273afedcb63d2ef759322629930",
+      "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7",
+      "artist": "Yena",
+      "category": "kpop",
+      "year": 2023
+    },
+    {
+      "name": "Antifragile",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e6/Le_Sserafim_-_Antifragile.png",
+      "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9",
+      "artist": "Le Sserafim",
+      "category": "kpop",
+      "year": 2023
+    },
+    {
+      "name": "I Feel",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/%28G%29I-dle_-_I_Feel_digital.png",
+      "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG",
+      "artist": "(G)I-dle",
+      "category": "kpop",
+      "year": 2023
+    },
+    {
+      "name": "I Never Die",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/9/9a/G_I-dle_-_I_Never_Die.jpg",
+      "url": "https://open.spotify.com/album/0jij9evzJv4xj8Xx34LjDZ",
+      "artist": "(G)I-dle",
+      "category": "kpop",
+      "year": 2022
+    },
+    {
+      "name": "Get Up",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/NewJeans_-_Get_Up.png/250px-NewJeans_-_Get_Up.png",
+      "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18",
+      "artist": "NewJeans",
+      "category": "kpop",
+      "year": 2023
+    },
+    {
+      "name": "New Jeans",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/0x1900-000000-80-0-0.jpg",
+      "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV",
+      "artist": "NewJeans",
+      "category": "kpop",
+      "year": 2022
+    },
+    {
+      "name": "OMG",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/NewJeans_OMG_cover.jpg/250px-NewJeans_OMG_cover.jpg",
+      "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj",
+      "artist": "NewJeans",
+      "category": "kpop",
+      "year": 2023
+    },
+    {
+      "name": "Between 1&2",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/0824c80571e9cee63eaacc5a52a8e6d8/0x1900-000000-80-0-0.jpg",
+      "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f",
+      "artist": "Twice",
+      "category": "kpop",
+      "year": 2022
+    },
+    {
+      "name": "Formula of Love",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273d1961ecb307c9e05ec8f7e82",
+      "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq",
+      "artist": "Twice",
+      "category": "kpop",
+      "year": 2021
+    },
+    {
+      "name": "Perfect World",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/89/Twice_-_Perfect_World.png",
+      "url": "https://open.spotify.com/album/17rk8h2IU4wwSFXw9j2uR6",
+      "artist": "Twice",
+      "category": "kpop",
+      "year": 2021
+    },
+    {
+      "name": "Oddinary",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1c10c0aab6317c66b76d8962bc32c39e/0x1900-000000-80-0-0.jpg",
+      "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q",
+      "artist": "Stray Kids",
+      "category": "kpop",
+      "year": 2022
+    },
+    {
+      "name": "Planet Her",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png",
+      "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW",
+      "artist": "Doja Cat",
+      "category": "pop",
       "year": 2021
     }
   ]

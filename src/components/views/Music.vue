@@ -5,7 +5,7 @@
       <n-radio-group v-model:value="selectedFilter">
         <n-radio-button value="kpop">K-pop</n-radio-button>
         <n-radio-button value="rock">Rock</n-radio-button>
-        <n-radio-button value="indie">Indie</n-radio-button>
+        <n-radio-button value="pop">Pop</n-radio-button>
       </n-radio-group>
     </div>
     <div class="content">

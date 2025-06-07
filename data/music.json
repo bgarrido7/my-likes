@@ -73,6 +73,14 @@
       "year": 2021
     },
     {
+      "name": "Oddinary",
+      "cover": "https://cdn-images.dzcdn.net/images/cover/1c10c0aab6317c66b76d8962bc32c39e/0x1900-000000-80-0-0.jpg",
+      "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q",
+      "artist": "Stray Kids",
+      "category": "kpop",
+      "year": 2022
+    },
+    {
       "name": "÷",
       "cover": "https://upload.wikimedia.org/wikipedia/pt/d/d3/Ed_Sheeran_-_Divide.png",
       "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu",
@@ -313,14 +321,7 @@
       "category": "kpop",
       "year": 2021
     },
-    {
-      "name": "Oddinary",
-      "cover": "https://cdn-images.dzcdn.net/images/cover/1c10c0aab6317c66b76d8962bc32c39e/0x1900-000000-80-0-0.jpg",
-      "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q",
-      "artist": "Stray Kids",
-      "category": "kpop",
-      "year": 2022
-    },
+
     {
       "name": "Planet Her",
       "cover": "https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png",

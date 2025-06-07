@@ -11,7 +11,8 @@
       </div>
 
       <div class="my-wins">
-        Correct Bets: <span class="correct-bets">{{ correctBets }}</span>
+        Correct Bets:
+        <span class="correct-bets">{{ correctBets }} </span> / {{ totalAwards }}
       </div>
     </div>
 
@@ -20,7 +21,7 @@
         <h1>{{ award.category }}</h1>
         <ul>
           <li
-            v-for="(movie, index) in award.movies"
+            v-for="(movie, index) in award.nominees"
             v-bind:key="index"
             :class="isWinner(movie, award.winner) ? 'winner' : ''"
           >
@@ -85,6 +86,12 @@ const correctBets = computed(() => {
   }
   return count;
 });
+
+const totalAwards = computed(() => {
+  const awards = awardsForSelectedYear.value;
+  if (!awards) return 0;
+  return Object.keys(awards).length;
+});
 </script>
 
 <style scoped>
@@ -96,6 +103,8 @@ const correctBets = computed(() => {
   display: flex;
   flex-direction: column;
   padding: 3vmin;
+  overflow-y: auto;
+  max-height: 100vh;
   width: 100%;
 }
 .year-select {
@@ -124,8 +133,9 @@ span.bet {
 }
 .awards {
   padding: 2vmin;
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  /* flex-wrap: wrap; */
   gap: 5vw;
   text-transform: capitalize;
 }

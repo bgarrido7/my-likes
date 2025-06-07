@@ -1,303 +1,562 @@
 {
-  "2025": {
-    "award1": {
-      "category": "Best picture",
-      "winner": "Everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "all quiet on the western front",
-        "Avatar: The Way of water",
-        "The Banshees of inisherin",
-        "elvis",
-        "the fabelmans",
-        "Tár",
-        "Top gun: maverick",
-        "triangle of sadness",
-        "women talking"
-      ]
-    },
-    "award2": {
-      "category": "Directing",
-      "winner": "everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "The Banshees of inisherin",
-        "the fabelmans",
-        "Tár",
-        "triangle of sadness"
-      ]
-    },
-    "award3": {
-      "category": "costume design",
-      "winner": "Black panther: wakanda forever",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "Black panther: wakanda forever",
-        "babylon",
-        "elvis",
-        "Mrs. Harris goes to paris"
-      ]
-    }
-  },
+  "2025": {},
 
-  "2024": {
-    "award1": {
-      "category": "Best picture",
-      "winner": "Everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "all quiet on the western front",
-        "Avatar: The Way of water",
-        "The Banshees of inisherin",
-        "elvis",
-        "the fabelmans",
-        "Tár",
-        "Top gun: maverick",
-        "triangle of sadness",
-        "women talking"
-      ]
-    },
-    "award2": {
-      "category": "Directing",
-      "winner": "everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "The Banshees of inisherin",
-        "the fabelmans",
-        "Tár",
-        "triangle of sadness"
-      ]
-    },
-    "award3": {
-      "category": "costume design",
-      "winner": "Black panther: wakanda forever",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "Black panther: wakanda forever",
-        "babylon",
-        "elvis",
-        "Mrs. Harris goes to paris"
-      ]
-    }
-  },
-  "2023": {
-    "award1": {
-      "category": "Best picture",
-      "winner": "Everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "all quiet on the western front",
-        "Avatar: The Way of water",
-        "The Banshees of inisherin",
-        "elvis",
-        "the fabelmans",
-        "Tár",
-        "Top gun: maverick",
-        "triangle of sadness",
-        "women talking"
-      ]
-    },
-    "award2": {
-      "category": "Directing",
-      "winner": "everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "The Banshees of inisherin",
-        "the fabelmans",
-        "Tár",
-        "triangle of sadness"
-      ]
-    },
-    "award3": {
-      "category": "costume design",
-      "winner": "Black panther: wakanda forever",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "Black panther: wakanda forever",
-        "babylon",
-        "elvis",
-        "Mrs. Harris goes to paris"
-      ]
-    }
-  },
-  "2022": {
-    "award1": {
-      "category": "Best picture",
-      "winner": "Everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "all quiet on the western front",
-        "Avatar: The Way of water",
-        "The Banshees of inisherin",
-        "elvis",
-        "the fabelmans",
-        "Tár",
-        "Top gun: maverick",
-        "triangle of sadness",
-        "women talking"
-      ]
-    },
-    "award2": {
-      "category": "Directing",
-      "winner": "everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "The Banshees of inisherin",
-        "the fabelmans",
-        "Tár",
-        "triangle of sadness"
-      ]
-    },
-    "award3": {
-      "category": "costume design",
-      "winner": "Black panther: wakanda forever",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "Black panther: wakanda forever",
-        "babylon",
-        "elvis",
-        "Mrs. Harris goes to paris"
-      ]
-    }
-  },
-  "2021": {
-    "award1": {
-      "category": "Best picture",
-      "winner": "Everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "all quiet on the western front",
-        "Avatar: The Way of water",
-        "The Banshees of inisherin",
-        "elvis",
-        "the fabelmans",
-        "Tár",
-        "Top gun: maverick",
-        "triangle of sadness",
-        "women talking"
-      ]
-    },
-    "award2": {
-      "category": "Directing",
-      "winner": "everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "The Banshees of inisherin",
-        "the fabelmans",
-        "Tár",
-        "triangle of sadness"
-      ]
-    },
-    "award3": {
-      "category": "costume design",
-      "winner": "Black panther: wakanda forever",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "Black panther: wakanda forever",
-        "babylon",
-        "elvis",
-        "Mrs. Harris goes to paris"
-      ]
-    }
-  },
+  "2024": {},
+
+  "2023": {},
+  "2022": {},
+  "2021": {},
+
   "2020": {
-    "award1": {
-      "category": "Best picture",
-      "winner": "Everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "all quiet on the western front",
-        "Avatar: The Way of water",
-        "The Banshees of inisherin",
-        "elvis",
-        "the fabelmans",
-        "Tár",
-        "Top gun: maverick",
-        "triangle of sadness",
-        "women talking"
+    "best_picture": {
+      "category": "Best Picture",
+      "winner": "Parasite",
+      "bet": "1917",
+      "nominees": [
+        "1917",
+        "ford v ferrari",
+        "the irishman",
+        "jojo rabbit",
+        "joker",
+        "little women",
+        "marriage story",
+        "once upon a time in hollywood",
+        "parasite"
       ]
     },
-    "award2": {
+    "best_director": {
       "category": "Directing",
-      "winner": "everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "The Banshees of inisherin",
-        "the fabelmans",
-        "Tár",
-        "triangle of sadness"
+      "winner": "Parasite",
+      "bet": "1917",
+      "nominees": [
+        "Parasite",
+        "The Irishman",
+        "Once Upon a Time in Hollywood",
+        "1917",
+        "Joker"
       ]
     },
-    "award3": {
-      "category": "costume design",
-      "winner": "Black panther: wakanda forever",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "Black panther: wakanda forever",
-        "babylon",
-        "elvis",
-        "Mrs. Harris goes to paris"
+    "best_actor": {
+      "category": "Best Actor",
+      "winner": "Joaquin Phoenix",
+      "bet": "Joaquin Phoenix",
+      "nominees": [
+        "Antonio Banderas",
+        "Leonardo DiCaprio",
+        "Adam Driver",
+        "Joaquin Phoenix",
+        "Jonathan Pryce"
+      ]
+    },
+    "best_actress": {
+      "category": "Best Actress",
+      "winner": "Renée Zellweger",
+      "bet": "Scarlett Johansson",
+      "nominees": [
+        "Cynthia Erivo",
+        "Scarlett Johansson",
+        "Saoirse Ronan",
+        "Charlize Theron",
+        "Renée Zellweger"
+      ]
+    },
+    "best_supporting_actor": {
+      "category": "Supporting Actor",
+      "winner": "Brad Pitt",
+      "bet": "Brad Pitt",
+      "nominees": [
+        "Tom Hanks",
+        "Anthony Hopkins",
+        "Al Pacino",
+        "Joe Pesci",
+        "Brad Pitt"
+      ]
+    },
+    "best_supporting_actress": {
+      "category": "Supporting Actress",
+      "winner": "Laura Dern",
+      "bet": "Kathy Bates",
+      "nominees": [
+        "Laura Dern",
+        "Florence Pugh",
+        "Scarlett Johansson",
+        "Margot Robbie",
+        "Kathy Bates"
+      ]
+    },
+    "best_animated_feature": {
+      "category": "Animated Feature Film",
+      "winner": "Toy Story 4",
+      "bet": "Klaus",
+      "nominees": [
+        "How to Train Your Dragon: The Hidden World",
+        "I Lost My Body",
+        "Klaus",
+        "Missing Link",
+        "Toy Story 4"
+      ]
+    },
+    "best_foreign_language_film": {
+      "category": "International Feature Film",
+      "winner": "Parasite",
+      "bet": "Parasite",
+      "nominees": [
+        "Corpus Christi",
+        "Honeyland",
+        "Les Misérables",
+        "Pain and Glory",
+        "Parasite"
+      ]
+    },
+
+    "best_cinematography": {
+      "category": "Cinematography",
+      "winner": "1917",
+      "bet": "1917",
+      "nominees": [
+        "1917",
+        "The Lighthouse",
+        "The Irishman",
+        "Once Upon a Time in Hollywood",
+        "Midsommar"
+      ]
+    },
+    "best_editing": {
+      "category": "Film Editing",
+      "winner": "Ford v Ferrari",
+      "bet": "Parasite",
+      "nominees": [
+        "Ford v Ferrari",
+        "The Irishman",
+        "Jojo Rabbit",
+        "Joker",
+        "Parasite"
+      ]
+    },
+    "best_production_design": {
+      "category": "Production Design",
+      "winner": "Once Upon a Time in Hollywood",
+      "bet": "1917",
+      "nominees": [
+        "Once Upon a Time in Hollywood",
+        "1917",
+        "Jojo Rabbit",
+        "The Irishman",
+        "Parasite"
+      ]
+    },
+    "best_costume_design": {
+      "category": "Costume Design",
+      "winner": "Little Women",
+      "bet": "Jojo rabbit",
+      "nominees": [
+        "The Irishman",
+        "Joker",
+        "Jojo rabbit",
+        "Once Upon a Time in Hollywood",
+        "Little Women"
+      ]
+    },
+    "best_original_score": {
+      "category": "Original Score",
+      "winner": "Joker",
+      "bet": "Joker",
+      "nominees": [
+        "Little Women",
+        "Marriage Story",
+        "Joker",
+        "1917",
+        "Star Wars: The rise of skywalker"
+      ]
+    },
+    "best_original_song": {
+      "category": "Original Song",
+      "winner": "Rocketman",
+      "bet": "Harriet",
+      "nominees": [
+        "Rocketman",
+        "Frozen II",
+        "Harriet",
+        "Breakthrough",
+        "Toy Story 4"
+      ]
+    },
+    "best_sound_editing": {
+      "category": "Sound Editing",
+      "winner": "Ford v Ferrari",
+      "bet": "1917",
+      "nominees": [
+        "Ford v Ferrari",
+        "Joker",
+        "1917",
+        "Once upon a time in hollywood",
+        "Star Wars: The Rise of Skywalker"
+      ]
+    },
+    "best_sound_mixing": {
+      "category": "Sound Mixing",
+      "winner": "1917",
+      "bet": "Ford v Ferrari",
+      "nominees": [
+        "Ad astra",
+        "Ford v Ferrari",
+        "Joker",
+        "1917",
+        "Once upon a time in hollywood"
+      ]
+    },
+    "best_makeup_and_hairstyling": {
+      "category": "Makeup and Hairstyling",
+      "winner": "Bombshell",
+      "bet": "Bombshell",
+      "nominees": [
+        "Joker",
+        "Bombshell",
+        "Judy",
+        "1917",
+        "Maleficent; mistress of evil"
+      ]
+    },
+    "best_visual_effects": {
+      "category": "Visual Effects",
+      "winner": "1917",
+      "bet": "Avengers: Endgame",
+      "nominees": [
+        "Avengers: Endgame",
+        "1917",
+        "Star Wars: The Rise of Skywalker",
+        "The Lion King",
+        "The Irishman"
+      ]
+    },
+
+    "best_animated_short_film": {
+      "category": "Animated Short Film",
+      "winner": "Hair Love",
+      "bet": "Kitbull",
+      "nominees": [
+        "Hair Love",
+        "Kitbull",
+        "Memorable",
+        "Sister",
+        "Dcera (Daughter)"
+      ]
+    },
+    "best_live_action_short_film": {
+      "category": "Live Action Short Film",
+      "winner": "The Neighbors' Window",
+      "bet": "The Neighbors' Window",
+      "nominees": [
+        "The Neighbors' Window",
+        "Brotherhood",
+        "Nefta Football Club",
+        "Saria",
+        "A Sister"
+      ]
+    },
+    "best_original_screenplay": {
+      "category": "Original Screenplay",
+      "winner": "Parasite",
+      "bet": "Parasite",
+      "nominees": [
+        "Parasite",
+        "Once Upon a Time in Hollywood",
+        "1917",
+        "Knives Out",
+        "Marriage story"
+      ]
+    },
+    "best_adapted_screenplay": {
+      "category": "Adapted Screenplay",
+      "winner": "Jojo Rabbit",
+      "bet": "Jojo Rabbit",
+      "nominees": [
+        "The Irishman",
+        "Jojo Rabbit",
+        "Joker",
+        "The Two Popes",
+        "Little Women"
       ]
     }
   },
   "2019": {
-    "award1": {
-      "category": "Best picture",
-      "winner": "Everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "all quiet on the western front",
-        "Avatar: The Way of water",
-        "The Banshees of inisherin",
-        "elvis",
-        "the fabelmans",
-        "Tár",
-        "Top gun: maverick",
-        "triangle of sadness",
-        "women talking"
+    "best_picture": {
+      "category": "Best Picture",
+      "winner": "Green Book",
+      "bet": "a star is born",
+      "nominees": [
+        "black panther",
+        "blacKkKlansman",
+        "bohemian rhapsody",
+        "the favourite",
+        "green book",
+        "roma",
+        "a star is born",
+        "vice"
       ]
     },
-    "award2": {
+    "best_actor": {
+      "category": "Best Actor",
+      "winner": "Rami Malek",
+      "bet": "christian bale",
+      "nominees": [
+        "christian bale",
+        "bradley cooper",
+        "willem dafoe",
+        "rami malek",
+        "viggo mortensen"
+      ]
+    },
+    "best_actress": {
+      "category": "Best Actress",
+      "winner": "Olivia Colman",
+      "bet": "olivia colman",
+      "nominees": [
+        "yalitza aparicio",
+        "glenn close",
+        "olivia colman",
+        "lady gaga",
+        "melissa mccarthy"
+      ]
+    },
+    "best_supporting_actor": {
+      "category": "Supporting Actor",
+      "winner": "Mahershala Ali",
+      "bet": "richard e. grant",
+      "nominees": [
+        "adam driver",
+        "sam elliott",
+        "richard e. grant",
+        "sam rockwell",
+        "mahershala ali"
+      ]
+    },
+    "best_supporting_actress": {
+      "category": "Supporting Actress",
+      "winner": "Regina King",
+      "bet": "regina king",
+      "nominees": [
+        "amy adams",
+        "marina de tavira",
+        "regina king",
+        "emma stone",
+        "rachel weisz"
+      ]
+    },
+    "best_director": {
       "category": "Directing",
-      "winner": "everything everywhere all at once",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "The Banshees of inisherin",
-        "the fabelmans",
-        "Tár",
-        "triangle of sadness"
+      "winner": "Roma",
+      "bet": "roma",
+      "nominees": [
+        "blacKkKlansman",
+        "cold war",
+        "the favourite",
+        "roma",
+        "vice"
       ]
     },
-    "award3": {
-      "category": "costume design",
-      "winner": "Black panther: wakanda forever",
-      "bet": "everything everywhere all at once",
-      "movies": [
-        "everything everywhere all at once",
-        "Black panther: wakanda forever",
-        "babylon",
-        "elvis",
-        "Mrs. Harris goes to paris"
+    "best_adapted_screenplay": {
+      "category": "Adapted Screenplay",
+      "winner": "BlacKkKlansman",
+      "bet": "a star is born",
+      "nominees": [
+        "the ballad of buster scruggs",
+        "blacKkKlansman",
+        "can you ever forgive me?",
+        "if beale street could talk",
+        "a star is born"
+      ]
+    },
+    "best_original_screenplay": {
+      "category": "Original Screenplay",
+      "winner": "Green Book",
+      "bet": "the favourite",
+      "nominees": [
+        "the favourite",
+        "first reformed",
+        "green book",
+        "roma",
+        "vice"
+      ]
+    },
+    "best_cinematography": {
+      "category": "Cinematography",
+      "winner": "Roma",
+      "bet": "the favourite",
+      "nominees": [
+        "cold war",
+        "the favourite",
+        "never look away",
+        "roma",
+        "a star is born"
+      ]
+    },
+    "best_costume_design": {
+      "category": "Costume Design",
+      "winner": "Black Panther",
+      "bet": "the favourite",
+      "nominees": [
+        "the ballad of buster scruggs",
+        "black panther",
+        "the favourite",
+        "mary poppins returns",
+        "mary queen of scots"
+      ]
+    },
+    "best_documentary_feature": {
+      "category": "Documentary Feature",
+      "winner": "Free Solo",
+      "bet": "free solo",
+      "nominees": [
+        "free solo",
+        "hale county this morning, this evening",
+        "minding the gap",
+        "of fathers and sons",
+        "rbg"
+      ]
+    },
+    "best_documentary_short_subject": {
+      "category": "Documentary Short Subject",
+      "winner": "Period. End of Sentence.",
+      "bet": "end game",
+      "nominees": [
+        "black sheep",
+        "end game",
+        "lifeboat",
+        "a night at the garden",
+        "period. end of sentence."
+      ]
+    },
+    "best_animated_feature": {
+      "category": "Animated Feature",
+      "winner": "Spider-Man: Into the Spider-Verse",
+      "bet": "spider-man: into the spider-verse",
+      "nominees": [
+        "incredibles 2",
+        "isle of dogs",
+        "mirai",
+        "ralph breaks the internet",
+        "spider-man: into the spider-verse"
+      ]
+    },
+    "best_animated_short_film": {
+      "category": "Animated Short Film",
+      "winner": "Bao",
+      "bet": "one small step",
+      "nominees": [
+        "animal behavior",
+        "bao",
+        "late afternoon",
+        "one small step",
+        "weekends"
+      ]
+    },
+    "best_live_action_short_film": {
+      "category": "Live Action Short Film",
+      "winner": "Skin",
+      "bet": "detainment",
+      "nominees": ["detainment", "fauve", "marguerite", "mother", "skin"]
+    },
+    "best_foreign_language_film": {
+      "category": "Foreign Language Film",
+      "winner": "Roma",
+      "bet": "roma",
+      "nominees": [
+        "capernaum",
+        "cold war",
+        "never look away",
+        "roma",
+        "shoplifters"
+      ]
+    },
+    "best_makeup_and_hairstyling": {
+      "category": "Makeup and Hairstyling",
+      "winner": "Vice",
+      "bet": "vice",
+      "nominees": ["border", "mary queen of scots", "vice"]
+    },
+    "best_original_score": {
+      "category": "Original Score",
+      "winner": "Black Panther",
+      "bet": "black panther",
+      "nominees": [
+        "black panther",
+        "blacKkKlansman",
+        "if beale street could talk",
+        "isle of dogs",
+        "mary poppins returns"
+      ]
+    },
+    "best_original_song": {
+      "category": "Original Song",
+      "winner": "Shallow",
+      "bet": "shallow",
+      "nominees": [
+        "all the stars",
+        "i'll fight",
+        "the place where lost things go",
+        "shallow",
+        "when a cowboy trades his spurs for wings"
+      ]
+    },
+    "best_film_editing": {
+      "category": "Film Editing",
+      "winner": "Bohemian Rhapsody",
+      "bet": "bohemian rhapsody",
+      "nominees": [
+        "blacKkKlansman",
+        "bohemian rhapsody",
+        "the favourite",
+        "green book",
+        "vice"
+      ]
+    },
+    "best_production_design": {
+      "category": "Production Design",
+      "winner": "Black Panther",
+      "bet": "the favourite",
+      "nominees": [
+        "black panther",
+        "the favourite",
+        "first man",
+        "mary poppins returns",
+        "roma"
+      ]
+    },
+    "best_sound_editing": {
+      "category": "Sound Editing",
+      "winner": "Bohemian Rhapsody",
+      "bet": "a quiet place",
+      "nominees": [
+        "black panther",
+        "bohemian rhapsody",
+        "first man",
+        "a quiet place",
+        "roma"
+      ]
+    },
+    "best_sound_mixing": {
+      "category": "Sound Mixing",
+      "winner": "Bohemian Rhapsody",
+      "bet": "bohemian rhapsody",
+      "nominees": [
+        "black panther",
+        "bohemian rhapsody",
+        "first man",
+        "roma",
+        "a star is born"
+      ]
+    },
+    "best_visual_effects": {
+      "category": "Visual Effects",
+      "winner": "First Man",
+      "bet": "ready player one",
+      "nominees": [
+        "avengers: infinity war",
+        "christopher robin",
+        "first man",
+        "ready player one",
+        "solo: a star wars story"
       ]
     }
   }

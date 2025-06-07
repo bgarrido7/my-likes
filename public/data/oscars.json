@@ -1,11 +1,1297 @@
 {
-  "2025": {},
+  "2025": {
+    "best_picture": {
+      "category": "Best Picture",
+      "winner": "Anora",
+      "bet": "Wicked",
+      "nominees": [
+        "Anora",
+        "The Brutalist",
+        "A Complete Unknown",
+        "Conclave",
+        "Dune: Part Two",
+        "Emilia Pérez",
+        "I'm Still Here",
+        "Nickel Boys",
+        "The Substance",
+        "Wicked"
+      ]
+    },
+    "best_director": {
+      "category": "Directing",
+      "winner": "Anora",
+      "bet": "The Brutalist",
+      "nominees": [
+        "Anora",
+        "The Brutalist",
+        "A Complete Unknown",
+        "Emilia Pérez",
+        "The Substance"
+      ]
+    },
+    "best_actor": {
+      "category": "Best Actor",
+      "winner": "Adrien Brody",
+      "bet": "Ralph Fiennes",
+      "nominees": [
+        "Adrien Brody",
+        "Timothée Chalamet",
+        "Colman Domingo",
+        "Ralph Fiennes",
+        "Sebastian Stan"
+      ]
+    },
+    "best_actress": {
+      "category": "Best Actress",
+      "winner": "Mikey Madison",
+      "bet": "Demi Moore",
+      "nominees": [
+        "Mikey Madison",
+        "Cynthia Erivo",
+        "Karla Sofía Gascón",
+        "Demi Moore",
+        "Fernanda Torres"
+      ]
+    },
+    "best_supporting_actor": {
+      "category": "Supporting Actor",
+      "winner": "Kieran Culkin",
+      "bet": "Edward Norton",
+      "nominees": [
+        "Kieran Culkin",
+        "Yura Borisov",
+        "Edward Norton",
+        "Guy Pearce",
+        "Jeremy Strong"
+      ]
+    },
+    "best_supporting_actress": {
+      "category": "Supporting Actress",
+      "winner": "Zoe Saldaña",
+      "bet": "Zoe Saldaña",
+      "nominees": [
+        "Zoe Saldaña",
+        "Monica Barbaro",
+        "Ariana Grande",
+        "Felicity Jones",
+        "Isabella Rossellini"
+      ]
+    },
+    "best_original_score": {
+      "category": "Original Score",
+      "winner": "The Brutalist",
+      "bet": "Wicked",
+      "nominees": [
+        "The Brutalist",
+        "Conclave",
+        "Emilia Pérez",
+        "Wicked",
+        "The Wild Robot"
+      ]
+    },
+    "best_international_feature": {
+      "category": "International Feature",
+      "winner": "I'm Still Here",
+      "bet": "I'm Still Here",
+      "nominees": [
+        "I'm Still Here",
+        "The Girl With the Needle",
+        "Emilia Pérez",
+        "The Seed of the Sacred Fig",
+        "Flow"
+      ]
+    },
+    "best_cinematography": {
+      "category": "Cinematography",
+      "winner": "The Brutalist",
+      "bet": "The Brutalist",
+      "nominees": [
+        "The Brutalist",
+        "Dune: Part Two",
+        "Emilia Pérez",
+        "Maria",
+        "Nosferatu"
+      ]
+    },
+    "best_visual_effects": {
+      "category": "Visual Effects",
+      "winner": "Dune: Part Two",
+      "bet": "Dune: Part Two",
+      "nominees": [
+        "Dune: Part Two",
+        "Alien: Romulus",
+        "Better Man",
+        "Kingdom of the Planet of the Apes",
+        "Wicked"
+      ]
+    },
+    "best_sound": {
+      "category": "Sound",
+      "winner": "Dune: Part Two",
+      "bet": "Dune: Part Two",
+      "nominees": [
+        "Dune: Part Two",
+        "A Complete Unknown",
+        "Emilia Pérez",
+        "Wicked",
+        "The Wild Robot"
+      ]
+    },
 
-  "2024": {},
+    "best_original_song": {
+      "category": "Original Song",
+      "winner": "\"El Mal\" from Emilia Pérez",
+      "bet": "\"Like a Bird\" from Sing Sing",
+      "nominees": [
+        "\"El Mal\" from Emilia Pérez",
+        "\"The Journey\" from The Six Triple Eight",
+        "\"Like a Bird\" from Sing Sing",
+        "\"Mi Camino\" from Emilia Pérez",
+        "\"Never Too Late\" from Elton John: Never Too Late"
+      ]
+    },
+    "best_production_design": {
+      "category": "Production Design",
+      "winner": "Wicked",
+      "bet": "Wicked",
+      "nominees": [
+        "Wicked",
+        "The Brutalist",
+        "Conclave",
+        "Dune: Part Two",
+        "Nosferatu"
+      ]
+    },
+    "best_costume_design": {
+      "category": "Costume Design",
+      "winner": "Wicked",
+      "bet": "Wicked",
+      "nominees": [
+        "Wicked",
+        "A Complete Unknown",
+        "Conclave",
+        "Gladiator II",
+        "Nosferatu"
+      ]
+    },
+    "best_makeup_and_hairstyling": {
+      "category": "Makeup and Hairstyling",
+      "winner": "The Substance",
+      "bet": "Wicked",
+      "nominees": [
+        "The Substance",
+        "A Different Man",
+        "Emilia Pérez",
+        "Nosferatu",
+        "Wicked"
+      ]
+    },
 
-  "2023": {},
-  "2022": {},
-  "2021": {},
+    "best_film_editing": {
+      "category": "Film Editing",
+      "winner": "Anora",
+      "bet": "Wicked",
+      "nominees": [
+        "Anora",
+        "A Complete Unknown",
+        "Emilia Pérez",
+        "The Substance",
+        "Wicked"
+      ]
+    },
+    "best_adapted_screenplay": {
+      "category": "Adapted Screenplay",
+      "winner": "Conclave",
+      "bet": "Nickel Boys",
+      "nominees": [
+        "A Complete Unknown",
+        "Conclave",
+        "Emilia Pérez",
+        "Nickel Boys",
+        "Sing Sing"
+      ]
+    },
+    "best_original_screenplay": {
+      "category": "Original Screenplay",
+      "winner": "Anora",
+      "bet": "Anora",
+      "nominees": [
+        "Anora",
+        "The Brutalist",
+        "A Real Pain",
+        "September 5",
+        "The Substance"
+      ]
+    },
+    "best_animated_feature": {
+      "category": "Animated Feature",
+      "winner": "Flow",
+      "bet": "Flow",
+      "nominees": [
+        "Flow",
+        "Inside Out 2",
+        "memoir of a snail",
+        "Wallace & Gromit: Vengeance Most Fowl",
+        "The Wild Robot"
+      ]
+    },
+    "best_animated_short": {
+      "category": "Animated Short",
+      "winner": "In the Shadow of the Cypress",
+      "bet": "In the Shadow of the Cypress",
+      "nominees": [
+        "Beautiful Men",
+        "In the Shadow of the Cypress",
+        "Magic Candies",
+        "Wander to Wonder",
+        "Yuck!"
+      ]
+    }
+  },
+
+  "2024": {
+    "best_picture": {
+      "category": "Best Picture",
+      "winner": "Oppenheimer",
+      "bet": "Barbie",
+      "nominees": [
+        "American Fiction",
+        "Anatomy of a Fall",
+        "Barbie",
+        "The Holdovers",
+        "Killers of the Flower Moon",
+        "Maestro",
+        "Oppenheimer",
+        "Past Lives",
+        "Poor Things",
+        "The Zone of Interest"
+      ]
+    },
+    "best_director": {
+      "category": "Directing",
+      "winner": "Oppenheimer",
+      "bet": "Poor Things",
+      "nominees": [
+        "Anatomy of a Fall",
+        "Killers of the Flower Moon",
+        "Oppenheimer",
+        "Poor Things",
+        "The Zone of Interest"
+      ]
+    },
+    "best_actor": {
+      "category": "Best Actor",
+      "winner": "Cillian Murphy",
+      "bet": "Paul Giamatti",
+      "nominees": [
+        "Bradley Cooper",
+        "Colman Domingo",
+        "Paul Giamatti",
+        "Cillian Murphy",
+        "Jeffrey Wright"
+      ]
+    },
+    "best_actress": {
+      "category": "Best Actress",
+      "winner": "Emma Stone",
+      "bet": "Emma Stone",
+      "nominees": [
+        "Annette Bening",
+        "Lily Gladstone",
+        "Sandra Hüller",
+        "Carey Mulligan",
+        "Emma Stone"
+      ]
+    },
+    "best_supporting_actor": {
+      "category": "Supporting Actor",
+      "winner": "Robert Downey Jr.",
+      "bet": "Mark Ruffalo",
+      "nominees": [
+        "Sterling K. Brown",
+        "Robert De Niro",
+        "Robert Downey Jr.",
+        "Ryan Gosling",
+        "Mark Ruffalo"
+      ]
+    },
+    "best_supporting_actress": {
+      "category": "Supporting Actress",
+      "winner": "Da'Vine Joy Randolph",
+      "bet": "Jodie Foster",
+      "nominees": [
+        "Emily Blunt",
+        "Danielle Brooks",
+        "America Ferrera",
+        "Jodie Foster",
+        "Da'Vine Joy Randolph"
+      ]
+    },
+    "best_original_screenplay": {
+      "category": "Original Screenplay",
+      "winner": "Anatomy of a Fall",
+      "bet": "Past Lives",
+      "nominees": [
+        "Anatomy of a Fall",
+        "The Holdovers",
+        "Maestro",
+        "May December",
+        "Past Lives"
+      ]
+    },
+    "best_adapted_screenplay": {
+      "category": "Adapted Screenplay",
+      "winner": "Barbie",
+      "bet": "Barbie",
+      "nominees": [
+        "American Fiction",
+        "Barbie",
+        "Oppenheimer",
+        "Poor Things",
+        "The Zone of Interest"
+      ]
+    },
+    "best_animated_feature": {
+      "category": "Animated Feature",
+      "winner": "The Boy and the Heron",
+      "bet": "The Boy and the Heron",
+      "nominees": [
+        "The Boy and the Heron",
+        "Elemental",
+        "Nimona",
+        "Robot Dreams",
+        "Spider-Man: Across the Spider-Verse"
+      ]
+    },
+    "best_international_feature": {
+      "category": "International Feature",
+      "winner": "The Zone of Interest",
+      "bet": "Society of the Snow",
+      "nominees": [
+        "Io Capitano",
+        "Perfect Days",
+        "Society of the Snow",
+        "The Teachers' Lounge",
+        "The Zone of Interest"
+      ]
+    },
+    "best_documentary_feature": {
+      "category": "Documentary Feature",
+      "winner": "20 Days in Mariupol",
+      "bet": "20 Days in Mariupol",
+      "nominees": [
+        "Bobi Wine: The People's President",
+        "The Eternal Memory",
+        "Four Daughters",
+        "To Kill a Tiger",
+        "20 Days in Mariupol"
+      ]
+    },
+    "best_documentary_short": {
+      "category": "Documentary Short",
+      "winner": "The Last Repair Shop",
+      "bet": "The ABCs of Book Banning",
+      "nominees": [
+        "The ABCs of Book Banning",
+        "The Barber of Little Rock",
+        "Island in Between",
+        "The Last Repair Shop",
+        "Nai Nai & Wai Po"
+      ]
+    },
+    "best_live_action_short": {
+      "category": "Live Action Short",
+      "winner": "The Wonderful Story of Henry Sugar",
+      "bet": "Red, White, and Blue",
+      "nominees": [
+        "The After",
+        "Invincible",
+        "Knight of Fortune",
+        "Red, White, and Blue",
+        "The Wonderful Story of Henry Sugar"
+      ]
+    },
+    "best_animated_short": {
+      "category": "Animated Short",
+      "winner": "War Is Over! Inspired by the Music of John & Yoko",
+      "bet": "War Is Over! Inspired by the Music of John & Yoko",
+      "nominees": [
+        "Letter to a Pig",
+        "Ninety-Five Senses",
+        "Our Uniform",
+        "Pachyderme",
+        "War Is Over! Inspired by the Music of John & Yoko"
+      ]
+    },
+    "best_original_score": {
+      "category": "Original Score",
+      "winner": "Oppenheimer",
+      "bet": "Poor Things",
+      "nominees": [
+        "American Fiction",
+        "Indiana Jones and the Dial of Destiny",
+        "Killers of the Flower Moon",
+        "Oppenheimer",
+        "Poor Things"
+      ]
+    },
+    "best_original_song": {
+      "category": "Original Song",
+      "winner": "\"What Was I Made For?\" from Barbie",
+      "bet": "\"What Was I Made For?\" from Barbie",
+      "nominees": [
+        "\"What Was I Made For?\" from Barbie",
+        "\"I'm Just Ken\" from Barbie",
+        "\"The Fire Inside\" from Flamin' Hot",
+        "\"It Never Went Away\" from American Symphony",
+        "\"Wahzhazhe (A Song for My People)\" from Killers of the Flower Moon"
+      ]
+    },
+    "best_sound": {
+      "category": "Sound",
+      "winner": "The Zone of Interest",
+      "bet": "Oppenheimer",
+      "nominees": [
+        "The Creator",
+        "Maestro",
+        "Mission: Impossible - Dead Reckoning Part One",
+        "Oppenheimer",
+        "The Zone of Interest"
+      ]
+    },
+    "best_production_design": {
+      "category": "Production Design",
+      "winner": "Poor Things",
+      "bet": "Barbie",
+      "nominees": [
+        "Barbie",
+        "Killers of the Flower Moon",
+        "Napoleon",
+        "Oppenheimer",
+        "Poor Things"
+      ]
+    },
+    "best_cinematography": {
+      "category": "Cinematography",
+      "winner": "Oppenheimer",
+      "bet": "Poor Things",
+      "nominees": [
+        "El Conde",
+        "Killers of the Flower Moon",
+        "Maestro",
+        "Oppenheimer",
+        "Poor Things"
+      ]
+    },
+    "best_costume_design": {
+      "category": "Costume Design",
+      "winner": "Poor Things",
+      "bet": "Barbie",
+      "nominees": [
+        "Barbie",
+        "Killers of the Flower Moon",
+        "Napoleon",
+        "Oppenheimer",
+        "Poor Things"
+      ]
+    },
+    "best_film_editing": {
+      "category": "Film Editing",
+      "winner": "Oppenheimer",
+      "bet": "Oppenheimer",
+      "nominees": [
+        "Anatomy of a Fall",
+        "The Holdovers",
+        "Killers of the Flower Moon",
+        "Oppenheimer",
+        "Poor Things"
+      ]
+    },
+    "best_makeup_and_hairstyling": {
+      "category": "Makeup and Hairstyling",
+      "winner": "Poor Things",
+      "bet": "Oppenheimer",
+      "nominees": [
+        "Golda",
+        "Maestro",
+        "Oppenheimer",
+        "Poor Things",
+        "Society of the Snow"
+      ]
+    },
+    "best_visual_effects": {
+      "category": "Visual Effects",
+      "winner": "Godzilla Minus One",
+      "bet": "Mission: Impossible - Dead Reckoning Part One",
+      "nominees": [
+        "The Creator",
+        "Godzilla Minus One",
+        "Guardians of the Galaxy Vol. 3",
+        "Mission: Impossible - Dead Reckoning Part One",
+        "Napoleon"
+      ]
+    }
+  },
+
+  "2023": {
+    "best_picture": {
+      "category": "Best Picture",
+      "winner": "Everything Everywhere All at Once",
+      "bet": "Everything Everywhere All at Once",
+      "nominees": [
+        "All Quiet on the Western Front",
+        "Avatar: The Way of Water",
+        "The Banshees of Inisherin",
+        "Elvis",
+        "The Fabelmans",
+        "Everything Everywhere All at Once",
+        "Tár",
+        "Top Gun: Maverick",
+        "Triangle of Sadness",
+        "Women Talking"
+      ]
+    },
+
+    "best_director": {
+      "category": "Directing",
+      "winner": "Everything Everywhere All at Once",
+      "bet": "Everything Everywhere All at Once",
+      "nominees": [
+        "The Banshees of Inisherin",
+        "The Fabelmans",
+        "Tár",
+        "Triangle of Sadness",
+        "Everything Everywhere All at Once"
+      ]
+    },
+    "best_actor": {
+      "category": "Best Actor",
+      "winner": "Brendan Fraser",
+      "bet": "Brendan Fraser",
+      "nominees": [
+        "Austin Butler",
+        "Colin Farrell",
+        "Paul Mescal",
+        "Brendan Fraser",
+        "Bill Nighy"
+      ]
+    },
+    "best_actress": {
+      "category": "Best Actress",
+      "winner": "Michelle Yeoh",
+      "bet": "Michelle Yeoh",
+      "nominees": [
+        "Cate Blanchett",
+        "Ana de Armas",
+        "Andrea Riseborough",
+        "Michelle Williams",
+        "Michelle Yeoh"
+      ]
+    },
+    "best_supporting_actor": {
+      "category": "Supporting Actor",
+      "winner": "Ke Huy Quan",
+      "bet": "Barry Keoghan",
+      "nominees": [
+        "Brendan Gleeson",
+        "Brian Tyree Henry",
+        "Judd Hirsch",
+        "Barry Keoghan",
+        "Ke Huy Quan"
+      ]
+    },
+    "best_supporting_actress": {
+      "category": "Supporting Actress",
+      "winner": "Jamie Lee Curtis",
+      "bet": "Stephanie Hsu",
+      "nominees": [
+        "Angela Bassett",
+        "Hong Chau",
+        "Kerry Condon",
+        "Jamie Lee Curtis",
+        "Stephanie Hsu"
+      ]
+    },
+    "best_original_screenplay": {
+      "category": "Original Screenplay",
+      "winner": "Everything Everywhere All at Once",
+      "bet": "Everything Everywhere All at Once",
+      "nominees": [
+        "The Banshees of Inisherin",
+        "Everything Everywhere All at Once",
+        "The Fabelmans",
+        "Tár",
+        "Triangle of Sadness"
+      ]
+    },
+    "best_adapted_screenplay": {
+      "category": "Adapted Screenplay",
+      "winner": "Women Talking",
+      "bet": "Women Talking",
+      "nominees": [
+        "All Quiet on the Western Front",
+        "Glass Onion: A Knives Mystery",
+        "Living",
+        "Top Gun: Maverick",
+        "Women Talking"
+      ]
+    },
+    "best_animated_feature": {
+      "category": "Animated Feature Film",
+      "winner": "Guillermo del Toro's Pinocchio",
+      "bet": "Marcel the Shell With Shoes On",
+      "nominees": [
+        "Guillermo del Toro's Pinocchio",
+        "Marcel the Shell With Shoes On",
+        "Puss in Boots: The Last Wish ",
+        "The Sea Beast",
+        "Turning Red"
+      ]
+    },
+    "best_international_feature": {
+      "category": "International Feature Film",
+      "winner": "All Quiet on the Western Front",
+      "bet": "All Quiet on the Western Front",
+      "nominees": [
+        "All Quiet on the Western Front",
+        "Argentina, 1985",
+        "Close",
+        "EO",
+        "The Quiet Girl"
+      ]
+    },
+
+    "best_animated_short": {
+      "category": "Animated Short Film",
+      "winner": "The Boy, the Mole, the fox and the Horse",
+      "bet": "Ice Merchants",
+      "nominees": [
+        "The Boy, the Mole, the fox and the Horse",
+        "The Flying Sailor",
+        "Ice Merchants",
+        "My Year of Dicks",
+        "An Ostrich Told Me the world is fake "
+      ]
+    },
+
+    "best_cinematography": {
+      "category": "Cinematography",
+      "winner": "All Quiet on the Western Front",
+      "bet": "All Quiet on the Western Front",
+      "nominees": [
+        "All Quiet on the Western Front",
+        "Bardo, False Chronicle of a handful of truths",
+        "Elvis",
+        "Empire of Light",
+        "Tár"
+      ]
+    },
+    "best_film_editing": {
+      "category": "Film Editing",
+      "winner": "Everything Everywhere All at Once",
+      "bet": "Everything Everywhere All at Once",
+      "nominees": [
+        "The Banshees of Inisherin",
+        "Elvis",
+        "Everything Everywhere All at Once",
+        "Tár",
+        "Top Gun: Maverick"
+      ]
+    },
+    "best_production_design": {
+      "category": "Production Design",
+      "winner": "All Quiet on the Western Front",
+      "bet": "The Fabelmans",
+      "nominees": [
+        "All Quiet on the Western Front",
+        "Avatar: The Way of Water",
+        "Babylon",
+        "Elvis",
+        "The Fabelmans"
+      ]
+    },
+    "best_costume_design": {
+      "category": "Costume Design",
+      "winner": "Black Panther: Wakanda Forever",
+      "bet": "Everything Everywhere All at Once",
+      "nominees": [
+        "Babylon",
+        "Black Panther: Wakanda Forever",
+        "Elvis",
+        "Everything Everywhere All at Once",
+        "Mrs. Harris Goes to Paris"
+      ]
+    },
+
+    "best_makeup_and_hairstyling": {
+      "category": "Makeup and Hairstyling",
+      "winner": "The Whale",
+      "bet": "The Whale",
+      "nominees": [
+        "All Quiet on the Western Front",
+        "The Batman",
+        "Black Panther: Wakanda Forever",
+        "Elvis",
+        "The Whale"
+      ]
+    },
+    "best_original_score": {
+      "category": "Original Score",
+      "winner": "All Quiet on the Western Front",
+      "bet": "Everything Everywhere All at Once",
+      "nominees": [
+        "All Quiet on the Western Front",
+        "Babylon",
+        "The Banshees of Inisherin",
+        "The Fabelmans",
+        "Everything Everywhere All at Once"
+      ]
+    },
+
+    "best_original_song": {
+      "category": "Original Song",
+      "winner": "\"Naatu Naatu\" from RRR",
+      "bet": "\"Lift Me Up\" from Black Panther: Wakanda Forever",
+      "nominees": [
+        "\"Naatu Naatu\" from RRR",
+        "\"Lift Me Up\" from Black Panther: Wakanda Forever",
+        "\"Hold My Hand\" from Top Gun: Maverick",
+        "\"This Is a Life\" from Everything Everywhere All at Once",
+        "\"Applause\" from Tell It Like a Woman"
+      ]
+    },
+
+    "best_sound": {
+      "category": "Sound",
+      "winner": "Top Gun: Maverick",
+      "bet": "All Quiet on the Western Front",
+      "nominees": [
+        "All Quiet on the Western Front",
+        "Avatar: The Way of Water",
+        "The Batman",
+        " Elvis",
+        "Top Gun: Maverick"
+      ]
+    },
+    "best_visual_effects": {
+      "category": "Visual Effects",
+      "winner": "Avatar: The Way of Water",
+      "bet": "Avatar: The Way of Water",
+      "nominees": [
+        "All Quiet on the Western Front",
+        "Avatar: The Way of Water",
+        "The Batman",
+        "Black Panther: Wakanda Forever",
+        "Top Gun: Maverick"
+      ]
+    }
+  },
+
+  "2022": {
+    "best_picture": {
+      "category": "Best Picture",
+      "winner": "CODA",
+      "bet": "The Power of the Dog",
+      "nominees": [
+        "Belfast",
+        "CODA",
+        "Don't Look Up",
+        "Drive My Car",
+        "Dune",
+        "King Richard",
+        "Licorice Pizza",
+        "Nightmare Alley",
+        "The Power of the Dog",
+        "West Side Story"
+      ]
+    },
+    "best_actor": {
+      "category": "Best Actor",
+      "winner": "Will Smith",
+      "bet": "Benedict Cumberbatch",
+      "nominees": [
+        "Javier Bardem",
+        "Benedict Cumberbatch",
+        "Andrew Garfield",
+        "Will Smith",
+        "Denzel Washington"
+      ]
+    },
+    "best_actress": {
+      "category": "Best Actress",
+      "winner": "Jessica Chastain",
+      "bet": "Penélope Cruz",
+      "nominees": [
+        "Olivia Colman",
+        "Penélope Cruz",
+        "Nicole Kidman",
+        "Kristen Stewart",
+        "Jessica Chastain"
+      ]
+    },
+    "best_supporting_actor": {
+      "category": "Supporting Actor",
+      "winner": "Troy Kotsur",
+      "bet": "Kodi Smit-McPhee",
+      "nominees": [
+        "Ciarán Hinds",
+        "Troy Kotsur",
+        "Jesse Plemons",
+        "J.K. Simmons",
+        "Kodi Smit-McPhee"
+      ]
+    },
+    "best_supporting_actress": {
+      "category": "Supporting Actress",
+      "winner": "Ariana DeBose",
+      "bet": "Jessie Buckley",
+      "nominees": [
+        "Jessie Buckley",
+        "Ariana DeBose",
+        "Judi Dench",
+        "Kirsten Dunst",
+        "Aunjanue Ellis"
+      ]
+    },
+    "best_director": {
+      "category": "Directing",
+      "winner": "The Power of the Dog",
+      "bet": "The Power of the Dog",
+      "nominees": [
+        "Belfast",
+        "Licorice Pizza",
+        "The Power of the Dog",
+        "Drive My Car",
+        "West Side Story"
+      ]
+    },
+
+    "best_original_screenplay": {
+      "category": "Best Original Screenplay",
+      "winner": "Belfast",
+      "bet": "Don't Look Up",
+      "nominees": [
+        "Belfast",
+        "Don't Look Up",
+        "King Richard",
+        "Licorice Pizza",
+        "The Worst Person in the World"
+      ]
+    },
+    "best_adapted_screenplay": {
+      "category": "Best Adapted Screenplay",
+      "winner": "CODA",
+      "bet": "The Lost Daughter",
+      "nominees": [
+        "CODA",
+        "Drive My Car",
+        "Dune",
+        "The Lost Daughter",
+        "The Power of the Dog"
+      ]
+    },
+
+    "best_international_feature": {
+      "category": "International Feature",
+      "winner": "Drive My Car",
+      "bet": "Drive My Car",
+      "nominees": [
+        "Drive My Car",
+        "Flee",
+        "The Hand of God",
+        "Lunana: A Yak in the Classroom",
+        "The Worst Person in the World"
+      ]
+    },
+    "best_animated_feature": {
+      "category": "Animated Feature",
+      "winner": "Encanto",
+      "bet": "The Mitchells vs. the Machines",
+      "nominees": [
+        "Encanto",
+        "Flee",
+        "Luca",
+        "The Mitchells vs. the Machines",
+        "Raya and the Last Dragon"
+      ]
+    },
+    "best_animated_short": {
+      "category": "Animated Short",
+      "winner": "The Windshield Wiper",
+      "bet": "The Windshield Wiper",
+      "nominees": [
+        "The Windshield Wiper",
+        "Affairs of the Art",
+        "Bestia",
+        "Boxballet",
+        "Robin Robin"
+      ]
+    },
+
+    "best_original_score": {
+      "category": "Original Score",
+      "winner": "Dune",
+      "bet": "The Power of the Dog",
+      "nominees": [
+        "Don't Look Up",
+        "Dune",
+        "Encanto",
+        "Parallel Mothers",
+        "The Power of the Dog"
+      ]
+    },
+    "best_original_song": {
+      "category": "Original Song",
+      "winner": "\"No Time to Die\" from No Time to Die",
+      "bet": "\"No Time to Die\" from No Time to Die",
+      "nominees": [
+        "\"No Time to Die\" from No Time to Die",
+        "\"Be Alive\" from King Richard",
+        "\"Dos Oruguitas\" from Encanto",
+        "\"Down to Joy\" from Belfast",
+        "\"Somehow You Do\" from Four Good Days"
+      ]
+    },
+
+    "best_cinematography": {
+      "category": "Cinematography",
+      "winner": "Dune",
+      "bet": "Nightmare Alley",
+      "nominees": [
+        "Nightmare Alley",
+        "Dune",
+        "The Power of the Dog",
+        "The Tragedy of Macbeth",
+        "West Side Story"
+      ]
+    },
+    "best_film_editing": {
+      "category": "Film Editing",
+      "winner": "Dune",
+      "bet": "The Power of the Dog",
+      "nominees": [
+        "Don’t Look Up",
+        "Dune",
+        "King Richard",
+        "The Power of the Dog",
+        "tick, tick...BOOM!"
+      ]
+    },
+
+    "best_production_design": {
+      "category": "Production Design",
+      "winner": "Dune",
+      "bet": "Nightmare Alley",
+      "nominees": [
+        "Nightmare Alley",
+        "The Power of the Dog",
+        "West Side Story",
+        "Dune",
+        "The Tragedy of Macbeth"
+      ]
+    },
+    "best_costume_design": {
+      "category": "Costume Design",
+      "winner": "Cruella",
+      "bet": "Cruella",
+      "nominees": [
+        "Cruella",
+        "Cyrano",
+        "Dune",
+        "Nightmare Alley",
+        "West Side Story"
+      ]
+    },
+    "best_makeup_and_hairstyling": {
+      "category": "Makeup and Hairstyling",
+      "winner": "The Eyes of Tammy Faye",
+      "bet": "The Eyes of Tammy Faye",
+      "nominees": [
+        "Coming to America",
+        "Cruella",
+        "Dune",
+        "The Eyes of Tammy Faye",
+        "House of Gucci"
+      ]
+    },
+    "best_sound": {
+      "category": "Sound",
+      "winner": "Dune",
+      "bet": "Dune",
+      "nominees": [
+        "Dune",
+        "West Side Story",
+        "The Power of the Dog",
+        "No Time to Die",
+        "Belfast"
+      ]
+    },
+    "best_visual_effects": {
+      "category": "Visual Effects",
+      "winner": "Dune",
+      "bet": "Dune",
+      "nominees": [
+        "Dune",
+        "Free Guy",
+        "shang and the legend of the ten rings",
+        "No Time to Die",
+        "Spider-Man: No Way Home"
+      ]
+    }
+  },
+
+  "2021": {
+    "best_picture": {
+      "category": "Best Picture",
+      "winner": "Nomadland",
+      "bet": "The Trial of the Chicago 7",
+      "nominees": [
+        "The Father",
+        "Judas and the Black Messiah",
+        "Mank",
+        "Minari",
+        "Nomadland",
+        "Promising Young Woman",
+        "Sound of Metal",
+        "The Trial of the Chicago 7"
+      ]
+    },
+    "best_director": {
+      "category": "Directing",
+      "winner": "Nomadland",
+      "bet": "Minari",
+      "nominees": [
+        "Another Round",
+        "Mank",
+        "Minari",
+        "Nomadland",
+        "Promising Young Woman"
+      ]
+    },
+    "best_actor": {
+      "category": "Best Actor",
+      "winner": "Anthony Hopkins",
+      "bet": "Anthony Hopkins",
+      "nominees": [
+        "Riz Ahmed",
+        "Chadwick Boseman",
+        "Anthony Hopkins",
+        "Gary Oldman",
+        "Steven Yeun"
+      ]
+    },
+    "best_actress": {
+      "category": "Best Actress",
+      "winner": "Frances McDormand",
+      "bet": "Carey Mulligan",
+      "nominees": [
+        "Viola Davis",
+        "Andra Day",
+        "Vanessa Kirby",
+        "Frances McDormand",
+        "Carey Mulligan"
+      ]
+    },
+    "best_supporting_actor": {
+      "category": "Supporting Actor",
+      "winner": "Daniel Kaluuya",
+      "bet": "Daniel Kaluuya",
+      "nominees": [
+        "Sacha Baron Cohen",
+        "Daniel Kaluuya",
+        "Leslie Odom Jr.",
+        "Paul Raci",
+        "LaKeith Stanfield"
+      ]
+    },
+    "best_supporting_actress": {
+      "category": "Supporting Actress",
+      "winner": "Yuh-Jung Youn",
+      "bet": "Yuh-Jung Youn",
+      "nominees": [
+        "Maria Bakalova",
+        "Glenn Close",
+        "Olivia Colman",
+        "Amanda Seyfried",
+        "Yuh-Jung Youn"
+      ]
+    },
+    "best_original_screenplay": {
+      "category": "Original Screenplay",
+      "winner": "Promising Young Woman",
+      "bet": "Promising Young Woman",
+      "nominees": [
+        "Judas and the Black Messiah",
+        "Minari",
+        "Promising Young Woman",
+        "Sound of Metal",
+        "The Trial of the Chicago 7"
+      ]
+    },
+    "best_adapted_screenplay": {
+      "category": "Adapted Screenplay",
+      "winner": "The Father",
+      "bet": "The Father",
+      "nominees": [
+        "Borat Subsequent Moviefilm",
+        "The Father",
+        "Nomadland",
+        "One Night in Miami",
+        "The White Tiger"
+      ]
+    },
+    "best_international_feature": {
+      "category": "International Feature Film",
+      "winner": "Another Round",
+      "bet": "Better Days",
+      "nominees": [
+        "Another Round",
+        "Better Days",
+        "Collective",
+        "The Man Who Sold His Skin",
+        "Quo Vadis, Aida?"
+      ]
+    },
+    "best_animated_feature": {
+      "category": "Animated Feature Film",
+      "winner": "Soul",
+      "bet": "Soul",
+      "nominees": [
+        "Onward",
+        "Over the Moon",
+        "A Shaun the Sheep Movie: Farmageddon",
+        "Soul",
+        "Wolfwalkers"
+      ]
+    },
+    "best_documentary_feature": {
+      "category": "Documentary Feature",
+      "winner": "My Octopus Teacher",
+      "bet": "My Octopus Teacher",
+      "nominees": [
+        "Collective",
+        "Crip Camp",
+        "The Mole Agent",
+        "My Octopus Teacher",
+        "Time"
+      ]
+    },
+    "best_animated_short": {
+      "category": "Animated Short Film",
+      "winner": "If Anything Happens I Love You",
+      "bet": "If Anything Happens I Love You",
+      "nominees": [
+        "Burrow",
+        "Genius Loci",
+        "If Anything Happens I Love You",
+        "Opera",
+        "Yes-People"
+      ]
+    },
+    "best_sound": {
+      "category": "Sound",
+      "winner": "Sound of Metal",
+      "bet": "Sound of Metal",
+      "nominees": [
+        "Greyhound",
+        "Mank",
+        "News of the World",
+        "Soul",
+        "Sound of Metal"
+      ]
+    },
+    "best_visual_effects": {
+      "category": "Visual Effects",
+      "winner": "Tenet",
+      "bet": "Tenet",
+      "nominees": [
+        "Love and Monsters",
+        "The Midnight Sky",
+        "Mulan",
+        "The One and Only Ivan",
+        "Tenet"
+      ]
+    },
+    "best_production_design": {
+      "category": "Production Design",
+      "winner": "Mank",
+      "bet": "The Father",
+      "nominees": [
+        "The Father",
+        "Ma Rainey's Black Bottom",
+        "Mank",
+        "News of the World",
+        "Tenet"
+      ]
+    },
+
+    "best_cinematography": {
+      "category": "Cinematography",
+      "winner": "Mank",
+      "bet": "Nomadland",
+      "nominees": [
+        "The Father",
+        "Mank",
+        "Nomadland",
+        "News of the World",
+        "Tenet"
+      ]
+    },
+    "best_film_editing": {
+      "category": "Film Editing",
+      "winner": "Sound of Metal",
+      "bet": "The Father",
+      "nominees": [
+        "The Father",
+        "Nomadland",
+        "Sound of Metal",
+        "The Trial of the Chicago 7",
+        "Trial of the Chicago 7"
+      ]
+    },
+    "best_costume_design": {
+      "category": "Costume Design",
+      "winner": "Ma Rainey's Black Bottom",
+      "bet": "Emma",
+      "nominees": [
+        "Emma",
+        "Ma Rainey's Black Bottom",
+        "Mank",
+        "Mulan",
+        "Pinocchio"
+      ]
+    },
+    "best_makeup_and_hairstyling": {
+      "category": "Makeup and Hairstyling",
+      "winner": "Ma Rainey's Black Bottom",
+      "bet": "Pinocchio",
+      "nominees": [
+        "Emma",
+        "Hillbilly Elegy",
+        "Ma Rainey's Black Bottom",
+        "Mank",
+        "Pinocchio"
+      ]
+    },
+    "best_original_score": {
+      "category": "Original Score",
+      "winner": "Soul",
+      "bet": "Soul",
+      "nominees": ["Da 5 Bloods", "Mank", "Minari", "News of the World", "Soul"]
+    },
+    "best_original_song": {
+      "category": "Original Song",
+      "winner": "\"Fight For You\" from Judas and the Black Messiah",
+      "bet": "\"Speak Now\" from One Night in Miami...",
+      "nominees": [
+        "\"Fight For You\" from Judas and the Black Messiah",
+        "\"Speak Now\" from One Night in Miami...",
+        "\"Hear My Voice\" from The Trial of the Chicago 7",
+        "\"Husavik\" from Eurovision Song Contest: The Story of Fire Saga",
+        "\"Io Sì (Seen)\" from The Life Ahead"
+      ]
+    }
+  },
 
   "2020": {
     "best_picture": {
@@ -171,14 +1457,14 @@
     },
     "best_original_song": {
       "category": "Original Song",
-      "winner": "Rocketman",
-      "bet": "Harriet",
+      "winner": "\"(I'm Gonna) Love Me Again\" from Rocketman",
+      "bet": "\"Stand Up\" from Harriet",
       "nominees": [
-        "Rocketman",
-        "Frozen II",
-        "Harriet",
-        "Breakthrough",
-        "Toy Story 4"
+        "\"(I'm Gonna) Love Me Again\" from Rocketman",
+        "\"Into the Unknown\" from Frozen II",
+        "\"I'm Standing with You\" from Breakthrough",
+        "\"Stand Up\" from Harriet",
+        "\"I Can't Let You Throw Yourself Away\" from Toy Story 4"
       ]
     },
     "best_sound_editing": {
@@ -279,6 +1565,7 @@
       ]
     }
   },
+
   "2019": {
     "best_picture": {
       "category": "Best Picture",
@@ -489,14 +1776,14 @@
     },
     "best_original_song": {
       "category": "Original Song",
-      "winner": "Shallow",
-      "bet": "shallow",
+      "winner": "\"Shallow\" from A Star Is Born",
+      "bet": "\"Shallow\" from A Star Is Born",
       "nominees": [
-        "all the stars",
-        "i'll fight",
-        "the place where lost things go",
-        "shallow",
-        "when a cowboy trades his spurs for wings"
+        "\"Shallow\" from A Star Is Born",
+        "\"All the Stars\" from Black Panther",
+        "\"The Place Where Lost Things Go\" from Mary Poppins Returns",
+        "\"When a Cowboy Trades His Spurs for Wings\" from The Ballad of Buster Scruggs",
+        "\"I'll Fight\" from RBG"
       ]
     },
     "best_film_editing": {

@@ -148,9 +148,14 @@
       "url": "https://www.imdb.com/title/tt15571732/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_agatha%2520all"
     },
     {
-      "name": "The Boys",
+      "name": "Jessica Jones",
       "cover": "https://upload.wikimedia.org/wikipedia/en/f/f6/The_Boys_Season_1.jpg",
       "url": "https://www.imdb.com/title/tt1190634/?ref_=fn_all_ttl_1"
+    },
+    {
+      "name": "The Boys",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/f/f0/Jessica_Jones_season_2_poster.jpg",
+      "url": "https://www.imdb.com/title/tt2357547/"
     },
     {
       "name": "Wednesday",

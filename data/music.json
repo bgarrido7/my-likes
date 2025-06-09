@@ -388,6 +388,15 @@
       "category": "rock",
       "year": 2009
     },
+
+    {
+      "name": "Whiplash",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273ed2e119406b1bb9fe76943f0",
+      "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt",
+      "artist": "Justin Hurwitz",
+      "category": "jazz",
+      "year": 2014
+    },
     {
       "name": "Life is Strange",
       "cover": "https://image.api.playstation.com/cdn/EP0082/CUSA01435_00/knftdqj5E5MlqC3CmwvKz2PBSVmml9Rb.png",

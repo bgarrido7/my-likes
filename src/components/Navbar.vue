@@ -1,78 +1,74 @@
-<script setup>
-import { ref } from "vue";
-
-const options = ref([
-  { url: "/oscars", label: "Oscars 🏆" },
-  { url: "/movies", label: "Movies" },
-  { url: "/shows", label: "TV Shows" },
-  { url: "/animes", label: "Animes & Mangas" },
-  { url: "/games", label: "Video Games" },
-  { url: "/board-games", label: "Board Games" },
-  { url: "/books", label: "Books" },
-  { url: "/music", label: "Music" },
-  { url: "/yuri", hidden: true },
-]);
-</script>
-
 <template>
-  <nav>
-    <ul>
-      <div v-for="link in options">
-        <router-link :to="link.url">
-          <li
-            v-if="!link.hidden"
-            :class="{ highlight: $route.path === link.url }"
-          >
-            {{ link.label }}
-          </li>
-        </router-link>
-      </div>
-    </ul>
-  </nav>
+  <n-menu
+    :options="menuOptions"
+    :collapsed="collapsed"
+    :default-value="selectedKey"
+    :value="route.path"
+    @update:value="handleSelect"
+    :theme-overrides="menuTheme"
+    :expand-icon="expandIcon"
+  />
 </template>
 
-<style scoped>
-nav {
-  background-color: #2c3e50;
-  display: flex;
-  flex-direction: row;
-  text-align: center;
-  height: 100vh;
-  overflow: hidden;
-  width: 180px;
-}
+<script setup>
+import { ref } from "vue";
+import { NMenu } from "naive-ui";
+import { useRouter, useRoute } from "vue-router";
 
-@media (max-width: 800px) {
-  nav {
-    width: 0;
+defineProps({
+  collapsed: Boolean,
+});
+
+const selectedKey = ref("");
+const router = useRouter();
+const route = useRoute();
+
+const menuOptions = [
+  { key: "/oscars", label: "Oscars 🏆" },
+  { key: "/movies", label: "Movies" },
+  { key: "/shows", label: "TV Shows" },
+  { key: "/animes", label: "Animes & Mangas" },
+  { key: "/games", label: "Video Games" },
+  { key: "/board-games", label: "Board Games" },
+  { key: "/books", label: "Books" },
+  { key: "/music", label: "Music" },
+];
+
+function handleSelect(key) {
+  selectedKey.value = key;
+  if (key !== route.path) {
+    router.push(key);
   }
 }
 
-ul {
-  width: 100%;
-  padding: 0;
-  list-style: none;
+const menuTheme = {
+  color: "#2c3e50",
+  itemTextColor: "white",
+  itemTextColorHover: "white",
+  itemTextColorActive: "white",
+  itemTextColorActiveHover: "white",
+};
+</script>
+
+<style scoped>
+::v-deep(.n-menu) {
+  height: 100vh;
+  font-size: 15px;
+  padding-top: 2vh;
 }
 
-li {
-  padding: 3vh 0;
-  width: 100%;
+::v-deep(.n-menu-item) {
+  text-align: center;
+  padding: 4vh 0;
   margin: 3vh 0;
-  color: white;
-  text-decoration: none;
 }
 
-li:hover {
-  background-color: #1f2c38;
+::v-deep(.n-menu-item:hover) {
+  background-color: #1f2c38 !important;
   cursor: pointer;
 }
 
-a {
-  color: white;
-  text-decoration: none;
-}
-
-.highlight {
-  background-color: #1f2c38;
+::v-deep(.n-menu-item-content) {
+  padding: 0 !important;
 }
 </style>

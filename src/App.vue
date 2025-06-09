@@ -7,13 +7,17 @@ const collapsed = ref(false);
 const isMobile = ref(window.innerWidth < 800);
 
 onMounted(() => {
-  window.addEventListener("resize", handleResize);
-  handleResize();
+  window.addEventListener("resize", handlePageResize);
+  handlePageResize();
 });
 
-const handleResize = () => {
+const handlePageResize = () => {
   isMobile.value = window.innerWidth < 800;
   collapsed.value = isMobile.value;
+};
+
+const handlePageChange = (event) => {
+  if (isMobile.value) collapsed.value = event;
 };
 </script>
 
@@ -31,7 +35,10 @@ const handleResize = () => {
         @collapse="collapsed = true"
         @expand="collapsed = false"
       >
-        <Navbar :collapsed="collapsed" @update-collapse="collapsed = $event" />
+        <Navbar
+          :collapsed="collapsed"
+          @update-collapse="handlePageChange($event)"
+        />
       </n-layout-sider>
 
       <n-layout>

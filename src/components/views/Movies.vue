@@ -1,6 +1,6 @@
 <template>
   <div class="movies-page">
-    <div class="header">
+    <div class="header" v-if="!isMobile">
       <div class="sorting">
         Sort by:
         <n-radio-group v-model:value="selectedSorting" @click="triggerSorting">
@@ -32,6 +32,33 @@
           placeholder="Select Some"
           :clearable="true"
         />
+      </div>
+    </div>
+    <div v-else class="header">
+      <router-link to="movies/sagas">
+        <n-button tertiary round type="success"> Check Movie Sagas </n-button>
+      </router-link>
+
+      <div class="sorting">
+        <n-button circle @click="triggerNameSorting">
+          <n-icon
+            v-if="sortOrder === 'asc' && selectedSorting === 'name'"
+            :component="SortAscendingLetters"
+          />
+          <n-icon v-else :component="SortDescendingLetters" />
+        </n-button>
+
+        <n-button circle @click="triggerYearSorting">
+          <n-icon
+            v-if="sortOrder === 'asc' && selectedSorting === 'year'"
+            :component="SortDescendingNumbers"
+          />
+          <n-icon v-else :component="SortAscendingNumbers" />
+        </n-button>
+
+        <n-button circle>
+          <n-icon :component="Filter" />
+        </n-button>
       </div>
     </div>
 
@@ -88,6 +115,15 @@ import {
   ArrowSort16Regular,
   ArrowSortDownLines16Regular,
 } from "@vicons/fluent";
+import {
+  Filter,
+  SortAscendingLetters,
+  SortAscendingNumbers,
+  SortDescendingLetters,
+  SortDescendingNumbers,
+} from "@vicons/tabler";
+
+const isMobile = ref(window.innerWidth < 500);
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/movies.json`;
 const content = ref([]);
@@ -129,7 +165,13 @@ onMounted(async () => {
   } catch (error) {
     console.error("Error loading JSON data:", error);
   }
+  window.addEventListener("resize", handlePageResize);
+  handlePageResize();
 });
+
+const handlePageResize = () => {
+  isMobile.value = window.innerWidth < 800;
+};
 
 const sortedData = computed(() => {
   let filtered = content.value;
@@ -171,6 +213,16 @@ function triggerSorting() {
   rotationAngle.value = 0;
   isSorted.value = true;
 }
+
+function triggerNameSorting() {
+  sortOrder.value = sortOrder.value === "asc" ? "desc" : "asc";
+  selectedSorting.value = "name";
+}
+
+function triggerYearSorting() {
+  sortOrder.value = sortOrder.value === "asc" ? "desc" : "asc";
+  selectedSorting.value = "year";
+}
 </script>
 
 <style scoped>
@@ -183,6 +235,7 @@ function triggerSorting() {
 
 .header {
   display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 

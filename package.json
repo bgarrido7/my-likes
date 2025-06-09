@@ -15,6 +15,7 @@
     "@primevue/themes": "^4.3.3",
     "@vicons/fluent": "^0.13.0",
     "@vicons/ionicons5": "^0.13.0",
+    "@vicons/tabler": "^0.13.0",
     "oh-vue-icons": "^1.0.0-rc3",
     "primeicons": "^7.0.0",
     "primevue": "^4.3.3",

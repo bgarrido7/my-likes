@@ -19,8 +19,9 @@ const handleResize = () => {
 
 <template>
   <main>
-    <n-layout has-sider>
+    <n-layout has-sider :class="{ 'mobile-menu': isMobile }">
       <n-layout-sider
+        :class="{ 'menu-collapsed': collapsed }"
         bordered
         collapse-mode="width"
         :collapsed-width="0"
@@ -41,15 +42,8 @@ const handleResize = () => {
 </template>
 
 <style scoped>
-main {
-  display: grid;
-  grid-auto-flow: column;
-  height: 100%;
-}
-@media (max-width: 800px) {
-  main {
-    grid-template-columns: 1fr;
-  }
+.mobile-menu ::v-deep(.n-layout-sider) {
+  position: absolute !important;
 }
 
 ::v-deep(.n-menu) {
@@ -67,5 +61,15 @@ main {
 ::v-deep(.n-menu-item:hover) {
   background-color: #1f2c38 !important;
   cursor: pointer;
+}
+
+::v-deep(.n-layout-toggle-button) {
+  right: 2px !important;
+}
+.menu-collapsed ::v-deep(.n-layout-toggle-button) {
+  right: -15px !important;
+}
+::v-deep(.n-layout-toggle-button) {
+  top: 15px !important;
 }
 </style>

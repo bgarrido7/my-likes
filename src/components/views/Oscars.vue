@@ -145,7 +145,7 @@ span.bet {
   text-transform: capitalize;
 }
 
-@media (max-width: 990px) {
+@media (max-width: 800px) {
   .awards {
     grid-template-columns: 1fr 1fr;
   }

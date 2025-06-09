@@ -79,10 +79,11 @@ const filteredData = computed(() => {
   padding: 2vw;
 }
 
-@media (max-width: 990px) {
+@media (max-width: 800px) {
   .content {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
   }
   .n-card {
     width: 150px;

@@ -22,7 +22,7 @@
       "url": "https://open.spotify.com/album/39y7WSuhOKLmxWP7ElwWFl",
       "year": 2019,
       "artist": "Tessa Violet",
-      "category": "pop"
+      "category": "indie"
     },
     {
       "name": "Rush!",
@@ -90,6 +90,24 @@
     },
 
     {
+      "name": "+",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png",
+      "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC",
+      "artist": "Ed Sheeran",
+      "category": "indie",
+      "year": 2011
+    },
+
+    {
+      "name": "x",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/a/ad/X_cover.png",
+      "url": "https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd",
+      "artist": "Ed Sheeran",
+      "category": "pop",
+      "year": 2014
+    },
+
+    {
       "name": "Short n' Sweet",
       "cover": "https://upload.wikimedia.org/wikipedia/pt/0/07/Short_n%27_Sweet.png",
       "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH",
@@ -134,7 +152,7 @@
       "cover": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ed_Sheeran_-_No._6_Collaborations_Project.png",
       "url": "https://open.spotify.com/album/5oUZ9TEZR3wOdvqzowuNwl",
       "artist": "Ed Sheeran",
-      "category": "pop",
+      "category": "rock",
       "year": 2019
     },
     {
@@ -329,6 +347,62 @@
       "artist": "Doja Cat",
       "category": "pop",
       "year": 2021
+    },
+    {
+      "name": "Pure Heroine",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Lorde_Pure_Heroine.png",
+      "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v",
+      "artist": "Lorde",
+      "category": "pop",
+      "year": 2013
+    },
+    {
+      "name": "Blue Neighborhood",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/3/38/Troye_Sivan_-_Blue_Neighbourhood.png",
+      "url": "https://open.spotify.com/album/2mRBvhDWqm8Fj2U0F6mMY4",
+      "artist": "Troye Sivan",
+      "category": "indie",
+      "year": 2015
+    },
+    {
+      "name": "Face",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/4/43/Solar-%E5%AE%B9%EF%BC%9AFACE.jpg",
+      "url": "https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT",
+      "artist": "Solar",
+      "category": "kpop",
+      "year": 2022
+    },
+    {
+      "name": "Death of a Bachelor",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/e/ec/Panic_at_the_Disco_-_Death_of_a_Bachelor.jpg",
+      "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj",
+      "artist": "Panic! At The Disco",
+      "category": "rock",
+      "year": 2016
+    },
+    {
+      "name": "Brand New eyes",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/7/7d/Brand_New_Eyes_cover.jpg",
+      "url": "https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r",
+      "artist": "Paramore",
+      "category": "rock",
+      "year": 2009
+    },
+    {
+      "name": "Life is Strange",
+      "cover": "https://image.api.playstation.com/cdn/EP0082/CUSA01435_00/knftdqj5E5MlqC3CmwvKz2PBSVmml9Rb.png",
+      "url": "https://open.spotify.com/playlist/1f5ZzLDTXHTDR8CYIEddpW",
+      "artist": "various artists",
+      "category": "indie",
+      "year": 2015
+    },
+    {
+      "name": "Cuphead",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27305ded1194cfefa65af276a4e",
+      "url": "https://open.spotify.com/album/3jQ7eqotwovipeZ3j3rMqu",
+      "artist": "Kristofer Maddigan",
+      "category": "jazz",
+      "year": 2017
     }
   ]
 }

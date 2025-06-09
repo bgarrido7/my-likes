@@ -17,8 +17,11 @@
     </div>
 
     <div class="awards">
-      <div v-for="(award, key) in awardsForSelectedYear" :key="key">
-        <h1>{{ award.category }}</h1>
+      <n-card
+        v-for="(award, key) in awardsForSelectedYear"
+        :key="key"
+        :title="award.category"
+      >
         <ul>
           <li
             v-for="(movie, index) in award.nominees"
@@ -28,14 +31,14 @@
             {{ movie }} <span class="bet" v-if="award.bet === movie"> ↙ </span>
           </li>
         </ul>
-      </div>
+      </n-card>
     </div>
   </div>
 </template>
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
-import { NSelect } from "naive-ui";
+import { NSelect, NCard } from "naive-ui";
 
 const jsonUrl = `${import.meta.env.BASE_URL}data/oscars.json`;
 const selectedYear = ref("2025");
@@ -117,30 +120,47 @@ const totalAwards = computed(() => {
 .n-select {
   width: 80px;
 }
+::v-deep(.n-card-header__main) {
+  font-weight: 550 !important;
+}
 .correct-bets {
-  color: rgb(188, 144, 33);
+  color: goldenrod;
+  font-weight: bold;
 }
 span.bet {
   position: relative;
   bottom: 7px;
-  right: 3px;
-  color: green;
+  color: #2080f0;
   font-weight: 900;
-  font-size: 3vmin;
+  font-size: 3vin;
 }
 .winner {
   color: goldenrod;
 }
 .awards {
-  padding: 2vmin;
+  padding-top: 2vmin;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  /* flex-wrap: wrap; */
-  gap: 5vw;
+  gap: 2vw;
   text-transform: capitalize;
 }
+
+@media (max-width: 990px) {
+  .awards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 420px) {
+  .awards {
+    grid-template-columns: 1fr;
+  }
+}
+
 ul {
   list-style: none;
   padding: 0;
+}
+li {
+  padding-bottom: 1.5vh;
 }
 </style>

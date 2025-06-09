@@ -16,4 +16,9 @@ main {
   grid-template-columns: 1fr 10fr;
   height: 100%;
 }
+@media (max-width: 800px) {
+  main {
+    grid-template-columns: 1fr;
+  }
+}
 </style>

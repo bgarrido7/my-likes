@@ -486,6 +486,13 @@
       "year": 2008
     },
     {
+      "name": "The Devil Wears Prada",
+      "cover": "https://m.media-amazon.com/images/M/MV5BOWM3NTI3YWEtYjJmMy00M2U5LWI1NzEtZWM3ZDY2ZWNjOGRiXkEyXkFqcGc@._V1_.jpg",
+      "genre": ["comedy", "meaning-of-life"],
+      "url": "https://www.imdb.com/title/tt0458352/?ref_=rt_t_110",
+      "year": 2006
+    },
+    {
       "name": "Focus",
       "cover": "https://m.media-amazon.com/images/M/MV5BMTUwODg2OTA4OF5BMl5BanBnXkFtZTgwOTE5MTE4MzE@._V1_FMjpg_UX1000_.jpg",
       "genre": ["thriller", "action"],
@@ -507,11 +514,11 @@
       "year": 1999
     },
     {
-      "name": "The Devil Wears Prada",
-      "cover": "https://m.media-amazon.com/images/M/MV5BOWM3NTI3YWEtYjJmMy00M2U5LWI1NzEtZWM3ZDY2ZWNjOGRiXkEyXkFqcGc@._V1_.jpg",
-      "genre": ["comedy", "meaning-of-life"],
-      "url": "https://www.imdb.com/title/tt0458352/?ref_=rt_t_110",
-      "year": 2006
+      "name": "Hercules",
+      "genre": ["animation", "fantasy"],
+      "cover": "https://ingresso-a.akamaihd.net/img/cinema/cartaz/19775-cartaz.jpg",
+      "url": "https://www.imdb.com/title/tt0119282/",
+      "year": 1997
     }
   ]
 }

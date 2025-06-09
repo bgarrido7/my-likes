@@ -44,7 +44,7 @@ nav {
 
 @media (max-width: 800px) {
   nav {
-    width: 0px;
+    width: 0;
   }
 }
 

@@ -1,11 +1,13 @@
 <template>
   <div class="music-page">
     <div class="filter">
-      Category:
+      Genre:
       <n-radio-group v-model:value="selectedFilter">
         <n-radio-button value="kpop">K-pop</n-radio-button>
         <n-radio-button value="rock">Rock</n-radio-button>
+        <n-radio-button value="indie">Indie</n-radio-button>
         <n-radio-button value="pop">Pop</n-radio-button>
+        <n-radio-button value="jazz">Jazz</n-radio-button>
       </n-radio-group>
     </div>
     <div class="content">
@@ -104,6 +106,5 @@ const filteredData = computed(() => {
   display: flex;
   align-items: center;
   gap: 1vw;
-  font-size: small;
 }
 </style>

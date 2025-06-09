@@ -1,22 +1,6 @@
 <template>
   <div class="movies-page">
     <div class="header">
-      <div class="filter">
-        <label for="genre_label">Category:</label>
-        <n-select
-          v-model:value="selectedFilter"
-          :options="genres"
-          multiple
-          inputId="genre_label"
-          placeholder="Select Some"
-          :clearable="true"
-        />
-      </div>
-
-      <router-link to="movies/sagas">
-        <n-button tertiary round type="success"> Check Movie Sagas </n-button>
-      </router-link>
-
       <div class="sorting">
         Sort by:
         <n-radio-group v-model:value="selectedSorting" @click="triggerSorting">
@@ -31,6 +15,22 @@
           :component="ArrowSortDownLines16Regular"
           @click="updateSortOrder"
           :style="{ transform: 'rotate(' + rotationAngle + 'deg)' }"
+        />
+      </div>
+
+      <router-link to="movies/sagas">
+        <n-button tertiary round type="success"> Check Movie Sagas </n-button>
+      </router-link>
+
+      <div class="filter">
+        <label for="genre_label">Genre:</label>
+        <n-select
+          v-model:value="selectedFilter"
+          :options="genres"
+          multiple
+          inputId="genre_label"
+          placeholder="Select Some"
+          :clearable="true"
         />
       </div>
     </div>
@@ -184,7 +184,6 @@ function triggerSorting() {
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 0 2vw;
 }
 
 .content {
@@ -217,7 +216,6 @@ function triggerSorting() {
   display: flex;
   gap: 1vw;
   align-items: center;
-  font-size: small;
 }
 
 .filter {

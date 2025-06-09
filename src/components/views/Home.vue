@@ -19,5 +19,6 @@
   padding: 15vw;
   gap: 2vh;
   text-align: justify;
+  height: 100vh;
 }
 </style>

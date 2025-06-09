@@ -6,7 +6,6 @@
     :value="route.path"
     @update:value="handleSelect"
     :theme-overrides="menuTheme"
-    :expand-icon="expandIcon"
   />
 </template>
 

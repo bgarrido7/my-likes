@@ -56,9 +56,11 @@
           <n-icon v-else :component="SortAscendingNumbers" />
         </n-button>
 
-        <n-button circle>
-          <n-icon :component="Filter" />
-        </n-button>
+        <n-dropdown trigger="click" :options="genres" @select="changeFilter">
+          <n-button circle>
+            <n-icon :component="Filter" />
+          </n-button>
+        </n-dropdown>
       </div>
     </div>
 
@@ -100,13 +102,14 @@
 </template>
 
 <script setup>
-import { ref, onMounted, computed } from "vue";
+import { h, ref, onMounted, computed } from "vue";
 import {
   NCard,
   NRadioButton,
   NRadioGroup,
   NIcon,
   NSelect,
+  NDropdown,
   NButton,
   NCollapse,
   NCollapseItem,
@@ -153,6 +156,7 @@ const genres = computed(() => {
       ? "Meaning of Life"
       : genre.charAt(0).toUpperCase() + genre.slice(1),
     value: genre,
+    key: genre,
   }));
 });
 
@@ -222,6 +226,12 @@ function triggerNameSorting() {
 function triggerYearSorting() {
   sortOrder.value = sortOrder.value === "asc" ? "desc" : "asc";
   selectedSorting.value = "year";
+}
+
+function changeFilter(label) {
+  if (selectedFilter.value.includes(label)) {
+    selectedFilter.value = selectedFilter.value.filter((g) => g !== label);
+  } else selectedFilter.value.push(label);
 }
 </script>
 

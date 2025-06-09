@@ -31,7 +31,7 @@ const handleResize = () => {
         @collapse="collapsed = true"
         @expand="collapsed = false"
       >
-        <Navbar :collapsed="collapsed" />
+        <Navbar :collapsed="collapsed" @update-collapse="collapsed = $event" />
       </n-layout-sider>
 
       <n-layout>
@@ -70,6 +70,6 @@ const handleResize = () => {
   right: -15px !important;
 }
 ::v-deep(.n-layout-toggle-button) {
-  top: 15px !important;
+  top: 7.5vh !important;
 }
 </style>

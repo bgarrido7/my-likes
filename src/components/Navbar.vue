@@ -19,6 +19,8 @@ defineProps({
   collapsed: Boolean,
 });
 
+const emit = defineEmits();
+
 const selectedKey = ref("");
 const router = useRouter();
 const route = useRoute();
@@ -38,6 +40,7 @@ function handleSelect(key) {
   selectedKey.value = key;
   if (key !== route.path) {
     router.push(key);
+    emit("update-collapse", true);
   }
 }
 

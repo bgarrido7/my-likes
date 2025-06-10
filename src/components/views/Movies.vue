@@ -34,7 +34,7 @@
         />
       </div>
     </div>
-    <div v-else class="header">
+    <div v-else class="header" style="padding: 1vh 5vw">
       <router-link to="movies/sagas">
         <n-button tertiary round type="success"> Check Movie Sagas </n-button>
       </router-link>
@@ -57,7 +57,7 @@
         </n-button>
 
         <n-dropdown trigger="click" :options="genres" @select="changeFilter">
-          <n-button circle>
+          <n-button>
             <n-icon :component="Filter" />
           </n-button>
         </n-dropdown>
@@ -102,7 +102,7 @@
 </template>
 
 <script setup>
-import { h, ref, onMounted, computed } from "vue";
+import { ref, onMounted, computed } from "vue";
 import {
   NCard,
   NRadioButton,
@@ -247,6 +247,10 @@ function changeFilter(label) {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+::v-deep(.n-button) {
+  padding: 10px;
 }
 
 .content {

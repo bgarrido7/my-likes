@@ -88,6 +88,11 @@ function sortByYear(movies) {
   white-space: wrap;
 }
 
+@media (max-width: 800px) {
+  .n-card {
+    min-width: 150px;
+  }
+}
 .footer {
   display: flex;
   align-items: end;

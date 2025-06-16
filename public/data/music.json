@@ -388,6 +388,46 @@
       "category": "rock",
       "year": 2009
     },
+    {
+      "name": "Cinco Dias e Meio",
+      "cover": "https://i.discogs.com/tPG2TiPcsOvYTf1_yOISvE2sSlrU6iOQAIuUPH-sKUc/rs:fit/g:sm/q:90/h:585/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzU2/NTAtMTQwMTIzMDM3/OC0xMjg0LmpwZWc.jpeg",
+      "url": "https://open.spotify.com/album/5qX76Gaun7weiIPQQwpkat",
+      "artist": "Miguel Araujo",
+      "category": "indie",
+      "year": 2012
+    },
+    {
+      "name": "Virou!",
+      "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/94/4e/16/1461908/1507-1/tsp20180319190507/Virou-Combate-EP-2CD.jpg",
+      "url": "https://open.spotify.com/album/7d2w7uDZJZ9IdJ7KQ0CNa5",
+      "artist": "Diabo na Cruz",
+      "category": "indie",
+      "year": 2009
+    },
+    {
+      "name": "Crónicas Da Cidade Grande",
+      "cover": "https://static.fnac-static.com/multimedia/Images/PT/NR/1b/c2/0b/770587/1507-1/tsp20140327120151/Cronicas-da-Cidade-Grande.jpg",
+      "url": "https://open.spotify.com/album/1Dfg1U2PzkJsnc6g5N6uFS",
+      "artist": "Miguel Araujo",
+      "category": "indie",
+      "year": 2014
+    },
+    {
+      "name": "Gazela",
+      "cover": "https://f4.bcbits.com/img/a0725562196_5.jpg",
+      "url": "https://open.spotify.com/album/7gVHSmNv3lInCYHr9unlHU",
+      "artist": "Capitao Fausto",
+      "category": "indie",
+      "year": 2011
+    },
+    {
+      "name": "Contra",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/8/8e/Cover_contra.jpg",
+      "url": "https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU",
+      "artist": "Vampire Weekend",
+      "category": "indie",
+      "year": 2010
+    },
 
     {
       "name": "Whiplash",

@@ -8,6 +8,20 @@
       "platform": "PC"
     },
     {
+      "name": "Viewfinder",
+      "cover": "https://images.squarespace-cdn.com/content/v1/6380bc1a674a387e9c4d1f95/125e122f-2a52-43ee-93bb-e03911ed4d81/Viewfinder_Keyart_Steam_Capsule-Vertical.png",
+      "url": "https://www.gamespot.com/games/viewfinder/",
+      "year": 2023,
+      "platform": "PC"
+    },
+    {
+      "name": "Silt",
+      "cover": "https://cdn.mobygames.com/covers/10557471-silt-xbox-one-front-cover.jpg",
+      "url": "https://www.gamespot.com/games/silt/",
+      "year": 2022,
+      "platform": "PC"
+    },
+    {
       "name": "Death's Door",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzBsi8gnMYQqkNF6GCVZ-0HkK8TzxaJJ_WAQ&s",
       "url": "https://www.gamespot.com/games/deaths-door/",
@@ -321,13 +335,6 @@
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7xQIOrcd0kLIWV7MiN76nyd9zxngeJfMmA&s",
       "url": "https://www.gamespot.com/games/god-of-war/",
       "year": 2018,
-      "platform": "PlayStation"
-    },
-    {
-      "name": "God of War: Ragnarok",
-      "cover": "https://upload.wikimedia.org/wikipedia/pt/a/a5/God_of_War_Ragnar%C3%B6k_capa.jpg",
-      "url": "https://www.gamespot.com/games/god-of-war-ragnarok/",
-      "year": 2022,
       "platform": "PlayStation"
     },
     {

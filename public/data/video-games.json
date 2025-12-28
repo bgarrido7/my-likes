@@ -9,6 +9,13 @@
     },
     {
       "name": "Viewfinder",
+      "cover": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1801/PMjvy3y1p6gkPsBwCUuaFnfv.jpg",
+      "url": "https://www.gamespot.com/games/gris/",
+      "year": 2018,
+      "platform": "Switch"
+    },
+     {
+      "name": "Gris",
       "cover": "https://images.squarespace-cdn.com/content/v1/6380bc1a674a387e9c4d1f95/125e122f-2a52-43ee-93bb-e03911ed4d81/Viewfinder_Keyart_Steam_Capsule-Vertical.png",
       "url": "https://www.gamespot.com/games/viewfinder/",
       "year": 2023,

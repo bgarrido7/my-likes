@@ -188,6 +188,22 @@
       "year": 2021
     },
     {
+      "name": "Cuz I Love You",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/5/50/Cuz_Lizzo.png",
+      "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312",
+      "year": 2019,
+      "artist": "Lizzo",
+      "category": "pop"
+    },
+    {
+      "name": "West End Girl",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIKgaAGlU_6N0zt9sgoJgkkHc8WWfXxk44Ug&s",
+      "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn",
+      "year": 2025,
+      "artist": "Lily Allen",
+      "category": "pop"
+    },
+    {
       "name": "Future Nostalgia",
       "cover": "https://upload.wikimedia.org/wikipedia/pt/c/c7/Dua_Lipa_-_Future_Nostalgia.png ",
       "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9",

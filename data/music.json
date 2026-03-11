@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "Guess Who",
-      "cover": "https://lv2-cdn.azureedge.net/itzy/92e81f5e06a44c96b8777382fa83b653-Guesswho-onlinecover-fans.jpg",
+      "cover": "https://www.nme.com/wp-content/uploads/2021/05/itzy-guess-who-cover-art@800x800.jpg",
       "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G",
       "year": 2021,
       "artist": "ITZY",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Eyes wide open",
-      "cover": "https://lv2-cdn.azureedge.net/twice/9bafe5921dd74c659fc9c0ec89be5f30-087570ec6c704f11a18c23f4177b4a7a-TWICE%20EYES%20WIDE%20OPEN_ONLINECOVER.jpg",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/9/90/Twice_-_Eyes_Wide_Open.png",
       "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH",
       "year": 2020,
       "artist": "Twice",
@@ -88,7 +88,6 @@
       "category": "pop",
       "year": 2017
     },
-
     {
       "name": "+",
       "cover": "https://upload.wikimedia.org/wikipedia/en/3/3f/Ed_Sheeran_%2B_cover.png",
@@ -97,7 +96,6 @@
       "category": "indie",
       "year": 2011
     },
-
     {
       "name": "x",
       "cover": "https://upload.wikimedia.org/wikipedia/pt/a/ad/X_cover.png",
@@ -106,7 +104,6 @@
       "category": "pop",
       "year": 2014
     },
-
     {
       "name": "Short n' Sweet",
       "cover": "https://upload.wikimedia.org/wikipedia/pt/0/07/Short_n%27_Sweet.png",
@@ -186,6 +183,22 @@
       "artist": "Olivia Rodrigo",
       "category": "pop",
       "year": 2021
+    },
+    {
+      "name": "Cuz I Love You",
+      "cover": "https://upload.wikimedia.org/wikipedia/pt/5/50/Cuz_Lizzo.png",
+      "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312",
+      "year": 2019,
+      "artist": "Lizzo",
+      "category": "pop"
+    },
+    {
+      "name": "West End Girl",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIKgaAGlU_6N0zt9sgoJgkkHc8WWfXxk44Ug&s",
+      "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn",
+      "year": 2025,
+      "artist": "Lily Allen",
+      "category": "pop"
     },
     {
       "name": "Future Nostalgia",
@@ -324,6 +337,22 @@
       "year": 2023
     },
     {
+      "name": "Born Pink",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/Born_Pink_Digital.jpeg",
+      "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P",
+      "artist": "Blackpink",
+      "category": "kpop",
+      "year": 2022
+    },
+    {
+      "name": "The Album",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
+      "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N",
+      "artist": "Blackpink",
+      "category": "kpop",
+      "year": 2020
+    },
+    {
       "name": "New Jeans",
       "cover": "https://cdn-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/0x1900-000000-80-0-0.jpg",
       "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV",
@@ -363,7 +392,6 @@
       "category": "kpop",
       "year": 2021
     },
-
     {
       "name": "Planet Her",
       "cover": "https://upload.wikimedia.org/wikipedia/en/6/61/Doja_Cat_-_Planet_Her.png",
@@ -452,7 +480,6 @@
       "category": "indie",
       "year": 2010
     },
-
     {
       "name": "Whiplash",
       "cover": "https://i.scdn.co/image/ab67616d0000b273ed2e119406b1bb9fe76943f0",

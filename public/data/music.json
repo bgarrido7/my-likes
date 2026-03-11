@@ -2,7 +2,7 @@
   "content": [
     {
       "name": "Guess Who",
-      "cover": "https://lv2-cdn.azureedge.net/itzy/92e81f5e06a44c96b8777382fa83b653-Guesswho-onlinecover-fans.jpg",
+      "cover": "https://www.nme.com/wp-content/uploads/2021/05/itzy-guess-who-cover-art@800x800.jpg",
       "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G",
       "year": 2021,
       "artist": "ITZY",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Eyes wide open",
-      "cover": "https://lv2-cdn.azureedge.net/twice/9bafe5921dd74c659fc9c0ec89be5f30-087570ec6c704f11a18c23f4177b4a7a-TWICE%20EYES%20WIDE%20OPEN_ONLINECOVER.jpg",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/9/90/Twice_-_Eyes_Wide_Open.png",
       "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH",
       "year": 2020,
       "artist": "Twice",
@@ -338,7 +338,7 @@
     },
     {
       "name": "Born Pink",
-      "cover": "https://imgs.search.brave.com/UydJgoIwKnVl0iYi6ksbCHn9SxAtUrKY5RTCURk6jyQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/ZS9lNy9Cb3JuX1Bp/bmtfRGlnaXRhbC5q/cGVnLzI1MHB4LUJv/cm5fUGlua19EaWdp/dGFsLmpwZWc",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/e7/Born_Pink_Digital.jpeg",
       "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P",
       "artist": "Blackpink",
       "category": "kpop",
@@ -346,7 +346,7 @@
     },
     {
       "name": "The Album",
-      "cover": "https://imgs.search.brave.com/WDMfPPfdIn4OJ8Qucntr6Wzb65dUL6qbQC2ZewkXKRE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzA2LzVm/L2Q1LzA2NWZkNWMz/NzM0OWFhZjU0ZGIy/YWI5YmNkYzU0Yjgy/LmpwZw",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/f/f2/BLACKPINK-_The_Album.png",
       "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N",
       "artist": "Blackpink",
       "category": "kpop",
